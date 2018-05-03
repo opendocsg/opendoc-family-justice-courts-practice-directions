@@ -2,12 +2,10 @@
 
 Download the appendices here:
 
-[Appendix A](assets/Appendices/Appendix_A.pdf)
+<a href="assets/Appendices/Appendix_A.pdf" target="_blank">Appendix A</a>
 
-[Appendix B](assets/Appendices/Appendix_B.pdf)
+<a href="assets/Appendices/Appendix_B.pdf" target="_blank">Appendix B</a>
 
-[Appendix C](assets/Appendices/Appendix_C.pdf)
+<a href="assets/Appendices/Appendix_C.pdf" target="_blank">Appendix C</a>
 
-[Appendix D](assets/Appendices/Appendix_D.pdf)
-
-<a href="assets/Appendices/Appendix_A.pdf" download="download">Appendix A</a>
+<a href="assets/Appendices/Appendix_D.pdf" target="_blank">Appendix D</a>

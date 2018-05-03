@@ -31,22 +31,11 @@ may expect that each case commenced in the Family Justice Courts may be placed i
 different tracks bearing in mind the main issues of the case. Possible tracks assigned
 are;
 
-```
-(a) Child track in which the main issues relate to custody, care and control and
-access
-```
-```
-(b) International track in which the main issues may involve abduction of a child,
-relocation issues and issues of appropriate jurisdiction
-```
-```
-(c) High conflict track in which the main issues are financial and the ascertainment
-of value and extent of the matrimonial assets amenable for division
-```
+: (a) Child track in which the main issues relate to custody, care and control and access
+: (b) International track in which the main issues may involve abduction of a child, relocation issues and issues of appropriate jurisdiction
+: (c) High conflict track in which the main issues are financial and the ascertainment of value and extent of the matrimonial assets amenable for division
+: (d) Violence track in which the issue is one of physical and mental abuse.
 
-```
-(d) Violence track in which the issue is one of physical and mental abuse.
-```
 (6) A case may be assigned to one or more tracks.
 
 (7) Each case will be allocated to a Judge (assigned Judge) who is then responsible for
@@ -58,24 +47,12 @@ alternative dispute resolution.
 
 (9) The parties and the parties’ lawyers may expect the assigned Judge to have regard to:
 
-```
-(a) identifying and narrowing the issues in dispute as early as possible;
-```
-```
-(b) ascertaining the degree of difficulty or complexity of the issues determined to
-be in dispute;
-```
-```
-(c) setting a hearing date early;
-```
-```
-(d) minimising unnecessary interlocutory steps by permitting only interlocutory
-steps that are directed to identifying, narrowing or resolving the issues really in
-dispute between the parties; and
-```
-```
-(e) exploring options for alternative dispute resolution as early as practicable.
-```
+: (a) identifying and narrowing the issues in dispute as early as possible;
+: (b) ascertaining the degree of difficulty or complexity of the issues determined to be in dispute;
+: (c) setting a hearing date early;
+: (d) minimising unnecessary interlocutory steps by permitting only interlocutory steps that are directed to identifying, narrowing or resolving the issues really in dispute between the parties; and
+: (e) exploring options for alternative dispute resolution as early as practicable.
+
 (10) The parties and their lawyers are obliged to cooperate with, and assist, the Court in
 achieving the overarching purpose and, in particular, in identifying the real issues in
 dispute as early as possible and in dealing with those issues efficiently.
@@ -97,46 +74,18 @@ urgency to be placed before the assigned Judge
 (14) If a claim is made for discovery/interrogatories, parties and lawyers should expect that,
 with a view to eliminating or reducing the burden of discovery, the assigned Judge:
 
-```
-(a) will not order discovery as a matter of course, even where the parties consent,
-unless discovery is necessary for the determination of issues in the proceeding;
-```
-```
-(b) will fashion any order for discovery to suit the issues in a particular case; and
-```
-```
-(c) will expect the following questions to be answered:
-```
-```
-(i) Is discovery necessary to facilitate the just resolution of the proceeding
-as quickly, inexpensively and efficiently as possible?
-```
-```
-(ii) If discovery is necessary, for what purpose?
-```
-```
-(iii) Can those purposes be achieved —
-```
-```
-(A) by a means less expensive than discovery?
-```
-```
-(B) by discovery only in relation to particular issues?
-```
-```
-(iv) Where there are many documents, should discovery be given in a non-
-standard form, e.g. initially on a limited basis, with liberty to apply later
-for particular discovery or discovery on a broader basis?
-```
-```
-(v) Whether discovery should be given by the use of categories or by
-electronic format or in accordance with a discovery plan?
-```
-```
-(vi) Should discovery be given in the list of documents by categories and by
-a general description rather than by identification of individual
-documents?
-```
+: (a) will not order discovery as a matter of course, even where the parties consent, unless discovery is necessary for the determination of issues in the proceeding;
+: (b) will fashion any order for discovery to suit the issues in a particular case; and
+: (c) will expect the following questions to be answered:
+: \    (i) Is discovery necessary to facilitate the just resolution of the proceeding as quickly, inexpensively and efficiently as possible?
+: \    (ii) If discovery is necessary, for what purpose?
+: \    (iii) Can those purposes be achieved —
+: (A) by a means less expensive than discovery?
+: (B) by discovery only in relation to particular issues?
+: (iv) Where there are many documents, should discovery be given in a non- standard form, e.g. initially on a limited basis, with liberty to apply later for particular discovery or discovery on a broader basis?
+: (v) Whether discovery should be given by the use of categories or by electronic format or in accordance with a discovery plan?
+: (vi) Should discovery be given in the list of documents by categories and by a general description rather than by identification of individual documents?
+
 (15) In determining whether to make any order for discovery, the Court will have regard to
 the issues in the case and the order in which they are likely to be resolved, the resources
 and circumstances of the parties, the likely benefit of discovery and the likely cost of
@@ -167,19 +116,16 @@ by the assigned Judge.
 
 ```
 Explanatory Note
-```
-```
+
 Singapore society has become increasingly international. In cases involving children, a
 further complication arises where parents and children reside in more than one jurisdiction In
 such cases, direct judicial communications may be beneficial. This Practice Direction is issued
 to facilitate such communications..
-```
-```
+
 Direct judicial communications refer to communications that take place between sitting judges
 of different jurisdictions when there are concurrent related proceedings involving the same
 parties.
-```
-```
+
 It has now been recognised and firmly established in some foreign jurisdictions such as
 England & Wales, Australia, New Zealand, Canada and United States of America that direct
 judicial communications are key mechanisms to assist practitioners and judges in resolving
@@ -190,6 +136,7 @@ of the child. Direct judicial communication does not aim to inhibit parties’ r
 expert evidence on the foreign law, but should be seen as another tool to be made available
 for parties involved in multiple proceedings in different jurisdictions.
 ```
+
 **_Introduction_**
 
 (1) This Practice Direction is issued to assist judges and practitioners dealing with family
@@ -207,39 +154,17 @@ the Annex to this Paragraph (please see below).
 (3) Matters which may be the subject of direct judicial communications include, for
 example:
 
-```
-(a) scheduling the case in the foreign jurisdiction:
-```
-```
-(i) to make interim orders, eg, support, measure of protection;
-```
-```
-(ii) to ensure the availability of expedited hearings;
-```
-```
-(b) establishing whether protective measures are available for the child or other
-parent in the jurisdiction to which the child would be returned in the case of a
-child abduction case and, in an appropriate case, ensuring the available
-protective measures are in place in that jurisdiction before a return is ordered;
-```
-```
-(c) ascertaining whether the foreign court can accept and enforce undertakings
-offered by the parties in the initiating jurisdiction;
-```
-```
-(d) ascertaining whether the foreign court can issue a mirror order (ie, same order
-in both jurisdictions);
-```
-```
-(e) confirming whether orders were made by the foreign court;
-```
-```
-(f) verifying whether findings about domestic violence were made by the foreign
-court;
-```
-```
-(g) verifying whether a transfer of jurisdiction is appropriate.
-```
+
+: (a) scheduling the case in the foreign jurisdiction:
+: : (i) to make interim orders, eg, support, measure of protection;
+: : (ii) to ensure the availability of expedited hearings;
+: (b) establishing whether protective measures are available for the child or other parent in the jurisdiction to which the child would be returned in the case of a child abduction case and, in an appropriate case, ensuring the available protective measures are in place in that jurisdiction before a return is ordered;
+: (c) ascertaining whether the foreign court can accept and enforce undertakings offered by the parties in the initiating jurisdiction;
+: (d) ascertaining whether the foreign court can issue a mirror order (ie, same order in both jurisdictions);
+: (e) confirming whether orders were made by the foreign court;
+: (f) verifying whether findings about domestic violence were made by the foreign court;
+: (g) verifying whether a transfer of jurisdiction is appropriate.
+
 (4) “Central Authority” in this Practice Direction is the Authority appointed under section
 5 of the International Child Abduction Act (Cap 143C).
 
@@ -275,38 +200,18 @@ judicial communication through the Liaison Judges.
 (12) Before deciding whether to engage in direct judicial communications, the judge should
 consider:
 
-```
-(a) whether there is a question of foreign law or procedure to clarify with a judge
-in the foreign jurisdiction,
-```
-```
-(b) whether the question can be answered or dealt with by the Central Authority in
-Singapore or the Central Authority in the foreign jurisdiction, and if so, the
-judge may consider having the Central Authority address the issue or obtain the
-information, and
-```
-```
-(c) whether the question can be answered or dealt with by any judge in the foreign
-jurisdiction (other than the judge hearing the proceeding).
-```
+
+: (a) whether there is a question of foreign law or procedure to clarify with a judge in the foreign jurisdiction,
+: (b) whether the question can be answered or dealt with by the Central Authority in Singapore or the Central Authority in the foreign jurisdiction, and if so, the judge may consider having the Central Authority address the issue or obtain the information, and
+: (c) whether the question can be answered or dealt with by any judge in the foreign jurisdiction (other than the judge hearing the proceeding).
+
 (13) The following are commonly accepted procedural safeguards.
 
-```
-(a) Except in special circumstances, parties are to be notified of the nature of the
-proposed communication;
-```
-```
-(b) A record is to be kept of communications and it is to be made available to the
-parties;
-```
-```
-(c) Any conclusions reached between the judges should be in writing and made
-available to parties;
-```
-```
-(d) Parties or their representatives should have the opportunity to be present in
-certain cases, for example via conference call facilities.
-```
+: (a) Except in special circumstances, parties are to be notified of the nature of the proposed communication;
+: (b) A record is to be kept of communications and it is to be made available to the parties;
+: (c) Any conclusions reached between the judges should be in writing and made available to parties;
+: (d) Parties or their representatives should have the opportunity to be present in certain cases, for example via conference call facilities.
+
 (14) The above commonly accepted procedural safeguards should be adopted subject to
 Singapore’s legislation and rules.
 
@@ -339,29 +244,14 @@ should normally be in writing sent to the email address in the Annex below, subj
 provisions set out in this Practice Direction in relation to written communications, and
 should in particular identify:
 
-```
-(a) the name and contact details of the initiating judge;
-```
-```
-(b) the nature of the case (with due regard to confidentiality concerns);
-```
-```
-(c) the issue(s) on which communication is sought;
-```
-```
-(d) whether the parties before the judge initiating the communication have
-consented to judicial communication;
-```
-```
-(e) when the communication may occur (with due regard to time differences);
-```
-```
-(f) any specific questions which the judge initiating the communication would like
-answered;
-```
-```
-(g) any other pertinent matters.
-```
+: (a) the name and contact details of the initiating judge;
+: (b) the nature of the case (with due regard to confidentiality concerns);
+: (c) the issue(s) on which communication is sought;
+: (d) whether the parties before the judge initiating the communication have consented to judicial communication;
+: (e) when the communication may occur (with due regard to time differences);
+: (f) any specific questions which the judge initiating the communication would like answered;
+: (g) any other pertinent matters.
+
 (21) The time and place for communications between the courts should be to the satisfaction
 of both courts.
 
@@ -437,16 +327,9 @@ to be present.
 
 (40) Subject to the agreement of both judges involved in the oral communications-
 
-```
-(a) such oral communications may be conducted in the presence of the parties or
-their representatives by way of video conference or by conference telephone
-call;
-```
-```
-(b) the parties or their representatives may be permitted to speak during the
-communication, but if one party or representative wishes to speak, then the other
-party or representative should be permitted a chance to answer.
-```
+: (a) such oral communications may be conducted in the presence of the parties or their representatives by way of video conference or by conference telephone call;
+: (b) the parties or their representatives may be permitted to speak during the communication, but if one party or representative wishes to speak, then the other party or representative should be permitted a chance to answer.
+
 **_Post Communications_**
 
 (41) A written record of the communications should be sent to the parties as soon as
