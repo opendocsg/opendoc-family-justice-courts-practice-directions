@@ -429,21 +429,22 @@ renderToc siteHierarchy
 main = document.getElementsByTagName("main")[0]
 menuToggle = document.getElementById("menu-toggle")
 document.body.addEventListener("click", (event) ->
-  # Check if its within an anchor tag any any point
-  # Traverse up its click tree and see if it affects any of them
-  # If it does not find anything it just terminates as a null
-  anchor = event.target
-  while (anchor? and anchor.tagName isnt "A")
-    anchor = anchor.parentNode
-  if anchor? and anchor.host is window.location.host
-    event.preventDefault()
-    event.stopPropagation()
-    # Need to hide the menu on mobile
-    # On desktop this conveniently leaves it open which is intended behavior
-    menuToggle.checked = false
-    history.pushState(null, null, anchor.href)
-    if anchor.hash.length > 0 then window.location = anchor.hash
-    else window.location = "#"
+  if event.target.href.split('.').pop() is "html"   
+    # Check if its within an anchor tag any any point
+    # Traverse up its click tree and see if it affects any of them
+    # If it does not find anything it just terminates as a null
+    anchor = event.target
+    while (anchor? and anchor.tagName isnt "A")
+      anchor = anchor.parentNode
+    if anchor? and anchor.host is window.location.host
+      event.preventDefault()
+      event.stopPropagation()
+      # Need to hide the menu on mobile
+      # On desktop this conveniently leaves it open which is intended behavior
+      menuToggle.checked = false
+      history.pushState(null, null, anchor.href)
+      if anchor.hash.length > 0 then window.location = anchor.hash
+      else window.location = "#"
 , true)
 # Map the popstate event
 window.addEventListener "popstate", (event) ->
