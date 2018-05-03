@@ -100,6 +100,10 @@ else
       {{ site_page.name | jsonify }}
     {% endfor %}
   ]
+  # Move index page to the first item in the list
+  if pageOrder.indexOf("index.md") > -1
+    pageOrder.splice(pageOrder.indexOf("index.md"), 1)
+    pageOrder.splice(0, 0, "index.md")
   pages.sort (a, b) -> return if pageOrder.indexOf(a.name) < pageOrder.indexOf(b.name) then -1 else 1
 
 
