@@ -4,7 +4,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-coffeescript
 elastic_search:
-  index: templateindex
+  index: fjcpd
   doctype: bare
 environment: DEV
 google_analytics: UA-113717369-4
