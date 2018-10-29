@@ -77,14 +77,22 @@ with a view to eliminating or reducing the burden of discovery, the assigned Jud
 : (a) will not order discovery as a matter of course, even where the parties consent, unless discovery is necessary for the determination of issues in the proceeding;
 : (b) will fashion any order for discovery to suit the issues in a particular case; and
 : (c) will expect the following questions to be answered:
-: \    (i) Is discovery necessary to facilitate the just resolution of the proceeding as quickly, inexpensively and efficiently as possible?
-: \    (ii) If discovery is necessary, for what purpose?
-: \    (iii) Can those purposes be achieved —
-: (A) by a means less expensive than discovery?
-: (B) by discovery only in relation to particular issues?
-: (iv) Where there are many documents, should discovery be given in a non- standard form, e.g. initially on a limited basis, with liberty to apply later for particular discovery or discovery on a broader basis?
-: (v) Whether discovery should be given by the use of categories or by electronic format or in accordance with a discovery plan?
-: (vi) Should discovery be given in the list of documents by categories and by a general description rather than by identification of individual documents?
+
+>> (i) Is discovery necessary to facilitate the just resolution of the proceeding as quickly, inexpensively and efficiently as possible?
+
+>> (ii) If discovery is necessary, for what purpose?
+
+>> (iii) Can those purposes be achieved —
+
+>>> (A) by a means less expensive than discovery?
+
+>>> (B) by discovery only in relation to particular issues?
+
+>> (iv) Where there are many documents, should discovery be given in a non- standard form, e.g. initially on a limited basis, with liberty to apply later for particular discovery or discovery on a broader basis?
+
+>> (v) Whether discovery should be given by the use of categories or by electronic format or in accordance with a discovery plan?
+
+>> (vi) Should discovery be given in the list of documents by categories and by a general description rather than by identification of individual documents?
 
 (15) In determining whether to make any order for discovery, the Court will have regard to
 the issues in the case and the order in which they are likely to be resolved, the resources
@@ -154,16 +162,15 @@ the Annex to this Paragraph (please see below).
 (3) Matters which may be the subject of direct judicial communications include, for
 example:
 
-
-: (a) scheduling the case in the foreign jurisdiction:
-: : (i) to make interim orders, eg, support, measure of protection;
-: : (ii) to ensure the availability of expedited hearings;
-: (b) establishing whether protective measures are available for the child or other parent in the jurisdiction to which the child would be returned in the case of a child abduction case and, in an appropriate case, ensuring the available protective measures are in place in that jurisdiction before a return is ordered;
-: (c) ascertaining whether the foreign court can accept and enforce undertakings offered by the parties in the initiating jurisdiction;
-: (d) ascertaining whether the foreign court can issue a mirror order (ie, same order in both jurisdictions);
-: (e) confirming whether orders were made by the foreign court;
-: (f) verifying whether findings about domestic violence were made by the foreign court;
-: (g) verifying whether a transfer of jurisdiction is appropriate.
+> (a) scheduling the case in the foreign jurisdiction:
+>> (i) to make interim orders, eg, support, measure of protection;
+>> (ii) to ensure the availability of expedited hearings;
+> (b) establishing whether protective measures are available for the child or other parent in the jurisdiction to which the child would be returned in the case of a child abduction case and, in an appropriate case, ensuring the available protective measures are in place in that jurisdiction before a return is ordered;
+> (c) ascertaining whether the foreign court can accept and enforce undertakings offered by the parties in the initiating jurisdiction;
+> (d) ascertaining whether the foreign court can issue a mirror order (ie, same order in both jurisdictions);
+> (e) confirming whether orders were made by the foreign court;
+> (f) verifying whether findings about domestic violence were made by the foreign court;
+> (g) verifying whether a transfer of jurisdiction is appropriate.
 
 (4) “Central Authority” in this Practice Direction is the Authority appointed under section
 5 of the International Child Abduction Act (Cap 143C).
@@ -200,9 +207,10 @@ judicial communication through the Liaison Judges.
 (12) Before deciding whether to engage in direct judicial communications, the judge should
 consider:
 
-
 : (a) whether there is a question of foreign law or procedure to clarify with a judge in the foreign jurisdiction,
+
 : (b) whether the question can be answered or dealt with by the Central Authority in Singapore or the Central Authority in the foreign jurisdiction, and if so, the judge may consider having the Central Authority address the issue or obtain the information, and
+
 : (c) whether the question can be answered or dealt with by any judge in the foreign jurisdiction (other than the judge hearing the proceeding).
 
 (13) The following are commonly accepted procedural safeguards.
@@ -344,28 +352,20 @@ preserved for the record.
 informing his or her Central Authority that a judicial communication will take place.
 
 
-```
-Annex
-```
-```
-Liaison Judge(s)
-```
-The Presiding Judge
 
-Family Justice Courts
+### Annex
 
-3 Havelock Square
+**Liaison Judge(s)**
 
+The Presiding Judge  
+Family Justice Courts  
+3 Havelock Square  
 Singapore 059725
 
-Foo Tuat Yien
-
-Judicial Commissioner
-
-Family Justice Courts
-
-3 Havelock Square
-
+Foo Tuat Yien  
+Judicial Commissioner  
+Family Justice Courts  
+3 Havelock Square  
 Singapore 059725
 
-Email contact: FJCourts_Family_Registry@fjcourts.gov.sg
+Email contact: [FJCourts_Family_Registry@fjcourts.gov.sg](mailto:FJCourts_Family_Registry@fjcourts.gov.sg)

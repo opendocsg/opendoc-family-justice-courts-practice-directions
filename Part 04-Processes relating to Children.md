@@ -19,23 +19,19 @@ the Registrar confirming the appointment, providing the contact details of the p
 and a date of a case conference. The following documents may be enclosed with the
 letter:
 
-```
-(a) an Information Sheet on Child Representative, which the Child Representative
+: (a) an Information Sheet on Child Representative, which the Child Representative
 is to give to the parties at the earliest possible opportunity together with any
 further explanation which the Child Representative deems fit, in compliance
 with Family Justice Rules and paragraph (7) below;
-```
-```
-(b) a Child Representative Practice Note, which the Child Representative is to read
+
+: (b) a Child Representative Practice Note, which the Child Representative is to read
 carefully and adhere to;
-```
-```
-(c) a Child Representative Checklist, which will be used at the case conference; and
-```
-```
-(d) a Questionnaire to the parties, which the Child Representative might use to
+
+: (c) a Child Representative Checklist, which will be used at the case conference; and
+
+: (d) a Questionnaire to the parties, which the Child Representative might use to
 obtain information from the parties.
-```
+
 (5) Within 7 days from the receipt of the confirmation of appointment as described in
 paragraph (4) above, the Child Representative shall serve file and serve a Notice of
 Address for Service on Child Representative (Form 187 of Appendix A to these Practice
@@ -51,17 +47,15 @@ relevant to the interest of the child.
 Representative should act expeditiously in fulfilment of his/her duties as set out in rule
 31 of the Family Justice Rules, including the following:
 
-```
-(a) providing the parties and/or solicitors with information about the role of the
+: (a) providing the parties and/or solicitors with information about the role of the
 Child Representative and informing them of the requirements in respect of their
 communications with the Child Representative and any contributions towards
 the costs of the Child Representative which the Court may have ordered; and
-```
-```
-(b) developing and implementing a plan for engaging the child and involving the
+
+: (b) developing and implementing a plan for engaging the child and involving the
 child in the decision making process in consultation with any other professional
 who may be working with the child.
-```
+
 (8) In the event that the Child Representative wishes the Court to make any orders which
 the Child Representative is of the view necessary for the fulfilment of his/her duties, it
 shall be done by way of an inter-partes Summons under the proceedings.
@@ -113,20 +107,15 @@ children have been made.
 (2) To enable the Court to discharge its duty under section 123, counsel should, at the
 hearing of the proceedings, inform the Court —
 
-```
-(a) whether there are relevant children to whom the section applies;
-```
-```
-(b) whether arrangements have or have not been made for the welfare of the
+: (a) whether there are relevant children to whom the section applies;
+
+: (b) whether arrangements have or have not been made for the welfare of the
 children and that if arrangements have been made, whether they are satisfactory
 or are the best that can be devised in the circumstances;
-```
-```
-(c) whether or not it is impracticable for the party or parties appearing before the
+
+: (c) whether or not it is impracticable for the party or parties appearing before the
 Court to make such agreements; and
-```
-```
-(d) whether or not the circumstances make it desirable that the interim judgment
+
+: (d) whether or not the circumstances make it desirable that the interim judgment
 should be made final or as the case may be, that the judgment of judicial
 separation should be granted without delay.
-```

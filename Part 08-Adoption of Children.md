@@ -14,85 +14,66 @@ Practice Directions.
 (3) The applicants shall file the following documents, together with the originating
 summons:
 
-```
-(a) the Statement in Form 38 of Appendix A to these Practice Directions, through
+: (a) the Statement in Form 38 of Appendix A to these Practice Directions, through
 the Electronic Filing Service by entering the relevant information in the
 appropriate electronic template (for which purpose the applicants must ensure
 that the particulars contained in the infant’s birth certificate correspond with
 those in the Statement, in particular, paragraph 8(c) of the Statement);
-```
-```
-(b) an affidavit in support of the originating summons; and
-```
-```
-(c) the consent in the prescribed form of every person or body who is a parent or
+
+: (b) an affidavit in support of the originating summons; and
+
+: (c) the consent in the prescribed form of every person or body who is a parent or
 guardian of the infant, or who has actual custody of the infant, or is liable to
 contribute to the support of the infant (which consent is to be filed separately
 from the affidavit in support of the originating summons).
-```
+
 **_Contents of the affidavit in support of the originating summons_**
 
 (4) The affidavit in support of the originating summons must —
 
-```
-(a) contain the following information (where applicable):
-```
-```
-(i) an averment by the applicant(s) as to the truth of the contents of the
+> (a) contain the following information (where applicable):
+
+>> (i) an averment by the applicant(s) as to the truth of the contents of the
 Statement;
-```
-```
-(ii) the grounds in support of the prayer to dispense with the consent and /
+
+>> (ii) the grounds in support of the prayer to dispense with the consent and /
 or service of documents on the natural parent(s) and / or grandparent(s)
 (if any) of the infant; and
-```
-```
-(b) exhibit the following documents:
-```
-```
-(i) a clear copy each of —
-```
 
-```
-(A) the birth certificate or other means of identification of the infant;
-```
-```
-(B) the identity card or other means of identification of the
+> (b) exhibit the following documents:
+
+>> (i) a clear copy each of —
+
+>>> (A) the birth certificate or other means of identification of the infant;
+
+>>> (B) the identity card or other means of identification of the
 applicant(s);
-```
-```
-(C) the marriage certificate of the applicants;
-```
-```
-(D) the consents of all relevant persons, where applicable; and
-```
-```
-(E) all other documents for proving the averments in the originating
+
+>>> (C) the marriage certificate of the applicants;
+
+>>> (D) the consents of all relevant persons, where applicable; and
+
+>>> (E) all other documents for proving the averments in the originating
 summons and Statement;
-```
-(ii) where the applicants are not Singapore citizens — valid documentary
+
+>> (ii) where the applicants are not Singapore citizens — valid documentary
 proof of their residency status in Singapore (e.g. Employment Pass;
 Work Permit; Dependant’s Pass; or any other evidence of permanent
 residency status);
 
-(iii) where the infant to be adopted is not a Singapore citizen — valid
+>> (iii) where the infant to be adopted is not a Singapore citizen — valid
 documentary proof of the infant’s residency status in Singapore (e.g.
 Dependant’s Pass or any other evidence of permanent residency status);
 and
 
-(iv) where the infant to be adopted was procured through an adoption agency
-—
+>> (iv) where the infant to be adopted was procured through an adoption agency —
 
-```
-(A) a declaration by the applicants as to the fees and expenses paid to
+>>> (A) a declaration by the applicants as to the fees and expenses paid to
 the adoption agency;
-```
-```
-(B) a detailed breakdown of the fees and expenses paid; and
-```
-```
-(C) documentary evidence of the said fees and expenses.
-```
+
+>>> (B) a detailed breakdown of the fees and expenses paid; and
+
+>>> (C) documentary evidence of the said fees and expenses.
 
 ## 28. Amendment of Originating Summons and Statement
 

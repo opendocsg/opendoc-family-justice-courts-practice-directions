@@ -14,21 +14,19 @@ counselling conducted by the Court.
 mediation. Mediation should be considered at the earliest possible stage in order to
 facilitate an amicable resolution of the dispute.
 
-Court Ordered Private Mediation
+### Court Ordered Private Mediation
 (2) With effect from 1 October 2016, the Court will no longer conduct mediation in relation
 to proceedings (including divorce proceedings, applications pursuant to section 121B
 of the Women’s Charter (Cap. 353) and proceedings for a grant of probate or letters of
 administration in respect of the estate and effects of a deceased person) which meet the
 following criteria:
 
-```
-(a) there is a contested issue relating to assets where the gross value of all known
+: (a) there is a contested issue relating to assets where the gross value of all known
 assets is S$3 million or above; and
-```
-```
-(b) there are no contested child issues (i.e. disputes relating to the custody, care and
+
+: (b) there are no contested child issues (i.e. disputes relating to the custody, care and
 control of and/or access to any child).
-```
+
 (3) The Registrar or the Judge may order that parties in proceedings which meet the criteria
 attend private mediation conducted by the Singapore Mediation Centre (“SMC”),
 unless parties have agreed upon a mediator (“Agreed Private Mediator”). The Registrar
@@ -46,12 +44,9 @@ counsel to update the Court on the outcome of the private mediation.
 shall inform the Registrar or the Judge of the identity of their Agreed Private Mediator,
 the management of the mediation and the agreed date for mediation. The Registrar or
 Judge may make any order necessary for the timely and efficacious disposal of the case,
-
-
-```
 including fixing return dates for the parties or their counsel to update the court, and/or
 re-directing the case to the SMC.
-```
+
 (6) Parties and their counsel must personally attend all mediation sessions, unless otherwise
 stated by the private mediator.
 
@@ -78,7 +73,7 @@ the Judge upon the confirmation of the terms by the parties and/or counsel.
 (10) If the dispute is not resolved at the private mediation, the Registrar or the Judge will
 give the necessary directions at the return date to enable the case to proceed accordingly.
 
-Mediation conducted by the Court
+### Mediation conducted by the Court
 (11) For child-related proceedings, a Family Dispute Resolution Conference (“FDR
 Conference”) will be called to crystallise the issues of contention. All parties together
 with their counsel (if any) will have to attend the FDR Conference. At the FDR
@@ -95,12 +90,9 @@ However, parties and counsel must personally attend all mediation sessions.
 (14) For all mediation sessions, (whether child-related or otherwise) the parties and their
 counsel are to prepare a Summary for Mediation in the prescribed format in Form 191
 in Appendix A to these Practice Directions prior to the mediation for submission and
-
-
-```
 discussion during the mediation, together with all relevant documents as may be
 directed by the Court.
-```
+
 (15) Any consensus reached during counselling sessions will be recorded as a draft
 agreement. A copy of the draft will be given to the parties who are advised to consult
 their counsel (if any).

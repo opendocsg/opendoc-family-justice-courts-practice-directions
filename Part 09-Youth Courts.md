@@ -7,46 +7,27 @@
 (1) The directions in this Part apply to any proceedings or any matter before the Youth
 Courts which relates to any —
 
-```
-(a) pre-trial or plead guilty procedure;
-```
-```
-(b) procedure in respect of bails and bonds under Division 5 of Part VI of the
+: (a) pre-trial or plead guilty procedure;
+: (b) procedure in respect of bails and bonds under Division 5 of Part VI of the
 Criminal Procedure Code (Cap. 68);
-```
-```
-(c) procedure under section 370 of the Criminal Procedure Code;
-```
-```
-(d) procedure for the search of premises or persons and the seizure of property
+: (c) procedure under section 370 of the Criminal Procedure Code;
+: (d) procedure for the search of premises or persons and the seizure of property
 (including any procedure under section 35(7) of the Criminal Procedure Code
 for the release of any property seized, or prohibited from being disposed of or
 dealt with under section 35(1) of the Code);
-```
-```
-(e) procedure for an inquiry to determine the order or orders to be made in respect
+: (e) procedure for an inquiry to determine the order or orders to be made in respect
 of any property produced before the Court for which there are competing claims;
-```
-```
-(f) procedure for the surrender and return of travel documents under sections 112
+: (f) procedure for the surrender and return of travel documents under sections 112
 and 113 of the Criminal Procedure Code;
-```
-```
-(g) procedure for issuing summonses to persons to appear before the Court under
+: (g) procedure for issuing summonses to persons to appear before the Court under
 section 115 of the Criminal Procedure Code;
-```
-```
-(h) procedure for appeal under Division 1 of Part XX of the Criminal Procedure
+: (h) procedure for appeal under Division 1 of Part XX of the Criminal Procedure
 Code;
-```
-```
-(i) procedure for the taking of evidence under section 21 of the Mutual Assistance
+: (i) procedure for the taking of evidence under section 21 of the Mutual Assistance
 in Criminal Matters Act (Cap. 190A); and
-```
-```
-(j) application for the issue of a warrant under section 10(1) or 24(1) of the
+: (j) application for the issue of a warrant under section 10(1) or 24(1) of the
 Extradition Act (Cap. 103).
-```
+
 (2) The directions in this Part must be read in conjunction with the Criminal Procedure
 Code (Electronic Filing and Service for Criminal Proceedings in the State Courts)
 Regulations 2013.
@@ -75,26 +56,22 @@ to the complaint.
 
 (3) Service of summons by solicitors' clerks
 
-```
-(a) Solicitors are informed that any summons issued pursuant to Section 153
+: (a) Solicitors are informed that any summons issued pursuant to Section 153
 Criminal Procedure Code 2010 must be served at least 7 days before the return
 date of the summons if such service is undertaken by the firm’s clerk. This is
 because the authorization to serve will lapse 7 days before the return date.
-```
-```
-(b) If the summons is already served on the respondent 7 days before the mention
+
+: (b) If the summons is already served on the respondent 7 days before the mention
 date, the attached summons must be returned to the Youth Court Registry
 immediately after service. Failure to do so will result in the summons not being
 listed for mention.
-```
-```
-(c) If the summons cannot be served on the respondent 1 week before the mention
+
+: (c) If the summons cannot be served on the respondent 1 week before the mention
 date, the authorization to serve will lapse. In order to obtain further
 authorization for the firm's clerk to serve the summons on the respondent or to
 obtain an extension of the return date, the solicitor must appear before the Duty
 Magistrate not later than 5 days before the return date. Failure to comply with
 this may result in the complaint being struck off the list.
-```
 
 ## 33. Application for Court Records for Youth Court matters and non-electronically filed cases
 
@@ -200,39 +177,32 @@ application.
 (1) In all Youth Courts proceedings, counsel shall submit their own bundle of authorities.
 In this regard, the following shall be complied with:
 
-```
-(a) The bundle of authorities to be prepared by each party should:
-```
-```
-(i) contain all the authorities, cases, statutes, subsidiary legislation and any
+> (a) The bundle of authorities to be prepared by each party should:
+
+>> (i) contain all the authorities, cases, statutes, subsidiary legislation and any
 other materials relied on;
-```
-```
-(ii) be properly bound with plastic ring binding or plastic spine thermal
+
+>> (ii) be properly bound with plastic ring binding or plastic spine thermal
 binding in accordance with the requirements set out in Paragraph
 90(8)(c);
-```
-```
-(iii) be paginated consecutively at the top right hand corner of each page (for
+
+>> (iii) be paginated consecutively at the top right hand corner of each page (for
 which purpose the pagination should commence on the first page of the
 first bundle and run sequentially to the last page of the last bundle); and
-```
-```
-(iv) contain an index of the authorities in that bundle and be appropriately
+
+>> (iv) contain an index of the authorities in that bundle and be appropriately
 flagged for easy reference.
-```
-```
-(b) Only authorities which are relevant or necessary for the trial shall be included
+
+> (b) Only authorities which are relevant or necessary for the trial shall be included
 in the bundles. No bundle of authorities is necessary in cases where parties are
 not relying on any authority at the trial. In cases where the Court is of the opinion
 that costs have been wasted by the inclusion of unnecessary authorities, the
 Court will have no hesitation in making a special order for costs against the
 relevant person.
-```
-```
-(c) The bundle of authorities shall be filed and served on all relevant parties at least
+
+> (c) The bundle of authorities shall be filed and served on all relevant parties at least
 3 working days before trial.
-```
+
 (2) Bundles of authorities should not be filed electronically.
 
 
@@ -292,17 +262,11 @@ hand it to the court officer before their cases are mentioned.
 
 (1) The following limits shall apply to the filing of documents:
 
-```
-(a) the total number of pages in a single document must not exceed 999;
-```
-```
-(b) the size of a single transmission must not exceed 50 mega-bytes.
-```
+: (a) the total number of pages in a single document must not exceed 999;
+: (b) the size of a single transmission must not exceed 50 mega-bytes.
+
 (2) The resolution for scanning, unless otherwise directed by the court, must be no more
 than 300 DPI.
 
 (3) In the event that any party wishes to file documents which exceed the limits specified
-
-```
 in sub-paragraph (1), he may make multiple submissions.
-```

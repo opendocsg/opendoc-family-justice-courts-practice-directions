@@ -2,22 +2,18 @@
 
 ## 26A. Application
 
-```
 (1) The Practice Directions in this Part apply only in relation to proceedings under rule
 929A of the Family Justice Rules.
-```
-```
+
 (2) All applications which have been specifically provided under rule 929A of the rules
 must be e-filed.
-```
-```
+
 (3) Any application which is not e-filed in accordance with the directions contained in this
 Part may be rejected.
-```
-```
+
 (4) The directions in this Part must be read in conjunction with Part 18 Division 68A of the
 Family Justice Rules.
-```
+
 ## 26B. Establishment of Electronic Filing Service and appointment of network service provider
 
 (1) In exercise of the powers conferred by rules 929C and 929D of the Family Justice Rules,
@@ -27,15 +23,13 @@ Filing Service known as the Integrated Family Application Management System
 
 (2) IFAMS is accessible at:
 
-```
-(a) https://ifams.gov.sg for a party who acts in person or an advocate and solicitor
+: (a) https://ifams.gov.sg for a party who acts in person or an advocate and solicitor
 appointed to act on a party’s behalf.
-```
-```
-(b) https://ifams.gov.sg/FSA for individuals designated as authorised agents by any
+
+: (b) https://ifams.gov.sg/FSA for individuals designated as authorised agents by any
 qualifying entity as defined in Rule 929B which are authorised users of the
 electronic filing system.
-```
+
 ## 26C. Authorised users and authorised agents
 
 (1) Under rule 929E(1) of the Family Justice Rules, any individual may access IFAMS as
@@ -47,22 +41,17 @@ user’s SingPass ID.
 (2) Under rule 929E(2) of the Family Justice Rules, the qualifying entities granted access
 to IFAMS as authorised users by the Registrar are as follow:
 
-```
-(a) Law firms and law corporations as defined in section 2 of the Legal Profession
+: (a) Law firms and law corporations as defined in section 2 of the Legal Profession
 Act (Cap 161);
-```
-```
-(b) Designated Family Service Centres (“FSCs”);
-```
-```
-(c) Designated Divorce Support Specialist Agencies (“DSSAs”);
-```
-```
-(d) Designated Family Violence Specialist Centres (“FVSCs”); and
-```
-```
-(e) Such other entity as the Registrar may authorise from time to time.
-```
+
+: (b) Designated Family Service Centres (“FSCs”);
+
+: (c) Designated Divorce Support Specialist Agencies (“DSSAs”);
+
+: (d) Designated Family Violence Specialist Centres (“FVSCs”); and
+
+: (e) Such other entity as the Registrar may authorise from time to time.
+
 (3) In the case of law firms and law corporations, only advocates and solicitors can be
 designated as authorised agents to access the electronic filing system.
 
@@ -79,21 +68,17 @@ fees and charges incurred by any of their designated authorised agents in IFAMS.
 (1) All complaints are to be e-filed through the IFAMS portal. For the avoidance of doubt,
 the written complaints shall be e-filed in the following manner:
 
-```
-(a) Advocates and solicitors acting for complainants shall file a written complaint
+: (a) Advocates and solicitors acting for complainants shall file a written complaint
 which complies with the requirements of rule 131B(1)(a) of the Family Justice
 Rules.
-```
-```
-(b) Complainants acting in person who access the system as authorised users using
+
+: (b) Complainants acting in person who access the system as authorised users using
 their SingPass shall file a written complaint which complies with the
 requirements of rule 131BA(2)(a) of the Family Justice Rules.
-```
-```
-(c) Written complaints filed by an authorised user described under paragraph
+
+: (c) Written complaints filed by an authorised user described under paragraph
 26C(2)(b) to (e) of these Practice Directions on behalf of a complainant shall
 comply with the requirements of rule 131BA(2)(b) of the Family Justice Rules.
-```
 
 ## 26E. Documents
 
@@ -133,12 +118,10 @@ and e-filed, regardless of the number and/or length of the amendments sought to 
 
 (1) The following limits shall apply to the filing of documents:
 
-```
-(a) the total number of pages in a single document must not exceed 999; and
-```
-```
-(b) the size of a single transmission must not exceed 4 mega-bytes.
-```
+: (a) the total number of pages in a single document must not exceed 999; and
+
+: (b) the size of a single transmission must not exceed 4 mega-bytes.
+
 (2) The resolution for scanning, unless otherwise directed by the Court, must be no more
 than 200 DPI.
 
@@ -151,40 +134,32 @@ in sub-paragraph (1), he may make multiple submissions.
 submit their own bundle of authorities. In this regard, the following shall be complied
 with:
 
-```
-(a) The bundle of authorities to be prepared by each party should:
-```
-```
-(i) contain all the authorities, cases, statutes, subsidiary legislation and any
+> (a) The bundle of authorities to be prepared by each party should:
+
+>> (i) contain all the authorities, cases, statutes, subsidiary legislation and any
 other materials relied on;
-```
-```
-(ii) be properly bound with plastic ring binding or plastic spine thermal
+
+>> (ii) be properly bound with plastic ring binding or plastic spine thermal
 binding in accordance with the requirements set out in Paragraph
 90(8)(c) of these Practice Directions;
-```
-```
-(iii) be paginated consecutively at the top right hand corner of each page (for
+
+>> (iii) be paginated consecutively at the top right hand corner of each page (for
 which purpose the pagination should commence on the first page of the
 first bundle and run sequentially to the last page of the last bundle); and
-```
-```
-(iv) contain an index of the authorities in that bundle and be appropriately
+
+>> (iv) contain an index of the authorities in that bundle and be appropriately
 flagged for easy reference.
-```
-```
-(b) Only authorities which are relevant or necessary for the trial shall be included
+
+> (b) Only authorities which are relevant or necessary for the trial shall be included
 in the bundles. No bundle of authorities is necessary in cases where parties are
 not relying on any authority at the trial. In cases where the Court is of the opinion
 that costs have been wasted by the inclusion of unnecessary authorities, the
 Court will have no hesitation in making a special order for costs against the
 relevant person.
-```
 
-```
-(c) The bundle of authorities shall be submitted to the Court and served on all
+> (c) The bundle of authorities shall be submitted to the Court and served on all
 relevant parties at least 3 working days before trial.
-```
+
 (2) Bundles of authorities should not be filed electronically.
 
 ## 26J. Change of Solicitors
@@ -240,21 +215,16 @@ paid by him.
 (1) The following requests relating to or in connection with proceedings under this part for
 a case registered via the IFAMS must be made via the IFAMS portal:
 
-```
-(a) Requests for permission to leave jurisdiction;
-```
-```
-(b) Requests to cancel a warrant of arrest;
-```
-```
-(c) Requests to change Court appointments;
-```
-```
-(d) Requests to restore or reinstate a struck-off case; and/or
-```
-```
-(e) Requests to withdraw an application.
-```
+: (a) Requests for permission to leave jurisdiction;
+
+: (b) Requests to cancel a warrant of arrest;
+
+: (c) Requests to change Court appointments;
+
+: (d) Requests to restore or reinstate a struck-off case; and/or
+
+: (e) Requests to withdraw an application.
+
 (2) The party making any of the aforementioned requests should provide the reasons for
 the request and documents in support of the request, where applicable. Any request
 which does not comply with the directions in this part may be rejected. The approval of

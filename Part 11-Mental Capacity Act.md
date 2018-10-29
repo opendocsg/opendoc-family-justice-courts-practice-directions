@@ -85,18 +85,11 @@ application has been made to the Court concerning P.
 (2) ‘Relevant persons’ for the purposes of Rule 179 of the Family Justice Rules will
 therefore often include the following immediate family members:
 
-```
-(a) P’s spouse;
-```
-```
-(b) P’s children (aged 21 and above);
-```
-```
-(c) P’s parents or guardians; and
-```
-```
-(d) P’s brothers or sisters (aged 21 and above).
-```
+: (a) P’s spouse;
+: (b) P’s children (aged 21 and above);
+: (c) P’s parents or guardians; and
+: (d) P’s brothers or sisters (aged 21 and above).
+
 (3) However, the presumption that immediate family members are likely to have an interest
 in an application concerning P may be rebutted where the plaintiff or applicant is aware
 of circumstances which reasonably indicate that P's immediate family should not be
@@ -122,23 +115,14 @@ an interest in the application concerning P and who should be served the applica
 the supporting affidavits and the Notice to Relevant Person in Form 222 in Appendix
 A to these Practice Directions include:
 
-```
-(a) any other relatives or friends who have a close relationship with P;
-```
-```
-(b) any person who has a legal duty to support P;
-```
-```
-(c) any person who will benefit from P’s estate; and
-```
+: (a) any other relatives or friends who have a close relationship with P;
+: (b) any person who has a legal duty to support P;
+: (c) any person who will benefit from P’s estate; and
+: (d) any person who is responsible for P’s care.
 
-```
-(d) any person who is responsible for P’s care.
-```
-```
 If there is no such person to the best of the plaintiff’s or applicant’s knowledge, he is to
 state this in his supporting affidavit.
-```
+
 (7) The details of all relevant persons who should be served are to be listed clearly in the
 supporting affidavit of the plaintiff or applicant. Where service would not be effected
 on relevant persons who should be served, the reason why this is so must be stated in
@@ -153,8 +137,7 @@ no other relevant persons.
 
 (9) Organisations providing residential accommodation to P
 
-```
-(a) If P resides at an organisation providing residential accommodation (regardless
+: (a) If P resides at an organisation providing residential accommodation (regardless
 of whether it also provides care or treatment to P), the plaintiff or applicant shall
 serve the application, the supporting affidavits and the Notice to Relevant
 Person in Form 222 in Appendix A to these Practice Directions on such an
@@ -163,22 +146,19 @@ after the application has been filed. For the purposes of the application, the
 organisation providing residential accommodation to P shall be considered a
 relevant person. However, the plaintiff or applicant need not obtain the consent
 of such an organisation to the application.
-```
-```
-(b) If the organisation providing residential accommodation to P wishes to furnish
+
+: (b) If the organisation providing residential accommodation to P wishes to furnish
 any relevant information for the Court’s consideration and determination of the
 application in the best interests of P, it shall notify the Court within 8 days after
 the date on which the organisation is served with the application. If such a
 notification is submitted, the Court may require and direct for the submission of
 a report and/or attendance of the maker of the report at the hearing of the
 application.
-```
-```
-(c) If an applicant has a strong reason for not serving an affidavit or any other
+
+: (c) If an applicant has a strong reason for not serving an affidavit or any other
 document (other than the originating summons) on the organisation providing
 residential accommodation to P, the applicant may file a summons to seek
 dispensation of service of such documents on the organisation in question.
-```
 
 ## 51. Consent of relevant persons
 
@@ -279,42 +259,27 @@ applicants or proposed deputies should not file separate supporting affidavits.
 
 (8B) The following search results must be exhibited in the supporting affidavit:
 
-```
-(a) Office of the Public Guardian search result showing if P has registered a Lasting
+: (a) Office of the Public Guardian search result showing if P has registered a Lasting
 Power of Attorney;
-```
-```
-(b) Office of the Public Guardian search result showing if there is a past Mental
+: (b) Office of the Public Guardian search result showing if there is a past Mental
 Capacity Act or Mental Disorders And Treatment Act Order in respect of P; and
-```
+: (c) Wills Registry search result showing if P has registered a Will.
 
-```
-(c) Wills Registry search result showing if P has registered a Will.
-```
 **The doctor’s affidavit exhibiting the medical report**
 
 (9) In order to assist the Court, the medical report shall —
 
-```
-(a) distinguish clearly between observations or conclusions based on information
+: (a) distinguish clearly between observations or conclusions based on information
 given to the doctor and those that are based on the doctor’s examination of P;
-```
-```
-(b) contain a clear opinion as to whether P lacks capacity in relation to the matters
+: (b) contain a clear opinion as to whether P lacks capacity in relation to the matters
 specified in the application;
-```
-```
-(c) be current and shall not be made more than 6 months before the date of the
+: (c) be current and shall not be made more than 6 months before the date of the
 application;
-```
-```
-(d) contain a clear opinion on P’s prognosis; and
-```
-```
-(e) the affidavit and medical report to be filed by P’s doctor in support of the
+: (d) contain a clear opinion on P’s prognosis; and
+: (e) the affidavit and medical report to be filed by P’s doctor in support of the
 application for the appointment of a deputy or deputies shall be in Form 224 in
 Appendix A to these Practice Directions.
-```
+
 (9A) The medical report should be based on a recent examination of P by the doctor making
 the report and it should contain sufficient information to justify the doctor’s opinions
 and conclusions.
@@ -364,32 +329,19 @@ Paragraph 52 of these Practice Directions.
 (2) The application shall be accompanied by a supporting affidavit which includes the
 following information and exhibits:
 
-```
-(a) a copy of the draft will;
-```
-```
-(b) a copy of the existing will or codicil (if any);
-```
-```
-(c) any consents to act by proposed executors;
-```
-```
-(d) details of P’s family, preferably in the form of a family tree, including details of
+: (a) a copy of the draft will;
+: (b) a copy of the existing will or codicil (if any);
+: (c) any consents to act by proposed executors;
+: (d) details of P’s family, preferably in the form of a family tree, including details of
 the full name and date of birth of each person included in the family tree;
-```
-```
-(e) a schedule showing details of all of P’s assets and properties, with up to date
+: (e) a schedule showing details of all of P’s assets and properties, with up to date
 valuations;
-```
-```
-(f) an up to date report of P’s medical condition, life expectancy, likelihood of
+: (f) an up to date report of P’s medical condition, life expectancy, likelihood of
 requiring increased expenses in the foreseeable future, and testamentary
 capacity; and
-```
-```
-(g) an explanation as to why it is necessary or desirable for the Court to execute the
+: (g) an explanation as to why it is necessary or desirable for the Court to execute the
 will on behalf of P.
-```
+
 (3) The Court may direct that any other material or information is to be filed by the plaintiff
 and if it does, the material or information is to be set out in a supplementary affidavit.
 
@@ -398,22 +350,15 @@ both of which must comply with Paragraph 54(9) of these Practice Directions.
 
 (5) The plaintiff must name as a defendant —
 
-```
-(a) any beneficiary under an existing will or codicil who is likely to be materially
+: (a) any beneficiary under an existing will or codicil who is likely to be materially
 or adversely affected by the application;
-```
-```
-(b) any beneficiary under the proposed will or codicil who is likely to be materially
+: (b) any beneficiary under the proposed will or codicil who is likely to be materially
 or adversely affected by the application;
-```
-```
-(c) any prospective beneficiary under P’s intestacy where P has no existing will;
+: (c) any prospective beneficiary under P’s intestacy where P has no existing will;
 and
-```
-```
-(d) any donee under a lasting power of attorney executed by P or any Court-
+: (d) any donee under a lasting power of attorney executed by P or any Court-
 appointed deputy of P.
-```
+
 
 (6) Once an order is made for a statutory will, the applicant must file a copy of the will for
 sealing by the Court. The statutory will is considered valid only with the seal of Court.
@@ -437,15 +382,10 @@ proceedings himself.
 
 (4) The Court may either on its own motion, or on the application of any person –
 
-```
-(a) direct that a person may not act as litigation representative;
-```
-```
-(b) terminate a litigation representative’s appointment, or
-```
-```
-(c) appoint a new litigation representative in place of an existing one.
-```
+: (a) direct that a person may not act as litigation representative;
+: (b) terminate a litigation representative’s appointment, or
+: (c) appoint a new litigation representative in place of an existing one.
+
 (5) An application for any of the orders referred to in sub-paragraph (4) must be supported
 by affidavit. If the order sought is the substitution of a new litigation representative for
 an existing one, the evidence must satisfy the Court of the matters set out in rule
@@ -463,15 +403,10 @@ court’s involvement in P’s affairs.
 proceedings relate, an application may be made by any of the following people to the
 Court to end the proceedings and discharge any orders made in respect of that person:
 
-```
-(a) P;
-```
-```
-(b) his litigation representative; or
-```
-```
-(c) any other person who is a party to the proceedings.
-```
+: (a) P;
+: (b) his litigation representative; or
+: (c) any other person who is a party to the proceedings.
+
 (3) The application should be supported by evidence that P no longer lacks capacity to
 make decisions in relation to the matter or matters to which the proceedings relate.
 
