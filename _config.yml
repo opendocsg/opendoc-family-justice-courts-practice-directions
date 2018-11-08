@@ -1,5 +1,5 @@
 title: Family Justice Courts Practice Directions 
-remote_theme: opengovsg/opendoc-theme
+remote_theme: opendocsg/opendoc-theme
 timezone: Asia/Singapore
 elastic_search:
   index: family-justice-courts-pd
