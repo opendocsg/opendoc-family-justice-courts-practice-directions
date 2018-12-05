@@ -1,10 +1,14 @@
 title: Family Justice Courts Practice Directions 
 remote_theme: opendocsg/opendoc-theme
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
 timezone: Asia/Singapore
 elastic_search:
   index: family-justice-courts-pd
   doctype: bare
-server_DEV: https://search.opendoc.sg
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
 environment: DEV
 google_analytics: UA-113717369-4
 styling_options:
