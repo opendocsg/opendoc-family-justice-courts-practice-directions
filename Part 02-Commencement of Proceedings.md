@@ -2,36 +2,60 @@
 
 ## 3. Documents to be filed at the Registry of the Family Justice Courts
 
-(1) Subject to paragraph (4), all documents filed on or after 1st October 2014 relating to the proceedings pursuant to the following legislation are to be filed in the Family Justice Courts Registry:    
-: (a) section 53 of Administration of Muslim Law Act (Cap. 3);
-: (b) the Adoption of Children Act (Cap. 4);
-: (c) the Children and Young Persons Act (Cap. 38);
-: (d) the Guardianship of Infants Act (Cap. 122);
-: (e) the Inheritance (Family Provision) Act (Cap. 138);
-: (f) International Child Abduction Act (Cap. 143C);
-: (g) Intestate Succession Act (Cap. 146);
-: (h) the Legitimacy Act (Cap. 162);
-: (i) section 10 of Maintenance of Parents Act (Cap. 167B);
-: (j) the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168);
-: (k) the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169);
-: (l) the Mental Capacity Act (Cap. 177A);
-: (m) the Mental Health (Care and Treatment) Act (Cap. 178A);
-: (n) the Probate and Administration Act (Cap. 251)
-: (o) the Status of Children (Assisted Reproduction Technology) Act 2013
-: (p) section 17A(2) of the Supreme Court of Judicature Act (Cap. 322)
-: (q) the Voluntary Sterilization Act (Cap. 347)
-: (r) sections 13, 17, 20, 59, Parts VII, VIII, IX and X of Women’s Charter (Cap. 353).
+(1) Subject to paragraph (4), all documents filed on or after 1st October 2014 relating to the proceedings pursuant to the following legislation are to be filed in the Family Justice Courts Registry:   
+
+> (a) section 53 of Administration of Muslim Law Act (Cap. 3);
+
+> (b) the Adoption of Children Act (Cap. 4);
+
+> (c) the Children and Young Persons Act (Cap. 38);
+
+> (d) the Guardianship of Infants Act (Cap. 122);
+
+> (e) the Inheritance (Family Provision) Act (Cap. 138);
+
+> (f) International Child Abduction Act (Cap. 143C);
+
+> (g) Intestate Succession Act (Cap. 146);
+
+> (h) the Legitimacy Act (Cap. 162);
+
+> (i) section 10 of Maintenance of Parents Act (Cap. 167B);
+
+> (j) the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168);
+
+> (k) the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169);
+
+> (l) the Mental Capacity Act (Cap. 177A);
+
+> (m) the Mental Health (Care and Treatment) Act (Cap. 178A);
+
+> (n) the Probate and Administration Act (Cap. 251)
+
+> (o) the Status of Children (Assisted Reproduction Technology) Act 2013
+
+> (p) section 17A(2) of the Supreme Court of Judicature Act (Cap. 322)
+
+> (q) the Voluntary Sterilization Act (Cap. 347)
+
+> (r) sections 13, 17, 20, 59, Parts VII, VIII, IX and X of Women’s Charter (Cap. 353).
 
 (2) Subject to paragraph (4) and (5), all proceedings filed after 1 January 2015 under the Probate and Administration Act will be filed in the Family Justice Courts.
 
 (3) All documents shall have the title “In the Family Justice Courts of the Republic of Singapore”.
 
 (4) Documents relating to the following proceedings which are to be heard and determined by the High Court shall continue to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building. These include:
-: (a) all proceedings in paragraph (1) commenced in the High Court before 1st October 2014;
-: (b) all contested ancillary applications under Part X of the Women’s Charter transferred to be heard in the High Court pursuant to the Supreme Court of Judicature (Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings to District Court) Order 2007 prior to 1st October 2014;
-: (c) all appeals filed in the High Court before 1st October 2014 relating to any proceedings referred to in paragraph (1) above;
-: (d) all applications and documents relating to proceedings under the Mental Disorders and Treatment Act or the Mental Capacity Act filed in the High Court before 1st October 2014;and
-: (e) all applications and documents relating to proceedings under Probate and Administration Act filed in the High Court before 1 January 2015.
+
+> (a) all proceedings in paragraph (1) commenced in the High Court before 1st October 2014;
+
+> (b) all contested ancillary applications under Part X of the Women’s Charter transferred to be heard in the High Court pursuant to the Supreme Court of Judicature (Transfer of Matrimonial, Divorce and Guardianship of Infants Proceedings to District Court) Order 2007 prior to 1st October 2014;
+
+> (c) all appeals filed in the High Court before 1st October 2014 relating to any proceedings referred to in paragraph (1) above;
+
+> (d) all applications and documents relating to proceedings under the Mental Disorders and Treatment Act or the Mental Capacity Act filed in the High Court before 1st October 2014;and
+
+> (e) all applications and documents relating to proceedings under Probate and Administration Act filed in the High Court before 1 
+January 2015.
 
 (5) Documents relating to contested proceedings filed under Probate and Administration Act filed before 1 January 2015 shall continue to be filed in the State Courts. Documents relating to uncontested proceedings filed under Probate and Administration Act filed before 1 January 2015 shall be filed in the Family Justice Courts.
 
@@ -82,9 +106,12 @@ which are filed by more than one party.
 **_Special cases_**
 
 (5) The following Directions shall apply in addition to the Directions contained in sub- paragraphs (1) to (4):
-: (a) where a party is represented by a litigation representative or guardian in adoption or deputy, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption or deputy as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or guardian in adoption and/or deputy must be stated below or after the name of each, as appropriate;
-: (b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, sub-paragraphs (1) to (3) shall apply to the deceased person as if he were a party; and 
-: (c) where more than one identification number applies to any party, person, entity or property, all the identification numbers shall be stated in any convenient order.
+
+> (a) where a party is represented by a litigation representative or guardian in adoption or deputy, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption or deputy as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or guardian in adoption and/or deputy must be stated below or after the name of each, as appropriate;
+
+> (b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, sub-paragraphs (1) to (3) shall apply to the deceased person as if he were a party; and 
+
+> (c) where more than one identification number applies to any party, person, entity or property, all the identification numbers shall be stated in any convenient order.
 
 **_Identification numbers_**
 
@@ -94,23 +121,29 @@ which are filed by more than one party.
 
 (7) The following guidelines should be followed in deciding on the appropriate identification number.
 
-: **(a) Natural person with Singapore identity card**
-: For a natural person who is a Singapore citizen or permanent resident, theidentification number shall be the number of the identity card issued under theNational Registration Act (Cap. 201). The 7 digit number as well as the lettersat the front and end should be stated. For example: “(NRIC No. S1234567A)”.
+> **(a) Natural person with Singapore identity card**
 
-: **(b) Natural person with FIN number**
-: For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap. 133, Rg 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”
+> For a natural person who is a Singapore citizen or permanent resident, theidentification number shall be the number of the identity card issued under theNational Registration Act (Cap. 201). The 7 digit number as well as the lettersat the front and end should be stated. For example: “(NRIC No. S1234567A)”.
 
-: **(c) Natural person: birth certificate or passport number**
-: For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”
+> **(b) Natural person with FIN number**
 
-: **(d) Natural person: other numbers**
-: For a natural person who is not a Singapore citizen or permanent resident and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number shall be the number of any identification document he may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained, should be stated. For example: “Japanese Identification Card No.”
+> For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap. 133, Rg 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”
 
-: **(e) Deceased person**
-: For a deceased natural person, the identification number shall be as set out in sub-paragraph (7)(a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap. 267, R 1) or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
+> **(c) Natural person: birth certificate or passport number**
 
-: **(f) No identification numbers exist**
-: Where the appropriate identification numbers referred to in sub-paragraph (7)(a) to (e) do not exist in respect of any party, person, entity or property, the following words should be stated immediately below or after the name of that party, person, entity or property concerned: “(No ID No. exists)”.
+> For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”
+
+> **(d) Natural person: other numbers**
+
+> For a natural person who is not a Singapore citizen or permanent resident and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number shall be the number of any identification document he may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained, should be stated. For example: “Japanese Identification Card No.”
+
+> **(e) Deceased person**
+
+> For a deceased natural person, the identification number shall be as set out in sub-paragraph (7)(a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap. 267, R 1) or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”
+
+> **(f) No identification numbers exist**
+
+> Where the appropriate identification numbers referred to in sub-paragraph (7)(a) to (e) do not exist in respect of any party, person, entity or property, the following words should be stated immediately below or after the name of that party, person, entity or property concerned: “(No ID No. exists)”.
 
 **_Inability to furnish identification number at the time of filing a document_**
 
