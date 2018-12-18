@@ -32,14 +32,9 @@ electronic filing system.
 
 ## 26C. Authorised users and authorised agents
 
-(1) Under rule 929E(1) of the Family Justice Rules, any individual may access IFAMS as
-an authorised user using his Singapore Personal Access (“SingPass”) ID. The
-identification code of an authorised user who is an individual shall be the authorised
-user’s SingPass ID.
+(1) Under rule 929E(1) of the Family Justice Rules, any individual may access IFAMS as an authorised user using his Singapore Personal Access (“SingPass”) ID. The identification code of an authorised user who is an individual shall be the authorised user’s SingPass ID.
 
-
-(2) Under rule 929E(2) of the Family Justice Rules, the qualifying entities granted access
-to IFAMS as authorised users by the Registrar are as follow:
+(2) Under rule 929E(2) of the Family Justice Rules, the qualifying entities granted access to IFAMS as authorised users by the Registrar are as follow:
 
 : (a) Law firms and law corporations as defined in section 2 of the Legal Profession
 Act (Cap 161);
