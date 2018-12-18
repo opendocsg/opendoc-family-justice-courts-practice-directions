@@ -176,8 +176,7 @@ both prior to the making of such application.
 
 ## 26. Hearing of maintenance proceedings in chambers
 
-(1) Maintenance proceedings may be adjourned to Chambers for the hearing of the
-application under the following conditions:
+(1) Maintenance proceedings may be adjourned to Chambers for the hearing of the application under the following conditions:
 
 : (a) Parties are legally represented;
 
