@@ -23,10 +23,10 @@ Filing Service known as the Integrated Family Application Management System
 
 (2) IFAMS is accessible at:
 
-: (a) https://ifams.gov.sg for a party who acts in person or an advocate and solicitor
+: (a) [https://ifams.gov.sg](https://ifams.gov.sg) for a party who acts in person or an advocate and solicitor
 appointed to act on a party’s behalf.
 
-: (b) https://ifams.gov.sg/FSA for individuals designated as authorised agents by any
+: (b) [https://ifams.gov.sg/FSA](https://ifams.gov.sg/FSA) for individuals designated as authorised agents by any
 qualifying entity as defined in Rule 929B which are authorised users of the
 electronic filing system.
 
