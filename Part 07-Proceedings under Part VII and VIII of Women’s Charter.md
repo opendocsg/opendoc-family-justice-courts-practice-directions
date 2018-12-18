@@ -98,8 +98,7 @@ employment contract);
 >> (viii) the party’s updated bank passbooks and / or updated bank statements
 (including sole and joint accounts); and
 
->> (ix) the party’s bank deposit slips to show payment / non-payment of
-maintenance.
+>> (ix) the party’s bank deposit slips to show payment / non-payment of maintenance.
 
 : (b) for applications to enforce a maintenance order under section 71 of the Women’s
 Charter:
