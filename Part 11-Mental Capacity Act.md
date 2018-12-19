@@ -263,3 +263,19 @@ All applications subsequent to the filing of the originating summons in any ment
 (2) An Order of Court shall be drawn up and filed in accordance with rule 678 of the Family Justice Rules within 7 days after the date on which the order was made.
 
 (3) Pursuant to section 24(10) of the Mental Capacity Act (Cap. 177A), the Court may require a deputy to give security to the Public Guardian for the due discharge of his functions.
+
+## 61A.  Uncontested applications for certain specified matters 
+ 
+(1) A specified matter application under Rule 176A of the Family Justice Rules shall be made via the IFAMS portal under “Mental Capacity Act Application”. 
+ 
+(2) The specified matters to which Rule 176A of the Family Justice Rules apply are as follows: 
+
+> (a) To consent to medical treatment for P; 
+
+> (b) To consent to dental treatment for P. 
+ 
+(3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
+
+> (c) more than 6 months before the date of the application; and 
+
+> (d) more than 3 months after P was last examined by P’s doctor. 
