@@ -35,9 +35,11 @@
 ## 32. Magistrate's complaints (Private summonses)
 
 (1) Framing of criminal charges
+
 Solicitors representing the complainants (save in maintenance cases) are to frame and submit the charges when the complaints are filed. This will facilitate the immediate issuance of the summons if it is so ordered by the Duty Magistrate.
 
 (2) Infringement of copyright/trademarks
+
 Magistrate's complaints involving infringement of copyright/trademarks must be sworn by authorised representatives. A letter of authorization to that effect must be attached to the complaint.
 
 (3) Service of summons by solicitors' clerks
@@ -46,7 +48,7 @@ Magistrate's complaints involving infringement of copyright/trademarks must be s
 
 > (b) If the summons is already served on the respondent 7 days before the mention date, the attached summons must be returned to the Youth Court Registry immediately after service. Failure to do so will result in the summons not being listed for mention.
 
-> (c) If the summons cannot be served on the respondent 1 week before the mention date, the authorization to serve will lapse. In order to obtain further authorization for the firm's clerk to serve the summons on the respondent or to obtain an extension of the return date, the solicitor must appear before the Duty Magistrate not later than 5 days before the return date. Failure to comply with this may result in the complaint being struck off the list.
+> (c) If the summons cannot be served on the respondent 1 week before the mention date, the authorization to serve will lapse. In order to obtain further authorization for the firm's clerk to serve the summons on the respondent or to obtain an extension of the return date, the solicitor must appear before the Duty Magistrate *not later than 5 days before the return date.* Failure to comply with this may result in the complaint being struck off the list.
 
 ## 33. Application for Court Records for Youth Court matters and non-electronically filed cases
 
@@ -151,7 +153,7 @@ Where a charge or document is required to be amended, a fresh copy of the charge
 
 ## 42. Noting of appearances of advocates/prosecutors
 
-(1) To facilitate the contacting of advocates having conduct of matters in the Family Justice Courts, advocates appearing in cases must fill in a Form 212of Appendix A each and hand it to the court officer before their cases are mentioned.
+(1) To facilitate the contacting of advocates having conduct of matters in the Family Justice Courts, advocates appearing in cases must fill in a Form 212 of Appendix A each and hand it to the court officer before their cases are mentioned.
 
 (2) This practice applies to all Youth Court trials and mentions courts.
 
