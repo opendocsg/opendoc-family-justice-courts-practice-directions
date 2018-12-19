@@ -18,7 +18,9 @@
 
 **_Service of application on named defendants_**
 
-(8) Rule 168 of the Family Justice Rules requires the plaintiff to serve the application, together with each affidavit or other document filed in support of the application, on each person named as a defendant in the proceedings. (9) Service on a named defendant shall be by way of personal service, unless directed otherwise by the Court.
+(8) Rule 168 of the Family Justice Rules requires the plaintiff to serve the application, together with each affidavit or other document filed in support of the application, on each person named as a defendant in the proceedings. 
+
+(9) Service on a named defendant shall be by way of personal service, unless directed otherwise by the Court.
 
 **_The plaintiff’s supporting affidavit_**
 
