@@ -21,7 +21,9 @@
 (5) Once the originating summons, Statement, certified true copy of the death certificate and certified true copy of the Will/foreign grant are filed, an electronic filing checklist will be generated and a provisional reference number will be issued. The following supporting documents (whichever may be relevant) must then be filed using the electronic filing checklist:
 
 > (a) in the case of Muslim estates, a certified true copy of the inheritance certificate;
+
 > (b) in relation to deaths occurring on or after 15 February 2008, a Schedule of Assets listing the property comprising the estate of the deceased in accordance with Paragraph 67 of these Practice Directions (if available); and
+
 > (c) any other documents in support of the originating summons required under the Probate and Administration Act (Cap. 251), the Family Justice Rules or by the Court.
 
 (The administration oath under section 28 of the Probate and Administration Act may, however, be filed at the same time as the supporting affidavit under rule 208 of the Family Justice Rules as required by Paragraph 63.)
@@ -153,7 +155,7 @@ days after the filing of the originating summons.
 
 > (e) where the grantee is a creditor; and
 
-: (f) in such other cases as the Registrar thinks fit.
+> (f) in such other cases as the Registrar thinks fit.
 
 (2) Sureties must not use protected property under section 51 of the Housing and Development Act (Cap. 129) for the purpose of justification.
 
