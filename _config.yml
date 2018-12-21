@@ -9,6 +9,24 @@ baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 google_analytics: UA-113717369-4
+section_order:
+  - "Part I - Preliminary"
+  - "Part II - Commencement of Proceedings"
+  - "Part III – Judge-Led Approach in Resolving Family Disputes"
+  - "Part IV – Processes relating to Children"
+  - "Part V – Alternate Dispute Resolution"
+  - "Part VI – Proceedings for the Dissolution of Marriage under Part X of Women’s Charter"
+  - "Part VII – Proceedings under Part VII and VIII of Women’s Charter"
+  - "Part VIIA – Electronic Filing Service under Division 68A of Part 18 of the Family Justice Rules"
+  - "Part VIII - Adoption of Children"
+  - "Part IX – Youth Courts"
+  - "Part X – International Child Abduction Act"
+  - "Part XI – Mental Capacity Act"
+  - "Part XII – Probate Proceedings"
+  - "Part XIII - General Procedure"
+  - "Part XIV – General Matters"
+  - "Part XV - Litigants in Person"
+  - "Appendices"
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/images/logo.png
