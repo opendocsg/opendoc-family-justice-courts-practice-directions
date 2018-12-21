@@ -101,6 +101,7 @@ All applications in chambers (including summonses and originating summonses) sha
 > (c) the reasons why the applicant’s response would be relevant and material for the just disposition of the case.
 
 **Summons to vary child-related orders**
+
 (6) An application to vary child-related orders shall be made by way of summons filed in the suit in which the original order was made.
 
 (7) In an application to vary the existing court order(s) on custody, care and control and/or access, the applicant must demonstrate by way of affidavit why it would be in the best interests and welfare of the child for the orders to be varied.
@@ -449,7 +450,7 @@ preceded by a heading.
 
 (1) Applicants for _Mareva_ injunctions are required to prepare their orders in accordance with the following forms in Appendix A:
 
-> (a) Form 239: Worldwide Mareva injunction; and
+> (a) Form 239: Worldwide _Mareva_ injunction; and
 
 > (b) Form 240: Mareva injunction limited to assets within the jurisdiction.
 
@@ -476,7 +477,7 @@ whether there have been any past incidents of the opponent dissipating assets, d
 
 > (d) factual basis for any reasonable defences that may be relied on by the opponent;
 
-> (e) whether the applicant is aware of any issues relating to jurisdiction, forum non conveniens or service out of jurisdiction, and. if so, whether any application relating to these issues has been or will be made;
+> (e) whether the applicant is aware of any issues relating to jurisdiction, _forum non conveniens_ or service out of jurisdiction, and. if so, whether any application relating to these issues has been or will be made;
 
 > (f) an undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and : (g) any other material facts which the Court should be aware of.
 
@@ -616,7 +617,7 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 > (d) The table of contents shall contain a concise statement of the relevance of each authority to the specific issues before the Court. The relevance of each authority shall be succinctly expressed and comprise no more than 3 sentences. The statement shall be set out immediately after the name of the case. For example:
 
-> Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull [2007] 1 SLR(R) 377
+> _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull [2007] 1 SLR(R) 377_
 
 > Relevance: Choice of law considerations are relevant even when determining the natural forum to hear a dispute.
 
@@ -642,13 +643,13 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 **Filing documents when setting down**
 
-(1) The party setting down an action for trial must file with the Registrar a notice for setting down an action for trial in Form 119 together with a bundle for the use of the Judge consisting of one copy of each of the following documents:
+>(1) The party setting down an action for trial must file with the Registrar a notice for setting down an action for trial in Form 119 together with a bundle for the use of the Judge consisting of one copy of each of the following documents:
 
-> (a) the writ;
+>> (a) the writ;
 
-> (b) the pleadings (including any affidavits ordered to stand as pleadings), any notice or order for particulars and the particulars given; and 
+>> (b) the pleadings (including any affidavits ordered to stand as pleadings), any notice or order for particulars and the particulars given; and 
 
-> (c) all orders made on the summons for directions.
+>> (c) all orders made on the summons for directions.
 
 (2) In addition, parties should endeavour to file a core bundle of documents. This core bundle should comprise only documents that are relevant to the hearing in question, or which will be referred to in the course of the hearing.
 
@@ -996,7 +997,7 @@ The waiting time between the filing of certain processes or other steps in the p
 | 6 | Assessment of Damages | 2 to 4 weeks from the last case conference |
 | 7 | Examination of Judgment Debtor | 4 weeks from Request for Examination |
 | 8 | Non-contentious Probate applications | 3 to 4 weeks from filing date |
-| 9 | Adoption cases 4 weeks from filing date |
+| 9 | Adoption cases | 4 weeks from filing date|
 | 10 | Taxation and review of taxation | 3 to 4 weeks from filing date |
 | 11 | Writs of Execution | 4 to 8 weeks from filing date |
 | 12 | Appeal against the Registrar’s decision | 2 to 4 weeks from filing date |
@@ -1019,7 +1020,7 @@ The waiting time between the filing of certain processes or other steps in the p
 | 19 | Appeals from Family Courts | 4 weeks from receipt of record of proceedings |
 | 20 | Magistrate's Appeals | 8 weeks from receipt of record of proceedings |
 
-_#_ The waiting period for applications for discovery or interrogatories against a network service provider under Paragraph 82 of these Practice Directions is 5 days from the date of filing of the Originating Summons.^
+_#_ The waiting period for applications for discovery or interrogatories against a network service provider under Paragraph 82 of these Practice Directions is 5 days from the date of filing of the Originating Summons.
 
 _(*) "Waiting Time" is defined as follows:_
 
@@ -1327,7 +1328,7 @@ having conduct of the proceedings; or
 
 (2) This sub-paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service. 
 
-> (a) Form of affidavits generally
+> (a) **Form of affidavits generally**
 
 > >  (i) Affidavits shall be on A4-ISO paper of durable quality with a blank margin not less than 35 mm wide on all 4 sides of the page.
 
@@ -1337,7 +1338,7 @@ having conduct of the proceedings; or
 
 > >  (iv) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
 
-> (b) Markings on affidavits
+> (b) **Markings on affidavits**
 
 > At the top right hand corner of the first page of every affidavit, and also on the backing sheet, there shall be typed or printed in a single line the following:
 
@@ -1381,7 +1382,7 @@ Every page of the affidavit shall be paginated consecutively, and the page numbe
 
 > (a) Every page of every exhibit must be fully and clearly legible. Where necessary, magnified copies of the relevant pages should be inserted in appropriate places.
 
-> (b) Every page of the exhibits, including dividing sheets or separators between exhibits , shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.
+> (b) Every page of the exhibits, _including dividing sheets or separators between exhibits_ , shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.
 
 > (c) Each exhibit in the affidavit must be separately book-marked in the Portable Document Format document that is filed. For this purpose —
 
@@ -1399,7 +1400,7 @@ Every page of the affidavit shall be paginated consecutively, and the page numbe
 
 > (b) All documentary exhibits in an affidavit shall be prefaced by a dividing sheet in a light colour other than white, marked, typed or stamped clearly with an exhibit mark as follows:
 
-> >  “This is the exhibit marked ____ [letter of the alphabet or a number] referred to in the affidavit of _____________[name of the deponent] and sworn/affirmed before me this _______ [date on which the affidavit is sworn or affirmed].
+> >  “This is the exhibit marked ______ [letter of the alphabet or a number] referred to in the affidavit of ____________[name of the deponent] and sworn/affirmed before me this _______ [date on which the affidavit is sworn or affirmed].
 
 > >  Before me,  
 
