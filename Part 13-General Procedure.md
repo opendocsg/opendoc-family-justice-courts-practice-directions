@@ -736,7 +736,7 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 (12) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law. It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. Opening statements also help to clarify issues between the parties, so that unnecessary time is not spent on trying to prove what is not disputed or irrelevant. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose.
 
-> (a) In the light of these objectives, opening statements will be required in all cases from all parties, except where dispensation has been granted by the trial Judge and in running down actions. Statements submitted may be taken as read by the trial Judge.
+> (a) In the light of these objectives, opening statements will be required in all cases from all parties, except where dispensation has been granted by the trial Judge and in running down actions.
 
 > (b) All opening statements must include the following:
 
@@ -891,17 +891,27 @@ _ABC Co Pte Ltd v XYZ Co Ltd [2015] SGFC 25, at [3], [8]._
 
 (1) In the event that a party is represented by more than one counsel at a hearing, whether in Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
-(2) If counsel have divided up their work such that it is necessary or desirable that submissions on different issues be made or certain portions of the examination, cross- examination or re-examination be conducted by different counsel, an application should be made to Court at the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
+(2) If party would like submissions on different issues be made or certain portions of the examination, cross- examination or re-examination be conducted by different counsel, an oral application should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
 
 > (a) the issues on which each counsel will be making submissions; and/or
 
 > (b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
+Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, crossexamination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them. 
+
 (3) If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that each confines himself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
 (4) If leave of the Court is not sought in accordance with sub-paragraph (2), only one counsel will be allowed to make submissions or conduct examination for a party throughout the hearing.
 
-(5) This Paragraph shall apply to all proceedings in the Family Courts, Juvenile Courts and Family Division of the High Court. 
+(5) For hearings in chambers, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with subparagraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
+
+(6)For civil trials: 
+ 
+> (a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and 
+
+> (b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference (“JPTC”), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel. 
+ 
+(7) This Paragraph shall apply to all proceedings in the Family Courts, Youth Courts and Family Division of the High Court. 
 
 ## 95. Amendment of documents
 
