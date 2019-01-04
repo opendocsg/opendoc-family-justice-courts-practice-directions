@@ -130,7 +130,13 @@
 
 (1) Save in the most exceptional and unforeseen circumstances, and so long as the firm of solicitors remains on record, a member of the firm must attend all proceedings in respect of the cause or matter in which the firm is acting, even if it does not intend to oppose the orders sought by the other side. The practice of asking the opposing solicitor to mention the matter on one's behalf is also not acceptable and should be discouraged. 
 
-(2) All solicitors appearing in any cause or matter are to be punctual in attending Court as delay in commencement of hearing leads to wastage of judicial time. Appropriate sanctions may be imposed for late attendances. 
+(2) The court may however allow a solicitor appearing in any cause or matter to mention for counsel for all other parties provided that: 
+ 
+> (a) the solicitor obtains confirmation of his authority to mention on their behalf for the purpose of the hearing; and 
+ 
+> (b) parties have agreed on the order sought. 
+ 
+(3) However, where an adjournment of the hearing date of any cause or matter is sought, solicitors for all parties must attend the hearing. 
 
 ## 161. Use of Skype
 
