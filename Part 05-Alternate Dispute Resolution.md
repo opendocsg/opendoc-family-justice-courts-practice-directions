@@ -8,7 +8,7 @@
 
 ### Court Ordered Private Mediation
 
-(2) With effect from 1 October 2016, the Court will no longer conduct mediation in relation to proceedings (including divorce proceedings, applications pursuant to section 121B of the Women’s Charter (Cap. 353) and proceedings for a grant of probate or letters of administration in respect of the estate and effects of a deceased person) which meet the following criteria:
+(2) With effect from 1 January 2019, the Court will no longer conduct mediation in relation to proceedings (including divorce proceedings, applications pursuant to section 121B of the Women’s Charter (Cap. 353) and proceedings for a grant of probate or letters of administration in respect of the estate and effects of a deceased person) which meet the following criteria:
 
 > (a) there is a contested issue relating to assets where the gross value of all known assets is S$3 million or above; and
 
