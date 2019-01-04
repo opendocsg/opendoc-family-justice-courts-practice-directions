@@ -1475,7 +1475,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 > (b) The Registrar's signature on a judgment or order is only for the purpose of validity and does not in any way affect the regularity or irregularity of the contents of any judgment or order.
 
-> (c) Subject to sub-paragraph (d), parties in inter partes applications should proceed to engross a final copy of the draft judgment for signature by the Registrar after agreeing on the draft. Draft orders of Court for ex parte applications (except probate matters) may be submitted with the summons and the supporting affidavit when these are filed.
+> (c) Subject to sub-paragraph (d), parties in _inter partes_ applications should proceed to engross a final copy of the draft judgment for signature by the Registrar _after_ agreeing on the draft. Draft orders of Court for _ex parte_ applications (except probate matters) may be submitted with the summons and the supporting affidavit when these are filed.
 
 > (d) For draft orders in electronic form that are composed online through the Electronic Filing Service, the process for extracting judgments and orders shall be as follows:
 
@@ -1856,21 +1856,21 @@ Every page of a bill of costs must be paginated consecutively at the centre of t
 
 A party claiming goods and services tax (hereinafter referred to as “GST”) in a bill of costs must comply with the directions set out in this sub-paragraph. A party who fails to comply with the directions set out in this sub-paragraph will be presumed not to be claiming GST in the bill concerned.
 
-> (a) GST registration number
+> (a) __GST registration number__
 
 > >  (i) The GST registration number allocated by the Comptroller of Goods and Services Tax to the solicitors for the receiving party or parties should appear at the top left hand corner of the first page of the bill of costs.
 
 > >  (ii) The GST registration numbers, if any, allocated to the receiving parties or to any one or more of them, as the case may be, must also appear at the top left hand corner of the first page of the bill of cost.
 
-> >  (iii) The GST registration numbers should be indicated as follows: “GST Reg. No. ( solicitors for plaintiff/solicitors for 1st defendant/2nd defendant/(or as the case may be)) : xxxxx.”
+> >  (iii) The GST registration numbers should be indicated as follows: “GST Reg. No. _(solicitors for plaintiff/solicitors for 1st defendant/2nd defendant/(or as the case may be))_ : xxxxx.”
 
 > >  (iv) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: “ Solicitors for plaintiff/solicitors for 1st defendant/2nd defendant/(or as the case may be) : no GST Reg. No.”
 
-> (b) Input tax allowable
+> (b) __Input tax allowable__
 
 > The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act (Cap. 117A), this proportion should be 100%.
 
-> (c) Apportionment
+> (c) __Apportionment__
 
 > >  (i) The first section of the bill of costs should set out the work done in the cause or matter except for taxation of costs. The amount of costs claimed for work done should be divided into as many parts corresponding with the different rates of GST applicable pursuant to section 16 of the Goods and Services Tax Act, its predecessor and any subsequent amendments thereto. Each part should state the global sum of costs claimed and the applicable GST rate for the relevant period.
 
@@ -1964,7 +1964,7 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 
 > (a) for solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act (Cap. 160) where the Director of Legal Aid is the respondent, the receiving party and the Director of Legal Aid need not attend at the taxation and the bill will be taxed in their absence, except that if the taxing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Director of Legal Aid at a later date.
 
-## 136. Fixing costs in lieu of ordering taxation
+## 136. Fixing costs in _lieu_ of ordering taxation
 
 (1) The Court may, where appropriate, fix costs at the end of a hearing or trial in lieu of ordering taxation. Counsel should therefore be prepared to make submissions on the entitlement to and quantum of costs at the end of a hearing or trial, whether before or after judgment is delivered.
 
@@ -1994,13 +1994,13 @@ The various courts, offices and counters within the Family Justice Courts have d
 
 ### Family Courts
 
-(a) Mentions Courts
+(a) __Mentions Courts__
 
 > Mondays to Fridays - 9:00 a.m. to 1:00 p.m. and
 
 > 2:30 p.m. to 5:30 p.m.
 
-(b) Hearing Courts and Chambers
+(b) __Hearing Courts and Chambers___
 
 > Mondays to Fridays - 9:30 a.m. to 1:00 p.m. and
 
@@ -2008,13 +2008,13 @@ The various courts, offices and counters within the Family Justice Courts have d
 
 ### Youth Courts
 
-(c) Mentions Courts
+(c) __Mentions Courts__
 
 > Mondays to Fridays - 9:00 a.m. to 1:00 p.m. and
 
 > 2:30 p.m. to 5:30 p.m.
 
-(d) Hearing Courts and Chambers
+(d) __Hearing Courts and Chambers__
 
 > Mondays to Fridays - 9:30 a.m. to 1:00 p.m. and
 
@@ -2022,13 +2022,13 @@ The various courts, offices and counters within the Family Justice Courts have d
 
 ### Family Division of the High Court
 
-(e) Registrar’s Chambers
+(e) __Registrar’s Chambers__
 
 > Mondays to Fridays - 9:00 a.m. to 1:00 p.m. and
 
 > 2:30 p.m. to 5:30 p.m.
 
-(f) Hearing Courts and Chambers
+(f) __Hearing Courts and Chambers__
 
 > Mondays to Fridays - 10:00 a.m. to 1:00 p.m. and
 
@@ -2118,15 +2118,15 @@ Every single page of a document _must_ be paginated so that the pagination on th
 
 (1) Solicitors and law firms are encouraged to file documents through the Electronic Filing Service. However, in the event that certain documents cannot be filed through the Electronic Filing Service, solicitors and law firms may file documents through the service bureau. Litigants in person may also file documents through the service bureau.
 
-(2) The operating hours of the service bureau may be found on the Electronic Filing Service website at [http://www.elitigation.sg.](http://www.elitigation.sg.)
+(2) The operating hours of the service bureau may be found on the Electronic Filing Service website at [http://www.elitigation.sg.](http://www.elitigation.sg)
 
 (3) [Deleted]
 
-(4) Any document which is accepted for filing outside the time periods specified on the Electronic Filing Service website at [http://www.elitigation.sg,](http://www.elitigation.sg,) will be treated by the service bureau as having been accepted on the following working day.
+(4) Any document which is accepted for filing outside the time periods specified on the Electronic Filing Service website at [http://www.elitigation.sg](http://www.elitigation.sg) will be treated by the service bureau as having been accepted on the following working day.
 
 (5) Documents to be filed through the service bureau must comply with these Practice Directions and all applicable administrative instructions and procedures prescribed by the service bureau with the approval of the superintendent.
 
-(6) Documents filed through the service bureau shall be subject to a Manual Handling Fee as set out in the Electronic Filing Service website at [http://www.elitigation.sg,](http://www.elitigation.sg,) and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent. 
+(6) Documents filed through the service bureau shall be subject to a Manual Handling Fee as set out in the Electronic Filing Service website at [http://www.elitigation.sg](http://www.elitigation.sg) and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent. 
 
 ## 148. Filing of documents to the Family Justice Courts through a Supreme Court service bureau
 
