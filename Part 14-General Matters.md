@@ -170,19 +170,18 @@
 4. Then identify the corresponding **Skype contact** from the following:
 
 
-|**Family Justice Courts Registry**|
-|:----:|
-|**For hearings at 3 Havelock Square, Singapore 059725**|
+|**Family Justice Courts Registry**||
+|:----:||
+|**For hearings at 3 Havelock Square, Singapore 059725**||
 | **Chamber** |**Skype contact**| 
-| ------------- |----------------| 
-| Chambers C    | FJCourts_Ch_C  |
-| Chambers D    | FJCourts_Ch_D  |
-| Chambers E    | FJCourts_Ch_E  |
-| Chambers J    | FJCourts_Ch_J  |
+| ------------|----------------| 
+| Chambers C  | FJCourts_Ch_C  |
+| Chambers D  | FJCourts_Ch_D  |
+| Chambers E  | FJCourts_Ch_E  |
+| Chambers J  | FJCourts_Ch_J  |
 
-|**For hearings at 5 Maxwell Road, #04-00, Tower Block, MND Complex, Singapore 069110** |
-|:----:|
-|  | | 
+|**For hearings at 5 Maxwell Road, #04-00, Tower Block, MND Complex, Singapore 069110** ||
+|:----:||
 | ------------- |---------------| 
 | Chambers 1    | fjcourts.ch1  |
 | Chambers 2    | fjcourts.ch2  |
