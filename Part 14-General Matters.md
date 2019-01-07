@@ -2,7 +2,7 @@
 
 ## 158. Weekend / Public Holiday Duty Registrar and Judge at the Family Courts
 
-(1) The Duty Judge at the Family Courts may hear an urgent application on Saturdays (from 1pm to 6pm) and on Sundays and public holidays (from 9am to 6pm) under the following circumstances:
+(1) The Duty Judge at the Family Courts may hear an urgent application from 9 a.m. to 6 p.m on Saturdays, Sundays and public holidays under the following circumstances:
 
 > (a) where the applicant, being a lawful guardian or parent of a child, is seeking to restrain or enjoin another party from taking the child out of jurisdiction without the consent of the applicant;
 
@@ -10,11 +10,7 @@
 
 > (c) there is a strong likelihood that the child, once taken out of Singapore, will not return to Singapore.
 
-(2) To request the urgent hearing of such an application, the applicant should contact the Weekend / Public Holiday Duty Registrar at 97241402 during the following operating hours:
-
-> (a) 1 p.m. to 6 p.m. on Saturdays; and
-
-> (b) 9 a.m. to 6 p.m. on Sundays and public holidays.
+(2) To request the urgent hearing of such an application, the applicant should contact the Weekend / Public Holiday Duty Registrar at 97241402 during the hours of 9 a.m. to 6 p.m on Saturdays, Sundays and public holidays.
 
 (3) The Duty Registrar will only arrange for the hearing of the application before the Duty Judge if the applicant satisfies the Duty Registrar that the case meets all the criteria stipulated in sub-paragraph (1).
 
@@ -173,21 +169,22 @@
 3. Check the chambers assigned to hear your case.
 4. Then identify the corresponding **Skype contact** from the following:
 
-    **Family Justice Courts Registry**  
-
-    **For hearings at 3 Havelock Square, Singapore 059725**  
-    Chambers C - FJCourts_Ch_C  
-    Chambers D - FJCourts_Ch_D  
-    Chambers E - FJCourts_Ch_E  
-    Chambers J - FJCourts_Ch_J  
-
-    **For hearings at 5 Maxwell Road, #04-00, Tower Block, MND Complex, Singapore 069110**  
-
-    Chambers 1 - fjcourts.ch1  
-    Chambers 2 - fjcourts.ch2  
-    Chambers 3 - fjcourts.ch3  
-    Chambers 4 - fjcourts.ch4  
-    Chambers 5 - fjcourts.ch5  
+|:----:|
+|**Family Justice Courts Registry**|  
+|**For hearings at 3 Havelock Square, Singapore 059725**|
+| ------------- |----------------| 
+| Chambers C    | FJCourts_Ch_C  |
+| Chambers D    | FJCourts_Ch_D  |
+| Chambers E    | FJCourts_Ch_E  |
+| Chambers J    | FJCourts_Ch_J  |
+|:----:|
+|**For hearings at 5 Maxwell Road, #04-00, Tower Block, MND Complex, Singapore 069110** |
+| ------------- |----------------| 
+| Chambers 1    | fjcourts.ch1  |
+| Chambers 2    | fjcourts.ch2  |
+| Chambers 3    | fjcourts.ch3  |
+| Chambers 4    | fjcourts.ch4  |  
+| Chambers 5    | fjcourts.ch5  |
 
 5. Send an instant message to the relevant Chambers using Skype to inform the judge that
     you are ready and state your name, law firm and case number. E.g., if your matter is
@@ -393,7 +390,7 @@ is required to attend Court and wishes to excuse himself from Court on medical g
 
 (7) This Paragraph shall apply to all proceedings in the Family Justice Courts, whether in open Court or in camera. 
 
-## 163. Publication Of & Reports and Comments on Court Cases
+## 163. Publication of & Reports and Comments on Court Cases
 
 (1) This paragraph applies to solicitors, litigants (whether acting by solicitors or in person), the media and all other persons reporting on or commenting about cases which are before any court (“court cases”). All categories of persons mentioned above are collectively referred to as “all concerned”.
 
