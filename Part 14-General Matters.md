@@ -171,10 +171,8 @@
 
 
 |**Family Justice Courts Registry**||
-|:----:||
 |**For hearings at 3 Havelock Square, Singapore 059725**||
 | **Chamber** |**Skype contact**| 
-| ------------|----------------| 
 | Chambers C  | FJCourts_Ch_C  |
 | Chambers D  | FJCourts_Ch_D  |
 | Chambers E  | FJCourts_Ch_E  |
