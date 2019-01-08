@@ -123,7 +123,7 @@ which are filed by more than one party.
 
 > **(a) Natural person with Singapore identity card**
 
-> For a natural person who is a Singapore citizen or permanent resident, theidentification number shall be the number of the identity card issued under theNational Registration Act (Cap. 201). The 7 digit number as well as the lettersat the front and end should be stated. For example: “(NRIC No. S1234567A)”.
+> For a natural person who is a Singapore citizen or permanent resident, the identification number shall be the number of the identity card issued under the National Registration Act (Cap. 201). The 7 digit number as well as the letters at the front and end should be stated. For example: “(NRIC No. S1234567A)”.
 
 > **(b) Natural person with FIN number**
 

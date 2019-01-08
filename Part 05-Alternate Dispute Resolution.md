@@ -8,7 +8,7 @@
 
 ### Court Ordered Private Mediation
 
-(2) With effect from 1 October 2016, the Court will no longer conduct mediation in relation to proceedings (including divorce proceedings, applications pursuant to section 121B of the Women’s Charter (Cap. 353) and proceedings for a grant of probate or letters of administration in respect of the estate and effects of a deceased person) which meet the following criteria:
+(2) With effect from 1 January 2019, the Court will no longer conduct mediation in relation to proceedings (including divorce proceedings, applications pursuant to section 121B of the Women’s Charter (Cap. 353) and proceedings for a grant of probate or letters of administration in respect of the estate and effects of a deceased person) which meet the following criteria:
 
 > (a) there is a contested issue relating to assets where the gross value of all known assets is S$3 million or above; and
 
@@ -16,9 +16,9 @@
 
 (3) The Registrar or the Judge may order that parties in proceedings which meet the criteria attend private mediation conducted by the Singapore Mediation Centre (“SMC”), unless parties have agreed upon a mediator (“Agreed Private Mediator”). The Registrar or the Judge may also make any orders necessary, including any orders pertaining to the payment of the mediation and its related fees.
 
-(4) For mediations conducted by the SMC, the parties and/or counsel shall provide the Registrar or the Judge with the necessary information for the SMC to contact them to arrange for the mediation. The Registrar or the Judge will give directions and timelines for parties to agree on a mediation date and to exchange case information, documents and mediation briefs. The Registrar or the Judge will fix a return date for parties and/or counsel to update the Court on the outcome of the private mediation.
+(4) <u>For mediations conducted by the SMC<u>, the parties and/or counsel shall provide the Registrar or the Judge with the necessary information for the SMC to contact them to arrange for the mediation. The Registrar or the Judge will give directions and timelines for parties to agree on a mediation date and to exchange case information, documents and mediation briefs. The Registrar or the Judge will fix a return date for parties and/or counsel to update the Court on the outcome of the private mediation.
 
-(5) For mediations conducted by the Agreed Private Mediators, the parties or their counsel shall inform the Registrar or the Judge of the identity of their Agreed Private Mediator, the management of the mediation and the agreed date for mediation. The Registrar or Judge may make any order necessary for the timely and efficacious disposal of the case, including fixing return dates for the parties or their counsel to update the court, and/or re-directing the case to the SMC.
+(5) <u>For mediations conducted by the Agreed Private Mediators<u>, the parties or their counsel shall inform the Registrar or the Judge of the identity of their Agreed Private Mediator, the management of the mediation and the agreed date for mediation. The Registrar or Judge may make any order necessary for the timely and efficacious disposal of the case, including fixing return dates for the parties or their counsel to update the court, and/or re-directing the case to the SMC.
 
 (6) Parties and their counsel must personally attend all mediation sessions, unless otherwise stated by the private mediator.
 
