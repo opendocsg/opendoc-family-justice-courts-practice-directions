@@ -236,7 +236,8 @@ the grantee shall file 2 copies of a fresh grant for signing and sealing at the 
 (2) Where the copy of any record of proceedings applied for is not collected by the applicant within the time given by sub-paragraph (1), the copy of the record of proceedings shall be disposed of and the applicant must make a fresh application if he still requires a copy of the relevant record of proceedings. 
  
 (3) Any application for the waiver or remission of any fee payable for a copy of any record of proceedings may be made to the Registrar of the Family Justice Courts and the grant of such an application shall be in the absolute discretion of the Registrar. 
-71D. Pre-hearing matters 
+
+## 71D. Pre-hearing matters 
  
 (1) The applicant and respondent (if any) in the proceedings must inform the Court dealing with a case conference on the matter or the Judge presiding over the case of all relevant matters that may affect the hearing of the case including, but not limited to, the following matters: 
  
