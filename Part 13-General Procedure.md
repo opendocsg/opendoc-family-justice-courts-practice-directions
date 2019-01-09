@@ -101,6 +101,7 @@ All applications in chambers (including summonses and originating summonses) sha
 > (c) the reasons why the applicant’s response would be relevant and material for the just disposition of the case.
 
 **Summons to vary child-related orders**
+
 (6) An application to vary child-related orders shall be made by way of summons filed in the suit in which the original order was made.
 
 (7) In an application to vary the existing court order(s) on custody, care and control and/or access, the applicant must demonstrate by way of affidavit why it would be in the best interests and welfare of the child for the orders to be varied.
@@ -449,7 +450,7 @@ preceded by a heading.
 
 (1) Applicants for _Mareva_ injunctions are required to prepare their orders in accordance with the following forms in Appendix A:
 
-> (a) Form 239: Worldwide Mareva injunction; and
+> (a) Form 239: Worldwide _Mareva_ injunction; and
 
 > (b) Form 240: Mareva injunction limited to assets within the jurisdiction.
 
@@ -476,7 +477,7 @@ whether there have been any past incidents of the opponent dissipating assets, d
 
 > (d) factual basis for any reasonable defences that may be relied on by the opponent;
 
-> (e) whether the applicant is aware of any issues relating to jurisdiction, forum non conveniens or service out of jurisdiction, and. if so, whether any application relating to these issues has been or will be made;
+> (e) whether the applicant is aware of any issues relating to jurisdiction, _forum non conveniens_ or service out of jurisdiction, and. if so, whether any application relating to these issues has been or will be made;
 
 > (f) an undertaking to pay for losses that may be caused to the opponent or other persons by the granting of the orders sought, stating what assets are available to meet that undertaking and to whom the assets belong; and : (g) any other material facts which the Court should be aware of.
 
@@ -616,7 +617,7 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 > (d) The table of contents shall contain a concise statement of the relevance of each authority to the specific issues before the Court. The relevance of each authority shall be succinctly expressed and comprise no more than 3 sentences. The statement shall be set out immediately after the name of the case. For example:
 
-> Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull [2007] 1 SLR(R) 377
+> _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull [2007] 1 SLR(R) 377_
 
 > Relevance: Choice of law considerations are relevant even when determining the natural forum to hear a dispute.
 
@@ -642,13 +643,13 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 **Filing documents when setting down**
 
-(1) The party setting down an action for trial must file with the Registrar a notice for setting down an action for trial in Form 119 together with a bundle for the use of the Judge consisting of one copy of each of the following documents:
+>(1) The party setting down an action for trial must file with the Registrar a notice for setting down an action for trial in Form 119 together with a bundle for the use of the Judge consisting of one copy of each of the following documents:
 
-> (a) the writ;
+>> (a) the writ;
 
-> (b) the pleadings (including any affidavits ordered to stand as pleadings), any notice or order for particulars and the particulars given; and 
+>> (b) the pleadings (including any affidavits ordered to stand as pleadings), any notice or order for particulars and the particulars given; and 
 
-> (c) all orders made on the summons for directions.
+>> (c) all orders made on the summons for directions.
 
 (2) In addition, parties should endeavour to file a core bundle of documents. This core bundle should comprise only documents that are relevant to the hearing in question, or which will be referred to in the course of the hearing.
 
@@ -736,7 +737,7 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 (12) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law. It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. Opening statements also help to clarify issues between the parties, so that unnecessary time is not spent on trying to prove what is not disputed or irrelevant. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose.
 
-> (a) In the light of these objectives, opening statements will be required in all cases from all parties, except where dispensation has been granted by the trial Judge and in running down actions. Statements submitted may be taken as read by the trial Judge.
+> (a) In the light of these objectives, opening statements will be required in all cases from all parties, except where dispensation has been granted by the trial Judge and in running down actions.
 
 > (b) All opening statements must include the following:
 
@@ -891,17 +892,27 @@ _ABC Co Pte Ltd v XYZ Co Ltd [2015] SGFC 25, at [3], [8]._
 
 (1) In the event that a party is represented by more than one counsel at a hearing, whether in Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
-(2) If counsel have divided up their work such that it is necessary or desirable that submissions on different issues be made or certain portions of the examination, cross- examination or re-examination be conducted by different counsel, an application should be made to Court at the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
+(2) If party would like submissions on different issues be made or certain portions of the examination, cross- examination or re-examination be conducted by different counsel, an oral application should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
 
 > (a) the issues on which each counsel will be making submissions; and/or
 
 > (b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
+Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, crossexamination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them. 
+
 (3) If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that each confines himself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
 (4) If leave of the Court is not sought in accordance with sub-paragraph (2), only one counsel will be allowed to make submissions or conduct examination for a party throughout the hearing.
 
-(5) This Paragraph shall apply to all proceedings in the Family Courts, Juvenile Courts and Family Division of the High Court. 
+(5) For hearings in chambers, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with subparagraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
+
+(6) For civil trials: 
+ 
+> (a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and 
+
+> (b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference (“JPTC”), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel. 
+ 
+(7) This Paragraph shall apply to all proceedings in the Family Courts, Youth Courts and Family Division of the High Court. 
 
 ## 95. Amendment of documents
 
@@ -996,7 +1007,7 @@ The waiting time between the filing of certain processes or other steps in the p
 | 6 | Assessment of Damages | 2 to 4 weeks from the last case conference |
 | 7 | Examination of Judgment Debtor | 4 weeks from Request for Examination |
 | 8 | Non-contentious Probate applications | 3 to 4 weeks from filing date |
-| 9 | Adoption cases 4 weeks from filing date |
+| 9 | Adoption cases | 4 weeks from filing date|
 | 10 | Taxation and review of taxation | 3 to 4 weeks from filing date |
 | 11 | Writs of Execution | 4 to 8 weeks from filing date |
 | 12 | Appeal against the Registrar’s decision | 2 to 4 weeks from filing date |
@@ -1019,7 +1030,7 @@ The waiting time between the filing of certain processes or other steps in the p
 | 19 | Appeals from Family Courts | 4 weeks from receipt of record of proceedings |
 | 20 | Magistrate's Appeals | 8 weeks from receipt of record of proceedings |
 
-_#_ The waiting period for applications for discovery or interrogatories against a network service provider under Paragraph 82 of these Practice Directions is 5 days from the date of filing of the Originating Summons.^
+_#_ The waiting period for applications for discovery or interrogatories against a network service provider under Paragraph 82 of these Practice Directions is 5 days from the date of filing of the Originating Summons.
 
 _(*) "Waiting Time" is defined as follows:_
 
@@ -1327,7 +1338,7 @@ having conduct of the proceedings; or
 
 (2) This sub-paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service. 
 
-> (a) Form of affidavits generally
+> (a) **Form of affidavits generally**
 
 > >  (i) Affidavits shall be on A4-ISO paper of durable quality with a blank margin not less than 35 mm wide on all 4 sides of the page.
 
@@ -1337,7 +1348,7 @@ having conduct of the proceedings; or
 
 > >  (iv) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
 
-> (b) Markings on affidavits
+> (b) **Markings on affidavits**
 
 > At the top right hand corner of the first page of every affidavit, and also on the backing sheet, there shall be typed or printed in a single line the following:
 
@@ -1381,7 +1392,7 @@ Every page of the affidavit shall be paginated consecutively, and the page numbe
 
 > (a) Every page of every exhibit must be fully and clearly legible. Where necessary, magnified copies of the relevant pages should be inserted in appropriate places.
 
-> (b) Every page of the exhibits, including dividing sheets or separators between exhibits , shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.
+> (b) Every page of the exhibits, _including dividing sheets or separators between exhibits_ , shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.
 
 > (c) Each exhibit in the affidavit must be separately book-marked in the Portable Document Format document that is filed. For this purpose —
 
@@ -1399,7 +1410,7 @@ Every page of the affidavit shall be paginated consecutively, and the page numbe
 
 > (b) All documentary exhibits in an affidavit shall be prefaced by a dividing sheet in a light colour other than white, marked, typed or stamped clearly with an exhibit mark as follows:
 
-> >  “This is the exhibit marked ____ [letter of the alphabet or a number] referred to in the affidavit of _____________[name of the deponent] and sworn/affirmed before me this _______ [date on which the affidavit is sworn or affirmed].
+> >  “This is the exhibit marked ______ [letter of the alphabet or a number] referred to in the affidavit of ____________[name of the deponent] and sworn/affirmed before me this _______ [date on which the affidavit is sworn or affirmed].
 
 > >  Before me,  
 
@@ -1475,7 +1486,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 > (b) The Registrar's signature on a judgment or order is only for the purpose of validity and does not in any way affect the regularity or irregularity of the contents of any judgment or order.
 
-> (c) Subject to sub-paragraph (d), parties in inter partes applications should proceed to engross a final copy of the draft judgment for signature by the Registrar after agreeing on the draft. Draft orders of Court for ex parte applications (except probate matters) may be submitted with the summons and the supporting affidavit when these are filed.
+> (c) Subject to sub-paragraph (d), parties in _inter partes_ applications should proceed to engross a final copy of the draft judgment for signature by the Registrar _after_ agreeing on the draft. Draft orders of Court for _ex parte_ applications (except probate matters) may be submitted with the summons and the supporting affidavit when these are filed.
 
 > (d) For draft orders in electronic form that are composed online through the Electronic Filing Service, the process for extracting judgments and orders shall be as follows:
 
@@ -1856,21 +1867,21 @@ Every page of a bill of costs must be paginated consecutively at the centre of t
 
 A party claiming goods and services tax (hereinafter referred to as “GST”) in a bill of costs must comply with the directions set out in this sub-paragraph. A party who fails to comply with the directions set out in this sub-paragraph will be presumed not to be claiming GST in the bill concerned.
 
-> (a) GST registration number
+> (a) __GST registration number__
 
 > >  (i) The GST registration number allocated by the Comptroller of Goods and Services Tax to the solicitors for the receiving party or parties should appear at the top left hand corner of the first page of the bill of costs.
 
 > >  (ii) The GST registration numbers, if any, allocated to the receiving parties or to any one or more of them, as the case may be, must also appear at the top left hand corner of the first page of the bill of cost.
 
-> >  (iii) The GST registration numbers should be indicated as follows: “GST Reg. No. ( solicitors for plaintiff/solicitors for 1st defendant/2nd defendant/(or as the case may be)) : xxxxx.”
+> >  (iii) The GST registration numbers should be indicated as follows: “GST Reg. No. _(solicitors for plaintiff/solicitors for 1st defendant/2nd defendant/(or as the case may be))_ : xxxxx.”
 
 > >  (iv) Where no GST registration number has been allocated to a receiving party, a statement to this effect should be included after the GST registration numbers of the solicitors for the receiving parties, or the receiving parties, as the case may be, in the following manner: “ Solicitors for plaintiff/solicitors for 1st defendant/2nd defendant/(or as the case may be) : no GST Reg. No.”
 
-> (b) Input tax allowable
+> (b) __Input tax allowable__
 
 > The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act (Cap. 117A), this proportion should be 100%.
 
-> (c) Apportionment
+> (c) __Apportionment__
 
 > >  (i) The first section of the bill of costs should set out the work done in the cause or matter except for taxation of costs. The amount of costs claimed for work done should be divided into as many parts corresponding with the different rates of GST applicable pursuant to section 16 of the Goods and Services Tax Act, its predecessor and any subsequent amendments thereto. Each part should state the global sum of costs claimed and the applicable GST rate for the relevant period.
 
@@ -1964,7 +1975,7 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 
 > (a) for solicitor-and-client bills filed pursuant to the Legal Aid and Advice Act (Cap. 160) where the Director of Legal Aid is the respondent, the receiving party and the Director of Legal Aid need not attend at the taxation and the bill will be taxed in their absence, except that if the taxing Registrar disagrees with the quantum of costs agreed on, he may nonetheless direct the attendance of the Director of Legal Aid at a later date.
 
-## 136. Fixing costs in lieu of ordering taxation
+## 136. Fixing costs in _lieu_ of ordering taxation
 
 (1) The Court may, where appropriate, fix costs at the end of a hearing or trial in lieu of ordering taxation. Counsel should therefore be prepared to make submissions on the entitlement to and quantum of costs at the end of a hearing or trial, whether before or after judgment is delivered.
 
@@ -1994,13 +2005,13 @@ The various courts, offices and counters within the Family Justice Courts have d
 
 ### Family Courts
 
-(a) Mentions Courts
+(a) __Mentions Courts__
 
 > Mondays to Fridays - 9:00 a.m. to 1:00 p.m. and
 
 > 2:30 p.m. to 5:30 p.m.
 
-(b) Hearing Courts and Chambers
+(b) __Hearing Courts and Chambers___
 
 > Mondays to Fridays - 9:30 a.m. to 1:00 p.m. and
 
@@ -2008,13 +2019,13 @@ The various courts, offices and counters within the Family Justice Courts have d
 
 ### Youth Courts
 
-(c) Mentions Courts
+(c) __Mentions Courts__
 
 > Mondays to Fridays - 9:00 a.m. to 1:00 p.m. and
 
 > 2:30 p.m. to 5:30 p.m.
 
-(d) Hearing Courts and Chambers
+(d) __Hearing Courts and Chambers__
 
 > Mondays to Fridays - 9:30 a.m. to 1:00 p.m. and
 
@@ -2022,13 +2033,13 @@ The various courts, offices and counters within the Family Justice Courts have d
 
 ### Family Division of the High Court
 
-(e) Registrar’s Chambers
+(e) __Registrar’s Chambers__
 
 > Mondays to Fridays - 9:00 a.m. to 1:00 p.m. and
 
 > 2:30 p.m. to 5:30 p.m.
 
-(f) Hearing Courts and Chambers
+(f) __Hearing Courts and Chambers__
 
 > Mondays to Fridays - 10:00 a.m. to 1:00 p.m. and
 
@@ -2118,15 +2129,15 @@ Every single page of a document _must_ be paginated so that the pagination on th
 
 (1) Solicitors and law firms are encouraged to file documents through the Electronic Filing Service. However, in the event that certain documents cannot be filed through the Electronic Filing Service, solicitors and law firms may file documents through the service bureau. Litigants in person may also file documents through the service bureau.
 
-(2) The operating hours of the service bureau may be found on the Electronic Filing Service website at [http://www.elitigation.sg.](http://www.elitigation.sg.)
+(2) The operating hours of the service bureau may be found on the Electronic Filing Service website at [http://www.elitigation.sg.](http://www.elitigation.sg)
 
 (3) [Deleted]
 
-(4) Any document which is accepted for filing outside the time periods specified on the Electronic Filing Service website at [http://www.elitigation.sg,](http://www.elitigation.sg,) will be treated by the service bureau as having been accepted on the following working day.
+(4) Any document which is accepted for filing outside the time periods specified on the Electronic Filing Service website at [http://www.elitigation.sg](http://www.elitigation.sg) will be treated by the service bureau as having been accepted on the following working day.
 
 (5) Documents to be filed through the service bureau must comply with these Practice Directions and all applicable administrative instructions and procedures prescribed by the service bureau with the approval of the superintendent.
 
-(6) Documents filed through the service bureau shall be subject to a Manual Handling Fee as set out in the Electronic Filing Service website at [http://www.elitigation.sg,](http://www.elitigation.sg,) and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent. 
+(6) Documents filed through the service bureau shall be subject to a Manual Handling Fee as set out in the Electronic Filing Service website at [http://www.elitigation.sg](http://www.elitigation.sg) and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent. 
 
 ## 148. Filing of documents to the Family Justice Courts through a Supreme Court service bureau
 

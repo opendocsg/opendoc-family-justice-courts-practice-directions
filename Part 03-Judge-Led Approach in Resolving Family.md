@@ -98,18 +98,18 @@ resolving the issues really in dispute between the parties; and
 ```
 Explanatory Note
 
-Singapore society has become increasingly international. In cases involving children, a further complication arises where parents and children reside in more than one jurisdiction In such cases, direct judicial communications may be beneficial. This Practice Direction is issued to facilitate such communications..
+Singapore society has become increasingly international. In cases involving children, a further complication arises where parents and children reside in more than one jurisdiction In such cases, direct judicial communications may be beneficial. This Practice Direction is issued to facilitate such communications.
 
 Direct judicial communications refer to communications that take place between sitting judges of different jurisdictions when there are concurrent related proceedings involving the same parties.
 
-It has now been recognised and firmly established in some foreign jurisdictions such as England & Wales, Australia, New Zealand, Canada and United States of America that direct judicial communications are key mechanisms to assist practitioners and judges in resolving cases with an international element in the best interests of children and of justice in general. These communications will often result in considerable time savings and better use of available resources, and are done with the overriding objectiv e of securing the best interests of the child. Direct judicial communication does not aim to inhibit parties’ right to adduce expert evidence on the foreign law, but should be seen as another tool to be made available for parties involved in multiple proceedings in different jurisdictions.
+It has now been recognised and firmly established in some foreign jurisdictions such as England & Wales, Australia, New Zealand, Canada and United States of America that direct judicial communications are key mechanisms to assist practitioners and judges in resolving cases with an international element in the best interests of children and of justice in general. These communications will often result in considerable time savings and better use of available resources, and are done with the overriding objective of securing the best interests of the child. Direct judicial communication does not aim to inhibit parties’ right to adduce expert evidence on the foreign law, but should be seen as another tool to be made available for parties involved in multiple proceedings in different jurisdictions.
 ```
 
 **_Introduction_**
 
 (1) This Practice Direction is issued to assist judges and practitioners dealing with family proceedings affecting children in which direct judicial communications may be beneficial. It is not intended to change the current rules or procedure or to affect the substantive rights of the parties, but is simply intended to facilitate cooperation in international cases, where appropriate.
 
-(2) The Liaison Judges of Singapore are appointed by the Chief Justice, and it is part of their role to receive and, when necessary, channel incoming judicial communications and initiate or facilitate outgoing communications. The current appointees are set out in the Annex to this Paragraph (please see below).
+(2) The Liaison Judges of Singapore are appointed by the Chief Justice, and it is part of their role to receive and, when necessary, channel incoming judicial communications and initiate or facilitate outgoing communications. The current appointees are the Presiding Judge of the Family Justice Courts and a Judge/Judicial Commissioner of the Family Division of the High Court. Further details of the Liaison Judges can be found on the Family Justice Court's website at [https://www.familyjusticecourts.gov.sg](https://www.familyjusticecourts.gov.sg).
 
 (3) Matters which may be the subject of direct judicial communications include, for example:
 
@@ -183,7 +183,7 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 
 (19) The initial communication should ordinarily take place between our Liaison Judge and the Liaison Judge of the other jurisdiction, if any, in order to ascertain the identity of the judge seised in that jurisdiction. If no Liaison Judge has been appointed in the other jurisdiction, the Central Authority of Singapore or the party within jurisdiction is to assist in providing the identity of the judge in the other jurisdiction.
 
-(20) When making contact with a judge in another jurisdiction, the initial communication should normally be in writing sent to the email address in the Annex below, subject to provisions set out in this Practice Direction in relation to written communications, and should in particular identify:
+(20) When making contact with a judge in another jurisdiction, the initial communication should normally be in writing sent to the email address to [FJCOURTS_Family_Registry@fjcourts.gov.sg](mailto: FJCOURTS_Family_Registry@fjcourts.gov.sg), subject to provisions set out in this Practice Direction in relation to written communications, and should in particular identify:
 
 > (a) the name and contact details of the initiating judge;
 
@@ -258,20 +258,3 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 **_Keeping Central Authority informed of judicial communications_**
 
 (43) Where appropriate, the judge engaged in direct judicial communications may consider informing his or her Central Authority that a judicial communication will take place.
-
-### Annex
-
-**Liaison Judge(s)**
-
-The Presiding Judge  
-Family Justice Courts  
-3 Havelock Square  
-Singapore 059725
-
-Foo Tuat Yien  
-Judicial Commissioner  
-Family Justice Courts  
-3 Havelock Square  
-Singapore 059725
-
-Email contact: [FJCourts_Family_Registry@fjcourts.gov.sg](mailto:FJCourts_Family_Registry@fjcourts.gov.sg)

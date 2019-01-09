@@ -59,3 +59,26 @@
 > (c) whether or not it is impracticable for the party or parties appearing before the Court to make such agreements; and
 
 > (d) whether or not the circumstances make it desirable that the interim judgment should be made final or as the case may be, that the judgment of judicial separation should be granted without delay.
+
+
+## 10A. Service on the Immigration and Checkpoints Authority (“ICA”) with Court Orders or Injunctions restraining or prohibiting the taking of child out of jurisdiction  
+
+(1) This Paragraph applies to parents and/or parties who intend to seek assistance from the ICA to stop a child from being taken out of jurisdiction.  
+ 
+(2) In proceedings under the Women’s Charter, the Guardianship of Infants Act or the International Child Abduction Act, a Court may grant an order or injunction restraining one or both parent(s) or any other party from taking the child out of jurisdiction without an Order of Court or the consent of the other or both parent(s)/parties. 
+ 
+(3) Any parent and/or party (hereinafter referred to as “the requestor”) who has been granted an order referred to in sub-paragraph (2) and who intends to seek assistance from the ICA to stop the child from being taken out of jurisdiction must file, prior to notifying the ICA, an undertaking in the prescribed Form 190A of Appendix A to these Practice Directions signed personally by the requestor. The filing is to be done in the eLitigation system using the document code “Other Supporting Document”.  
+ 
+(4) The copy of the extracted court order referred to in sub-paragraph (2) and Form 190A that has been filed pursuant to sub-paragraph (3) are to be sent to the ICA via an e-mail not exceeding 5MB in size to the email address set out below (and copied to the other party or the party’s solicitors via email or ordinary mail, whichever applicable)<u> during the ICA’s working hours only <u>and at least one working day in advance before the ICA is to act on the court order:- 
+ 
+ICA’s E-mail address: ICA_FJC_Notification@ica.gov.sg
+ICA’s working hours are:- 
+- Mondays to Fridays: 8am to 5pm 
+- Public Holiday Eves: 8am to 12pm  
+- Saturdays, Sundays and Public Holidays: Closed. 
+ 
+(5) The ICA will not provide assistance to stop the child from being taken out of jurisdiction if any party fails to comply with the filing and e-mail requirements provided in this Paragraph.
+
+
+
+

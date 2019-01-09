@@ -222,7 +222,7 @@ which purpose —
 
 (5) This procedure shall be complied with by counsel acting for the party filing the Request for Setting Down Action for Trial in all applicable cases unless an application for exemption is submitted citing special grounds (for example where parties wish to make any further application related to the grant of an interim judgment, including applications for abridgment of time).
 
-(6) If parties are applying for an exemption under sub-paragraph (5) above, the party filing the Request for Setting Down Action for Trial on an uncontested basis shall, at the same time, file Form 204 instead of Form 203in Appendix A to these Practice Directions.
+(6) If parties are applying for an exemption under sub-paragraph (5) above, the party filing the Request for Setting Down Action for Trial on an uncontested basis shall, at the same time, file Form 204 instead of Form 203 in Appendix A to these Practice Directions.
 
 ## 19. Uncontested Matrimonial Proceedings in open court hearings
 
@@ -388,6 +388,6 @@ which purpose —
 
 > (b) two copies (one of which is to be stamped) of the Decree Nisi / Order of Court (in terms of the draft Decree Nisi / Order of Court signed by all relevant parties / relevant parties’ solicitors.
 
-(10) The document listed in sub-paragraph (10)(a) above may be a photocopy.
+(10) The document listed in sub-paragraph (9)(a) above may be a photocopy.
 
 (11) This Paragraph is only applicable to matrimonial proceedings filed before 15 December 2003.
