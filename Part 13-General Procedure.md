@@ -906,7 +906,7 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (5) For hearings in chambers, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with subparagraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
 
-(6)For civil trials: 
+(6) For civil trials: 
  
 > (a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and 
 
