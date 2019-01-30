@@ -1427,11 +1427,8 @@ Every page of the affidavit shall be paginated consecutively, and the page numbe
 > >  (i) a table of contents of the documentary exhibits inserted before the first of such exhibits enumerating every exhibit in the affidavit in the manner of the example set out below:
 
 > > > | Reference in affidavit | Nature of exhibit | Page No. |
-
-> > > |-|-|-|
-
+> > > |---|---|---|
 > > > | “TAK-1” | Certificate of marriage | 6 |
-
 > > > | “TAK-2” | Certificate of birth | 7 |
 
 > >  (ii) each document shall be flagged by means of a plastic tag, marked in accordance with the exhibit reference and such flags shall run vertically down the right edge of the exhibits evenly spaced out so as not to overlap one another. The table of contents itself shall bear the top most flag, marked “TABLE”; and
