@@ -52,7 +52,11 @@ All applications in chambers (including summonses and originating summonses) sha
 
 (1) All interlocutory applications must be made by way of summons.
 
-(2) Ordinary summonses shall be endorsed “ _ex parte_ ” or “by consent” where applicable and when endorsed “ex parte” must bear a certificate to that effect signed by the solicitors for the applicant.
+(2) Ordinary summonses shall be endorsed “_ex parte_” or “by consent” where applicable. When the summons is endorsed “ex parte”, it must bear a certificate to that effect signed by the solicitors for the applicant. When the summons is endorsed “by consent” and the respondent to the summons is unrepresented, the signature of that respondent with the following endorsement 
+ 
+ “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.” 
+ 
+must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the parties in the proceedings.  
 
 (3) After the filing of any “ _ex parte_ ” or “by consent” summons, the application will be examined by the Judge or Registrar as the case may be. If he is satisfied that the application is in order and all other requirements have been complied with, he may make the order(s) applied for on the day fixed for the hearing of the application without the attendance of the applicant or his solicitor. 
 
@@ -525,11 +529,11 @@ whether there have been any past incidents of the opponent dissipating assets, d
 
 > (d) directions for parties to attend with counsel;
 
-> (e) for parties to attend mandatory counselling and mediation at the Child Focused Resolution Centre;
+> (e) for parties to attend mandatory counselling and mediation at the Family Justice Courts;
 
 > (f) the dates of the mediation and counselling sessions;
 
-> (g) directions on the conduct of mediation and counselling at the Family Resolution Chambers;
+> (g) directions on the conduct of mediation and counselling;
 
 > (h) the witnesses who will be called and whether they need interpretation;
 
@@ -1508,46 +1512,67 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 ## 116. Draft Consent Orders
 
+<u>**Orders relating to disposition or transfer of property**<u>
+
 (1) In any request or application for a consent judgment or order involving any disposition or transfer of property, the parties must provide the following information to the Court:
 
 > (a) the identity of the owner of the property subject to disposition or transfer;
 
 > (b) whether the owner of the property is incapacitated by reason of insolvency from effecting a disposition or transfer of the property;
 
-> (c) whether the property is subject to any encumbrance which would affect a disposition or transfer thereof; and
+> (c) whether the property is subject to any encumbrance which would affect a disposition or transfer thereof;
 
-> (d) any other relevant information which ought to be considered by the Court in granting the consent judgment or order.
+> (d) where Central Provident Fund (“CPF”) funds were utilised in the acquisition of the property, the CPF Checklist for Consent Orders in Form 246A in Appendix A to these Practice Directions; and
+
+> (e) any other relevant information which ought to be considered by the Court in granting the consent judgment or order.
 
 (2) The Court may require the information referred to in sub-paragraph (1) to be provided by way of an affidavit, which should exhibit the relevant searches where applicable.
 
-(3) For the convenience of parties and to expedite the recording of consent orders agreed between parties, parties can apply for the grant of a consent order through the following methods:-
+<u>**Recording of consent orders**<u> 
 
-> (a) appearing before any judge sitting in case conference for that case;
+(3) For the convenience of parties and to expedite the recording of consent orders agreed between parties, parties can apply for the grant of a consent order by submitting a draft consent order in the following  manner, in addition to seeking such orders at hearings:-
 
-> (b) appearing before a duty judge;
+> (a) before any judge sitting in case conference for that case;
 
-> (c) appearing before any judge in CFRC or FRC; or
+> (b) before a duty judge;
+
+> (c) before any Judge-Mediator; or
 
 > (d) via correspondence.
 
-(4) When an agreement has been reached between the parties on the custody of children, access to them, maintenance, division of matrimonial assets or other ancillary matters subsequent to the granting of an interim judgment (“the agreement”), counsel shall file the draft consent order incorporating the agreement in the prescribed template in the Electronic Filing Service at least 5 working days prior to the appearance in paragraph (3)(a) to (b) above.
+<u>**Content of the draft consent order**<u>
 
-(5) If the draft consent order has not been electronically filed in the Electronic Filing Service by the time of the appearance, a hard copy of the draft consent order bearing the signature of both parties or their counsel must be submitted in court for the approval of the Court during the appearance before the judge.
+(4) When an agreement has been reached between the parties on the custody and care of children, access to them, maintenance, division of matrimonial assets or other ancillary matters subsequent to the granting of an interim judgment (“the agreement”), a draft consent order may be prepared for submission to the Court for an order in terms of the agreement. 
 
-(6) The draft consent orders must be signed —
+(5) The draft consent orders must be signed — 
+ 
+> (a) in the case where both parties are represented, by both parties’ counsel; or 
+ 
+> (b) in the case where any party is unrepresented, by that party personally, except that the signature of that party in person must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the parties in the proceedings. 
+ 
+> (c) in the case where any party is unrepresented, the following endorsement below shall be inserted immediately below the party’s signature.  
+ 
+> “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.” 
 
-> (a) in the case where both parties are represented, by both parties’ counsel; or
-
-> (b) in the case where any party is unrepresented, by that party personally, except that the signature of that party in person must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the parties in the proceedings.
-
-(7) If parties have filed a draft consent order and they send a correspondence to the Court to ask for an order in terms, the Court may consider and approve the draft consent order submitted by the parties, and grant an order in terms of the same before the next date of appearance in Court. The next date of appearance in Court will then be vacated thus obviating the need for the parties to attend in Court for the sole purpose of recording the consent order. In such a situation, the Court will notify parties of the grant of the consent order through a Registrar's Notice.
-
-(8) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order".
-
-(9) Parties need not submit a further draft consent order for approval after the hearing.
-
-(10) Counsel need only file the engrossed copy of the consent order after the draft consent
-order is granted. 
+(6) Where one party is unrepresented, counsel for the other party shall inform the unrepresented party of his/her right to seek independent legal advice before signing the draft consent order. 
+ 
+(7) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order". 
+ 
+<u>**Recording a consent order in the manner set out in sub-paragraph (3)(a) to (c)**<u> 
+ 
+(8) Counsel shall file the draft consent order incorporating the agreement in the prescribed template in the Electronic Filing Service at least 5 working days prior to the appearance in sub-paragraph (3)(a) to (c) above. 
+ 
+(9) If the draft consent order has not been electronically filed in the Electronic Filing Service by the time of the appearance, a physical copy of the draft consent order bearing the signature of both parties or their counsel must be submitted in court for the approval of the Court during the appearance before the judge. 
+ 
+<u>**Recording a consent order in the manner set out in sub-paragraph (3)(d)**<u> 
+ 
+(10) Parties may file a draft consent order and via correspondence to the Court, request for an order in terms in accordance with sub-paragraph (3)(d) above. The Court may consider and approve the draft consent order submitted by the parties, and grant an order in terms of the same before the next date of appearance in Court. The next date of appearance in Court will then be vacated thus obviating the need for the parties to attend in Court for the sole purpose of recording the consent order. In such a situation, the Court will notify parties of the grant of the consent order through a Registrar's Notice. 
+ 
+<u>**Extracting an Order granted by Consent**<u> 
+ 
+(11) Parties need not submit a further draft consent order for approval after the hearing. 
+ 
+(12) Counsel need only file the engrossed copy of the consent order after the draft consent order is granted.
 
 ## 117. Judgment Interest
 
