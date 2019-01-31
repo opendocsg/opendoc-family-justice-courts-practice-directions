@@ -98,7 +98,7 @@ the Court will fix the divorce proceedings filed pursuant to the settlement, for
 
 > (b) Statement of Particulars with the following annexures:-
 
-> > (i) the draft Interim Judgment with agreed ancillary issues duly signed by both parties or their respective counsel;
+> > (i) the draft Interim Judgment with agreed ancillary issues in compliance with subparagraph 116(5) of these Practice Directions;
 
 > > (ii) the bankruptcy searches of both parties, conducted in accordance with Paragraph 14(7) above;
 
@@ -106,6 +106,8 @@ the Court will fix the divorce proceedings filed pursuant to the settlement, for
 Form 193 of Appendix A;
 
 > > (iv) a copy of the Marriage Certificate;
+
+> > (v) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable. 
 
 > (c) Request for Setting Down Trial for Action (in Form 29 of Appendix A to these Practice Directions); and
 
@@ -176,8 +178,7 @@ Form 193 of Appendix A;
 > (e) directions for parties to exchange a list of relevant information on the ancillary
 issues;
 
-> (f) directions for parties to attend mandatory counselling and mediation at the Child
-Focused Resolution Centre;
+> (f) directions for parties to attend mandatory counselling and mediation at the at the Family Justice Courts;
 
 > (g) the dates of the mediation and counselling sessions;
 
@@ -212,9 +213,11 @@ which purpose —
 
 > (c) where there is a Private Investigator’s (PI) report to be adduced as evidence, the Affidavit of Evidence in Chief of the PI exhibiting the PI report;
 
-> (d) the draft consent order incorporating the terms of the agreement, if any; and
+> (d) the draft consent order,  in compliance with Paragraph 116(5) of these Practice Directions, incorporating the terms of the agreement, if any;
 
-> (e) Form 203 in Appendix A to these Practice Directions, a copy which shall be sent to the other party at the same time by the filing party.
+> (e) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable; and 
+
+> (f) Form 203 in Appendix A to these Practice Directions, a copy which shall be sent to the other party at the same time by the filing party.
 
 (3) Where the documents are in order, the court may proceed to grant the relevant orders in chambers without requiring the attendance of the parties.
 
@@ -234,9 +237,11 @@ which purpose —
 
 > (c) where there is a Private Investigator’s (PI) report to be adduced as evidence, the Affidavit of Evidence in Chief of the PI exhibiting the PI report;
 
-> (d) the draft consent order incorporating the terms of the agreement, if any; and
+> (d) the draft consent order, in compliance with Paragraph 116(5) of these Practice Directions, incorporating the terms of the agreement, if any;
 
-> (e) Form 204 in Appendix A to these Practice Directions, a copy of which shall be sent to the other party at the same time by the filing party.
+> (e) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable; and
+
+> (f) Form 204 in Appendix A to these Practice Directions, a copy of which shall be sent to the other party at the same time by the filing party.
 
 (2) For the open court hearings of uncontested matrimonial proceedings under section 105 and 106, Part X of the Women’s Charter or pursuant to Paragraphs 18(4) and 18(5) above, there is no need for the plaintiff to be made to confirm every paragraph of the statement of claim and statement of particulars. Counsel will only need to put to the plaintiff in the witness box the questions which will prove the following matters: 
 
@@ -250,7 +255,7 @@ which purpose —
 
 (3) For this purpose and to facilitate the proceedings, counsel should supply a copy each of the statement of claim and statement of particulars to their respective clients.
 
-(4) If parties have reached an ancillary matters agreement, and intend to have it recorded at the open court hearing, counsel shall file the draft consent order incorporating the terms of the said agreement at least 7 working days prior to the open court hearing. The document name selected for the draft consent order in the Electronic Filing Service shall be “Draft Consent Order”.
+(4) If parties have reached an ancillary matters agreement, and intend to have it recorded at the open court hearing, counsel shall file the draft consent order, in compliance with Paragraph 116(5) of these Practice Directions,  incorporating the terms of the said agreement at least 7 working days prior to the open court hearing. The document name selected for the draft consent order in the Electronic Filing Service shall be “Draft Consent Order”.
 
 (5) Notwithstanding the adoption of this simplified procedure, counsel will still be expected to bring to the attention of the Court any specific matters in connection with or arising from the proceedings of which the Court should be aware. In particular, if section 123 of the Women’s Charter is applicable, the Directions set out in Paragraph 10 of these Practice Directions shall be complied with.
 

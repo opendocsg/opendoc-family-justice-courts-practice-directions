@@ -52,7 +52,7 @@
 
 ## 12. Mandatory Counselling & Mediation
 
-(1) Section 50(3A) of the Women’s Charter (Cap. 353) provides for mandatory counselling / mediation sessions at the Child-Focused Resolution Centre (“CFRC”). The first phase, beginning in September 2011, was for divorcing parents with any child or children below 8 years of age. The second phase, involving divorcing parents with any child or children below 14 years of age, was implemented for cases filed from 1st July 2013. The final phase was implemented for cases filed from 1 October 2014 and extended to all divorcing parents with any child or children below 21 years of age.
+(1) Section 50(3A) of the Women’s Charter (Cap. 353) provides for mandatory counselling / mediation sessions at the Family Justice Courts. The first phase, beginning in September 2011, was for divorcing parents with any child or children below 8 years of age. The second phase, involving divorcing parents with any child or children below 14 years of age, was implemented for cases filed from 1st July 2013. The final phase was implemented for cases filed from 1 October 2014 and extended to all divorcing parents with any child or children below 21 years of age.
 
 (2) Notice(s) of attendance for mandatory counselling/mediation sessions with location details will be sent to the plaintiff and defendant in the divorce proceedings. Attendance by the parties is compulsory. Attendance by the parties’ respective counsel, if any, is required only when specifically stated in the notification.
 
