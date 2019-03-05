@@ -54,8 +54,7 @@
 
 > (d) all applications and documents relating to proceedings under the Mental Disorders and Treatment Act or the Mental Capacity Act filed in the High Court before 1st October 2014;and
 
-> (e) all applications and documents relating to proceedings under Probate and Administration Act filed in the High Court before 1 
-January 2015.
+> (e) all applications and documents relating to proceedings under Probate and Administration Act filed in the High Court before 1 January 2015.
 
 (5) Documents relating to contested proceedings filed under Probate and Administration Act filed before 1 January 2015 shall continue to be filed in the State Courts. Documents relating to uncontested proceedings filed under Probate and Administration Act filed before 1 January 2015 shall be filed in the Family Justice Courts.
 
