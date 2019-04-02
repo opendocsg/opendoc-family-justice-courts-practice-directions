@@ -1,6 +1,6 @@
 # Family Justice Courts Practice Directions
 
-![](assets/FamilyJusticeCourts_Logo.png)
+![](assets/images/logo.png)
 
 ## Contents
 
