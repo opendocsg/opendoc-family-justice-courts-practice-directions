@@ -1,13 +1,12 @@
 # Appendices
 
-## Appendix A - Forms
+## Appendix A: Forms
 
 <a href="./assets/Appendices/fjc-epd-appendices-25mar19.docx" download>PDF Version</a>
 
 <a href="./assets/Appendices/fjc-epd-appendices-25mar19.pdf" download>Word Version</a>
 
-=======
-## Appendix B - Discovery and Inspection of Electronic Documents
+## Appendix B: Discovery and Inspection of Electronic Documents
 
 ### Part 1: Agreed electronic discovery protocol
 
