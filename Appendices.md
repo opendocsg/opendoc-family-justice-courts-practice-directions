@@ -29,7 +29,7 @@ where temporarily deleted files are located (for example the Recycle Bin folder 
 Trash folder) are within the scope of general discovery; deleted files or file
 fragments containing information which are recoverable through the use of
 computer forensic tools or techniques during a forensic inspection of the
-unallocated file space or file slack are not within the scope of general discovery.
+unallocated file space or file slack are **not** within the scope of general discovery.
 
 > (d) **Reasonable search.** The search terms or phrases specified in the first column will
 be used in the conduct of a reasonable search for relevant electronically stored 
@@ -197,7 +197,7 @@ phrases and to which the Producing Party provides his consent in
 accordance with this sub-paragraph.
 
 > A copy of the documents or records that are the results of the reasonable search
-(“the Search Results”) shall be made and released to the Producing Party.
+(“**the Search Results**”) shall be made and released to the Producing Party.
 
 > **(b) Review for privileged material.**
 
@@ -341,6 +341,11 @@ otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court.
 | Moving Picture Experts Group (MPEG-1) | ISO/IEC-11172 |
 | H.264 | ITU-T H.264 |
 | MPEG-4 Part 10 or MPEG-4 AVC (Advanced Video Coding) | ISO/IEC 14496-10:2003 |
+|------|--------|
+| _Multimedia container formats_ | |
+| Audio Video Interleave | |
+| QuickTime File Format | |
+| MPEG-4 Part 14 | ISO/IEC 14496-10:2003 |
 
 ## Appendix C: Sample Bills of Costs
 
