@@ -2,10 +2,7 @@
 
 Download the appendices here:
 
-<a href="./assets/Appendices/Appendix_A.pdf" download>Appendix A</a>
+<a href="./assets/Appendices/fjc-epd-appendices-25mar19.docx" download>PDF Version</a>
 
-<a href="./assets/Appendices/Appendix_B.pdf" download>Appendix B</a>
+<a href="./assets/Appendices/fjc-epd-appendices-25mar19.pdf" download>Word Version</a>
 
-<a href="./assets/Appendices/Appendix_C.pdf" download>Appendix C</a>
-
-<a href="./assets/Appendices/Appendix_D.pdf" download>Appendix D</a>
