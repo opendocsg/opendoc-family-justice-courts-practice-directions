@@ -351,40 +351,36 @@ otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court.
 
 | File Format | Version |
 |------|---------|
-| _Office Documents_ | |
+| **_Office Documents_** | |
 | Hypertext Markup Language | HTML 4.01 or ISO/IEC 15445:2000 |
 | Extensible Hypertext Markup Language | XHTML 2.0 |
 | Rich Text Format (RTF) | RTF 1.9.1 |
 | Plaintext Format | |
 | Portable Document Format (PDF) | |
-| Microsoft Office file formats | Word 97 - 2007 Binary File Format (.doc) Specification |
-| | PowerPoint 97 - 2007 Binary File Format (.ppt) Specification |
-| | Excel 97 - 2007 Binary File Format (.xls) Specification |
-| | Excel 2007 Binary File Format (.xlsb) Specification |
-| | Office Drawing 97 - 2007 Binary Format Specification |
+| Microsoft Office file formats | Word 97 - 2007 Binary File Format (.doc)<br> Specification PowerPoint 97 - 2007 Binary File Format (.ppt)<br> Specification Excel 97 - 2007 Binary File Format (.xls)<br> Specification Excel 2007 Binary File Format (.xlsb)<br> Specification Office Drawing 97 - 2007 Binary Format Specification |
 |------|---------|
-| _Electronic Mail_ | |
+| **_Electronic Mail_** | |
 | Multipurpose Internet Mail Extension (MIME) | RFC 5322 |
 | .eml | Mozilla Thunderbird, Windows Mail and Microsoft Outlook Express e-mail messages |
 | .msg | Microsoft Office Outlook e-mail messages |
 |------|---------|
-| _Images_ | |
+| **_Images_** | |
 | Joint Photographic Experts Group (JPEG) | ISO/IEC 10918-1 |
 | JPEG 2000 | ISO/IEC 15444-1:2000 |
 | Portable Network Graphics (PNG) | ISO/IEC 15948:2004 |
 | Tagged Image File Format | TIFF or ISO 12639:1998 |
 | Portable Document Format | PDF 1.7 or ISO 32000-1:2008 |
 |------|--------|
-| _Audio_ | |
+| **_Audio_** | |
 | MPEG-1 Audio Layer 3 (MP3) | ISO/IEC 11172-3 |
 | Advanced Audio Coding (AAC) | ISO/IEC 14496-3:2001 |
 |------|--------|
-| _Video_ | |
+| **_Video_** | |
 | Moving Picture Experts Group (MPEG-1) | ISO/IEC-11172 |
 | H.264 | ITU-T H.264 |
 | MPEG-4 Part 10 or MPEG-4 AVC (Advanced Video Coding) | ISO/IEC 14496-10:2003 |
 |------|--------|
-| _Multimedia container formats_ | |
+| **_Multimedia container formats_** | |
 | Audio Video Interleave | |
 | QuickTime File Format | |
 | MPEG-4 Part 14 | ISO/IEC 14496-10:2003 |
