@@ -1,5 +1,6 @@
 # Appendix A: Forms
 
+## Individual Forms
 <a href="./assets/forms/Form%201.docx" download>Form 1 - Section 94 Originating Summons Form</a>
 
 <a href="./assets/forms/Form%202.docx" download>Form 2 - Notice of Section 94 Originating Summons Form</a>
@@ -40,8 +41,7 @@
 
 <a href="./assets/forms/Form%2020.docx" download>Form 20 - Affidavit of Service Form</a>
 
-Other Forms - Download the appendices here:
+## All Forms
 
-<a href="./assets/Appendices/fjc-epd-appendices-25mar19.docx" download>PDF Version</a>
+Appendix A ( <a href="./assets/Appendices/Appendix_A.pdf" download>Download PDF</a> \| <a href="./assets/Appendices/Appendix_A.docx" download>Download Word doc</a> )
 
-<a href="./assets/Appendices/fjc-epd-appendices-25mar19.pdf" download>Word Version</a>
