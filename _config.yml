@@ -27,7 +27,10 @@ section_order:
   - "Part XIII - General Procedure"
   - "Part XIV – General Matters"
   - "Part XV - Litigants in Person"
-  - "Appendices"
+  - "Appendix A: Forms"
+  - "Appendix B: Discovery and Inspection of Electronic Documents"
+  - "Appendix C: Sample Bills of Costs"
+  - "Appendix D: Fees For Use of the Technology Courts and the Mobile Infocomm Technology Facilities"
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/images/logo.png
