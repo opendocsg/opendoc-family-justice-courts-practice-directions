@@ -1,6 +1,6 @@
-<!-- # Appendix A: Forms
+# Appendix A: Forms
 
-## Individual Forms 
+<!-- ## Individual Forms 
 <a href="./assets/forms/Form%201.docx" download>Form 1 - Section 94 Originating Summons Form</a>
 
 <a href="./assets/forms/Form%202.docx" download>Form 2 - Notice of Section 94 Originating Summons Form</a>
