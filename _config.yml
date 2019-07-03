@@ -1,5 +1,5 @@
 title: Family Justice Courts Practice Directions 
-remote_theme: opendocsg/opendoc-theme
+remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-family-justice-courts-practice-directions
 plugins:
@@ -9,30 +9,30 @@ baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 google_analytics: UA-113717369-4
-section_order:
-  - "Part I - Preliminary"
-  - "Part II - Commencement of Proceedings"
-  - "Part III – Judge-Led Approach in Resolving Family Disputes"
-  - "Part IV – Processes relating to Children"
-  - "Part V – Alternate Dispute Resolution"
-  - "Part VI – Proceedings for the Dissolution of Marriage under Part X of Women’s Charter"
-  - "Part VII – Proceedings under Part VII and VIII of Women’s Charter"
-  - "Part VIIA – Electronic Filing Service under Division 68A of Part 18 of the Family Justice Rules"
-  - "Part VIII - Adoption of Children"
-  - "Part IX – Youth Courts"
-  - "Part X – International Child Abduction Act"
-  - "Part XI – Mental Capacity Act"
-  - "Part XII – Probate Proceedings"
-  - "Part XIIA – Vulnerable Adults Act"
-  - "Part XIII - General Procedure"
-  - "Part XIV – General Matters"
-  - "Part XV - Litigants in Person"
-  - "Appendix A: Forms"
-  - "Appendix B: Discovery and Inspection of Electronic Documents"
-  - "Appendix C: Sample Bills of Costs"
-  - "Appendix D: Fees For Use of the Technology Courts and the Mobile Infocomm Technology Facilities"
+order:
+  - "Part 01-Preliminary.md"
+  - "Part 02-Commencement of Proceedings.md"
+  - "Part 03-Judge-Led Approach in Resolving Family.md"
+  - "Part 04-Processes relating to Children.md"
+  - "Part 05-Alternate Dispute Resolution.md"
+  - "Part 06-Proceedings for the Dissolution of Marriage under Part X of Women’s Charter.md"
+  - "Part 07-Proceedings under Part VII and VIII of Women’s Charter.md"
+  - "Part 07A-Electronic Filing Service under Division 68A.md"
+  - "Part 08-Adoption of Children.md"
+  - "Part 09-Youth Courts.md"
+  - "Part 10-International Child Abduction Act.md"
+  - "Part 11-Mental Capacity Act.md"
+  - "Part 12-Probate Proceedings.md"
+  - "Part 12A–Vulnerable Adults Act.md"
+  - "Part 13-General Procedure.md"
+  - "Part 14-General Matters.md"
+  - "Part 15-Litigants in Person.md"
+  - "Appendix A- Forms.md"
+  - "Appendix B- Discovery and Inspection of Electronic Documents.md"
+  - "Appendix C-  Sample Bills of Costs.md"
+  - "Appendix D- Fees For Use of the Technology Courts and the Mobile Infocomm Technology Facilities.md"
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/images/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
-  feedback_url: https://form.gov.sg/5cee3d46138e3200109244df
+  feedback_url: https://form.gov.sg/forms/govtech/5c0dd61bd4128b001781c84c
