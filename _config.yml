@@ -1,5 +1,5 @@
 title: Family Justice Courts Practice Directions 
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@s3pdf
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-family-justice-courts-practice-directions
 plugins:
@@ -8,6 +8,7 @@ plugins:
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
+offline: false
 google_analytics: UA-113717369-4
 order:
   - "Part 01-Preliminary.md"
