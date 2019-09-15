@@ -321,10 +321,15 @@ Fund Board;
 
 > (x) Provided that the total amount received is no more than $60,000, to do one or
 more of the following:
+
 >> (i) To withdraw monies from P’s bank account;
+
 >> (ii) To receive P’s moneys from the Central Provident Fund Board;
+
 >> (iii) To surrender and/or claim P’s insurance monies;
+
 >> (iv) To sell P’s shares;
+
 >> (v) To sell P’s motor vehicle.
  
 (3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
