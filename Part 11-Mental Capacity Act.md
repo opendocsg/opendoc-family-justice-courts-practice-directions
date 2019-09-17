@@ -273,9 +273,67 @@ All applications subsequent to the filing of the originating summons in any ment
 > (a) To consent to medical treatment for P; 
 
 > (b) To consent to dental treatment for P. 
+
+> (c) To decide where and with whom P is to live;
+
+> (d) To decide on care services for P;
+
+> (e) To decide on travelling arrangements for P;
+
+> (f) To open a bank account for P;
+
+> (g) To close P’s bank account;
+
+> (h) To place P’s money in fixed deposit accounts in P’s bank;
+
+> (i) To terminate GIRO arrangements linked to P’s bank account;
+
+> (j) To cancel P’s credit cards;
+
+> (k) To pay P’s debts;
+
+> (l) To rent out P’s property;
+
+> (m) To decide on upgrading or renovation of P’s property;
+
+> (n) To lodge a Notice of Death in respect of P’s property;
+
+> (o) To apply for a replacement Certificate of Title in respect of P’s property;
+
+> (p) To purchase insurance policies for P;
+
+> (q) To place P’s monies in a trust for P;
+
+> (r) To apply to and/or communicate with any Government agency or agency
+designated by the Government to administer the matter in question on behalf of
+P to the extent to which P would have been able to if P had mental capacity;
+
+> (s) To obtain information relating to P;
+
+> (t) To decide and act for P in relation to Central Provident Fund matters;
+
+> (u) To receive monies paid to P on a regular basis by from the Central Provident
+Fund Board;
+
+> (v) To enter into contracts for P;
+
+> (w) To conduct legal proceedings in P’s name or on P’s behalf;
+
+> (x) Provided that the total amount received is no more than $60,000, to do one or
+more of the following:
+
+>> (i) To withdraw monies from P’s bank account;
+
+>> (ii) To receive P’s moneys from the Central Provident Fund Board;
+
+>> (iii) To surrender and/or claim P’s insurance monies;
+
+>> (iv) To sell P’s shares;
+
+>> (v) To sell P’s motor vehicle.
  
 (3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
 
-> (c) more than 6 months before the date of the application; and 
+> (a) more than 6 months before the date of the application; and 
 
-> (d) more than 3 months after P was last examined by P’s doctor. 
+> (b) more than 3 months after P was last examined by P’s doctor. 
