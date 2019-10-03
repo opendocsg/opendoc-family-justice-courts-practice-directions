@@ -10,6 +10,20 @@
 
 (4) If the dispute is not resolved at the session, the matter will be referred back to the Mentions Court before a District Judge who will give the necessary directions to enable the case to proceed to trial.
 
+## 23A. Offer to Resolve in maintenance applications
+
+(1) A complainant in proceedings filed under section 69 or section 72 of the Women's Charter (Cap. 353) may make an Offer to Resolve. The contents of the Offer shall be confidential and without prejudice save as to costs. To utilise this platform, both parties must have SingPass accounts and enter valid email addresses for the purpose of receiving notifications.
+
+(2) A complainant may log in to iFAMS to make an Offer to Resolve as soon as the complaint is filed, and prior to the first Court date.
+
+(3) Upon receiving an email notification that an Offer has been made via iFAMS, the recipient should log in to iFAMs to view the Offer. The Offer will state a validity period and the recipient may: (a) accept the Offer or make a counter-offer within the validity period; (b) reject the Offer, or (c) allow the Offer to lapse. Each party may make up to 3 Offers.
+
+(4) At the first Court date, parties can inform the mediator if they have reached a settlement through the Offer to Resolve platform. Parties may, if they so desire, then proceed to record a consent order before the Duty Judge. Where there is no settlement, and parties proceed to mediation, consent may be given by parties to the mediator to refer to their respective Offers made on the platform to facilitate the mediation.
+
+(5) Where there is dispute as to when an Offer was made through the Offer to Resolve platform, the time and date on the Offer sent shall be conclusive of when it was made.
+
+(6) All Offers sent through this platform will reflect the following email address: do-notreply@ifams.gov.sg.
+
 ## 24. Pre-hearing matters
 
 (1) The applicant and respondent in family violence and maintenance proceedings under Part VII and VIII of the Women’s Charter must inform the District Judge presiding over the Mentions Court of all relevant matters that may affect the hearing of the case including, but not limited to, the following matters:
