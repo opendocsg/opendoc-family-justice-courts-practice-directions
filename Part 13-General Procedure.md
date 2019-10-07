@@ -1509,7 +1509,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 ## 116. Draft Consent Orders
 
-<u>**Orders relating to disposition or transfer of property**<u>
+**<u>Orders relating to disposition or transfer of property</u>**
 
 (1) In any request or application for a consent judgment or order involving any disposition or transfer of property, the parties must provide the following information to the Court:
 
@@ -1525,7 +1525,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (2) The Court may require the information referred to in sub-paragraph (1) to be provided by way of an affidavit, which should exhibit the relevant searches where applicable.
 
-<u>**Recording of consent orders**<u> 
+**<u>Recording of consent orders</u>**
 
 (3) For the convenience of parties and to expedite the recording of consent orders agreed between parties, parties can apply for the grant of a consent order by submitting a draft consent order in the following  manner, in addition to seeking such orders at hearings:-
 
@@ -1537,7 +1537,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 > (d) via correspondence.
 
-<u>**Content of the draft consent order**<u>
+**<u>Content of the draft consent order</u>**
 
 (4) When an agreement has been reached between the parties on the custody and care of children, access to them, maintenance, division of matrimonial assets or other ancillary matters subsequent to the granting of an interim judgment (“the agreement”), a draft consent order may be prepared for submission to the Court for an order in terms of the agreement. 
 
@@ -1555,17 +1555,17 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
  
 (7) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order". 
  
-<u>**Recording a consent order in the manner set out in sub-paragraph (3)(a) to (c)**<u> 
+**<u>Recording a consent order in the manner set out in sub-paragraph (3)(a) to (c)</u>**
  
 (8) Counsel shall file the draft consent order incorporating the agreement in the prescribed template in the Electronic Filing Service at least 5 working days prior to the appearance in sub-paragraph (3)(a) to (c) above. 
  
 (9) If the draft consent order has not been electronically filed in the Electronic Filing Service by the time of the appearance, a physical copy of the draft consent order bearing the signature of both parties or their counsel must be submitted in court for the approval of the Court during the appearance before the judge. 
  
-<u>**Recording a consent order in the manner set out in sub-paragraph (3)(d)**<u> 
+**<u>Recording a consent order in the manner set out in sub-paragraph (3)(d)</u>**
  
 (10) Parties may file a draft consent order and via correspondence to the Court, request for an order in terms in accordance with sub-paragraph (3)(d) above. The Court may consider and approve the draft consent order submitted by the parties, and grant an order in terms of the same before the next date of appearance in Court. The next date of appearance in Court will then be vacated thus obviating the need for the parties to attend in Court for the sole purpose of recording the consent order. In such a situation, the Court will notify parties of the grant of the consent order through a Registrar's Notice. 
  
-<u>**Extracting an Order granted by Consent**<u> 
+**<u>Extracting an Order granted by Consent</u>**
  
 (11) Parties need not submit a further draft consent order for approval after the hearing. 
  
