@@ -38,9 +38,9 @@
 
 ## 74. Forms of documents to be filed for proceedings under Chapter 4A of Part X of the Women’s Charter (Cap. 353)
 
-(1) An originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 227 in Appendix A to these Practice Directions.
+(1) An ex-parte originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 227 in Appendix A to these Practice Directions.
 
-(2) The plaintiff’s affidavit in support of the originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 228 in Appendix A to these Practice Directions.
+(2) The plaintiff’s affidavit in support of the ex-parte originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 228 in Appendix A to these Practice Directions.
 
 (3) The plaintiff’s affidavit in support of the originating summons for financial relief under section 121B of the Women’s Charter shall be in Form 229 in Appendix A to these Practice Directions. 
 
