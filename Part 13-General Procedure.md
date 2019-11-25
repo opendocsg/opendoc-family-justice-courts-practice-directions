@@ -554,7 +554,7 @@ determining whether to transfer the case to the Family Division of the High Cour
 
 > (m) the number of days required for the hearing and the fixing of hearing dates; and
 
-> (n) the administrative arrangements for the next hearing (e.g. whether it will be conducted over JOL or whether interpreters are required, etc.).
+> (n) the administrative arrangements for the next hearing (e.g. whether interpreters are required, etc.).
 
 (3) The principal solicitors having conduct of the case are to personally attend the case conference. They are expected to be thoroughly prepared to discuss all relevant matters as the Registrar conducting the case conference will take a holistic approach tothe case and consider all relevant matters relating to the case.
 
