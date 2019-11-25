@@ -1543,15 +1543,21 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (5) The draft consent orders must be signed — 
  
-> (a) in the case where both parties are represented, by both parties’ counsel; or 
+> (a) in the case where any party is represented, by that parties’ counsel; or 
  
-> (b) in the case where any party is unrepresented, by that party personally, except that the signature of that party in person must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the parties in the proceedings. 
+> (b) in the case where any party is unrepresented and another is represented, by that unrepresented party personally, and subject to the following requirements: 
+
+> >  (i) the signature of that unrepresented party must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the other parties in the proceedings.
+
+> >  (ii)	the counsel for the represented party or parties shall inform the unrepresented party of his/her right to seek legal advice before the unrepresented party signs the draft consent order. 
+
+> >  (iii) the following endorsement shall be inserted immediately below the unrepresented party’s signature. 
+
+> > “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.”
  
-> (c) in the case where any party is unrepresented, the following endorsement below shall be inserted immediately below the party’s signature.  
+> (c) in the case where all parties are unrepresented, by the parties personally and their signatures must be witnessed by an advocate and solicitor or a commissioner for oaths.
  
 > “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.” 
-
-(6) Where one party is unrepresented, counsel for the other party shall inform the unrepresented party of his/her right to seek independent legal advice before signing the draft consent order. 
  
 (7) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order". 
  
