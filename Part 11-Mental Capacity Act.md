@@ -312,7 +312,7 @@ P to the extent to which P would have been able to if P had mental capacity;
 
 > (t) To decide and act for P in relation to Central Provident Fund matters;
 
-> (u) To receive monies paid to P on a regular basis by from the Central Provident
+> (u) To receive monies paid to P on a regular basis by the Central Provident
 Fund Board;
 
 > (v) To enter into contracts for P;
@@ -324,13 +324,13 @@ more of the following:
 
 >> (i) To withdraw monies from P’s bank account;
 
->> (ii) To receive P’s moneys from the Central Provident Fund Board;
+>> (ii) To surrender and/or claim P’s insurance monies;
 
->> (iii) To surrender and/or claim P’s insurance monies;
+>> (iii) To sell P’s shares;
 
->> (iv) To sell P’s shares;
+>> (iv) To sell P’s motor vehicle.
 
->> (v) To sell P’s motor vehicle.
+>> (v) To receive, in addition to monies paid to P on a regular basis by the Central Provident Fund Board, up to $60,000 of P’s monies from the Central Provident Fund Board.
  
 (3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
 
