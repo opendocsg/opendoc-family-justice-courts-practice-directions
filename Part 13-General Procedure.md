@@ -38,9 +38,9 @@
 
 ## 74. Forms of documents to be filed for proceedings under Chapter 4A of Part X of the Women’s Charter (Cap. 353)
 
-(1) An originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 227 in Appendix A to these Practice Directions.
+(1) An ex-parte originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 227 in Appendix A to these Practice Directions.
 
-(2) The plaintiff’s affidavit in support of the originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 228 in Appendix A to these Practice Directions.
+(2) The plaintiff’s affidavit in support of the ex-parte originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 228 in Appendix A to these Practice Directions.
 
 (3) The plaintiff’s affidavit in support of the originating summons for financial relief under section 121B of the Women’s Charter shall be in Form 229 in Appendix A to these Practice Directions. 
 
@@ -554,7 +554,7 @@ determining whether to transfer the case to the Family Division of the High Cour
 
 > (m) the number of days required for the hearing and the fixing of hearing dates; and
 
-> (n) the administrative arrangements for the next hearing (e.g. whether it will be conducted over JOL or whether interpreters are required, etc.).
+> (n) the administrative arrangements for the next hearing (e.g. whether interpreters are required, etc.).
 
 (3) The principal solicitors having conduct of the case are to personally attend the case conference. They are expected to be thoroughly prepared to discuss all relevant matters as the Registrar conducting the case conference will take a holistic approach tothe case and consider all relevant matters relating to the case.
 
@@ -1541,17 +1541,23 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (4) When an agreement has been reached between the parties on the custody and care of children, access to them, maintenance, division of matrimonial assets or other ancillary matters subsequent to the granting of an interim judgment (“the agreement”), a draft consent order may be prepared for submission to the Court for an order in terms of the agreement. 
 
-(5) The draft consent orders must be signed — 
+(5) The draft consent order must be signed — 
  
-> (a) in the case where both parties are represented, by both parties’ counsel; or 
+> (a) in the case where any party is represented, by that parties’ counsel; or 
  
-> (b) in the case where any party is unrepresented, by that party personally, except that the signature of that party in person must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the parties in the proceedings. 
+> (b) in the case where any party is unrepresented and another is represented, by that represented party personally and subject to the following requirements: 
  
-> (c) in the case where any party is unrepresented, the following endorsement below shall be inserted immediately below the party’s signature.  
- 
-> “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.” 
+> >  (i) the signature of that unrepresented party must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the other parties in the proceedings.
 
-(6) Where one party is unrepresented, counsel for the other party shall inform the unrepresented party of his/her right to seek independent legal advice before signing the draft consent order. 
+> >  (ii)	the counsel for the represented party or parties shall inform the unrepresented party of his/her right to seek legal advice before the unrepresented party signs the draft consent order. 
+
+> >  (iii)	the following endorsement shall be inserted immediately below the unrepresented party’s signature. 
+
+> “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.”
+
+> (c) in the case where all parties are unrepresented, by the parties personally and their signatures must be witnessed by an advocate and solicitor or a commissioner for oaths.
+ 
+(6) [deleted]
  
 (7) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order". 
  

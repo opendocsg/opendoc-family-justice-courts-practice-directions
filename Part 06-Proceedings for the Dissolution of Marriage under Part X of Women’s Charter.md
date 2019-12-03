@@ -131,7 +131,7 @@ Form 193 of Appendix A;
 
 > (b) the Sales Section at HDB Centre, where the HDB matrimonial asset is an Agreement for the Lease of an HDB flat.
 
-(3) Where the HDB matrimonial asset is an HDB flat, the HDB standard query as required under rule 46(4) of the Family Justice Rules shall be in accordance with Form 195 in Appendix A to these Practice Directions and shall be served on the HDB at the Branch Office which is in charge of the estate in which the HDB flat is located. Where the HDB matrimonial asset is an Agreement for the Lease of an HDB flat, the HDB standard query shall be in accordance with Form 196 in Appendix A to these Practice Directions and shall be served on the HDB at the Sales Section at HDB Centre. The Housing and Development Board shall give the written answers to the standard query within one month of the service of the query.
+(3) Where the HDB matrimonial asset is an HDB flat, the information required to complete the proposed Matrimonial Property Plan in Form 14 may be obtained via the online service provided by HDB at “My HDBPage” found at www.hdb.gov.sg. 
 
 (4) The relevant CPF statements referred to in rules 46 and 56 of the Family Justice Rules are statements which show—
 
