@@ -1,5 +1,5 @@
 title: Family Justice Courts Practice Directions 
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-family-justice-courts-practice-directions
 plugins:
@@ -10,30 +10,41 @@ server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 offline: false
 google_analytics: UA-113717369-4
-order:
-  - "Part 01-Preliminary.md"
-  - "Part 02-Commencement of Proceedings.md"
-  - "Part 03-Judge-Led Approach in Resolving Family.md"
-  - "Part 04-Processes relating to Children.md"
-  - "Part 05-Alternate Dispute Resolution.md"
-  - "Part 06-Proceedings for the Dissolution of Marriage under Part X of Women’s Charter.md"
-  - "Part 07-Proceedings under Part VII and VIII of Women’s Charter.md"
-  - "Part 07A-Electronic Filing Service under Division 68A.md"
-  - "Part 08-Adoption of Children.md"
-  - "Part 09-Youth Courts.md"
-  - "Part 10-International Child Abduction Act.md"
-  - "Part 11-Mental Capacity Act.md"
-  - "Part 12-Probate Proceedings.md"
-  - "Part 12A–Vulnerable Adults Act.md"
-  - "Part 13-General Procedure.md"
-  - "Part 14-General Matters.md"
-  - "Part 15-Litigants in Person.md"
-  - "Appendix A- Forms.md"
-  - "Appendix B- Discovery and Inspection of Electronic Documents.md"
-  - "Appendix C-  Sample Bills of Costs.md"
-  - "Appendix D- Fees For Use of the Technology Courts and the Mobile Infocomm Technology Facilities.md"
+
 styling_options:
   primary_brand_color: '#9f0836'
   logo_path: /assets/images/logo.png
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: https://form.gov.sg/forms/govtech/5c0dd61bd4128b001781c84c
+
+hide_toolbar:
+  sidebar: false
+  pdf: false
+  github: true
+
+folders:
+  - name: '/'
+    title: 'Family Justice Courts Practice Directions'
+    subtitle: ''
+    order:
+      - "Part 01-Preliminary.md"
+      - "Part 02-Commencement of Proceedings.md"
+      - "Part 03-Judge-Led Approach in Resolving Family.md"
+      - "Part 04-Processes relating to Children.md"
+      - "Part 05-Alternate Dispute Resolution.md"
+      - "Part 06-Proceedings for the Dissolution of Marriage under Part X of Women’s Charter.md"
+      - "Part 07-Proceedings under Part VII and VIII of Women’s Charter.md"
+      - "Part 07A-Electronic Filing Service under Division 68A.md"
+      - "Part 08-Adoption of Children.md"
+      - "Part 09-Youth Courts.md"
+      - "Part 10-International Child Abduction Act.md"
+      - "Part 11-Mental Capacity Act.md"
+      - "Part 12-Probate Proceedings.md"
+      - "Part 12A–Vulnerable Adults Act.md"
+      - "Part 13-General Procedure.md"
+      - "Part 14-General Matters.md"
+      - "Part 15-Litigants in Person.md"
+      - "Appendix A- Forms.md"
+      - "Appendix B- Discovery and Inspection of Electronic Documents.md"
+      - "Appendix C-  Sample Bills of Costs.md"
+      - "Appendix D- Fees For Use of the Technology Courts and the Mobile Infocomm Technology Facilities.md"
