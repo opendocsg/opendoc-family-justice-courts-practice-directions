@@ -995,7 +995,7 @@ by
 
 ## 96. Waiting time for the hearing of matters
 
-The waiting time between the filing of certain processes or other steps in the proceedings and the date for the hearing of the matter are as set out below. Solicitors are directed to take note of these waiting times and must be ready to proceed at the end of the relevant period. 
+The average waiting time between the filing of certain processes or other steps in the proceedings and the date for the hearing of the matter are as set out below.  Solicitors are directed to take note of these waiting times and must be ready to proceed at the end of the relevant period. The average waiting times set out below do not apply to special date fixings.
 
 ### Waiting Time for Trials or Hearings in the Family Justice Courts
 
