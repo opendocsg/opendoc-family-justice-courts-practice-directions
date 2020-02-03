@@ -995,7 +995,7 @@ by
 
 ## 96. Waiting time for the hearing of matters
 
-The waiting time between the filing of certain processes or other steps in the proceedings and the date for the hearing of the matter are as set out below. Solicitors are directed to take note of these waiting times and must be ready to proceed at the end of the relevant period. 
+The average waiting time between the filing of certain processes or other steps in the proceedings and the date for the hearing of the matter are as set out below.  Solicitors are directed to take note of these waiting times and must be ready to proceed at the end of the relevant period. The average waiting times set out below do not apply to special date fixings.
 
 ### Waiting Time for Trials or Hearings in the Family Justice Courts
 
@@ -1157,9 +1157,15 @@ Where an application has been struck off by reason of any party being absent, th
 
 (1) In order to maintain the dignity of Court proceedings in the Family Justice Courts, court users are strictly prohibited from making any video and/or image recording in all hearings and sessions in Court or in chambers. 
 
-(2) Additionally, all communications with external parties and audio recording during a hearing or session are strictly prohibited without prior approval of the Judge or Registrar hearing the matter or the person presiding over the session. 
+(2) Additionally, audio recording during a hearing is strictly prohibited without prior approval of the Judge or Registrar hearing the matter or the person presiding over the session. 
 
-(3) Court users are permitted to use notebooks, tablets and other electronic devices to take notes of evidence and for other purposes pertaining to the proceedings during hearings or sessions, provided that such use does not in any way disrupt or trivialise the proceedings.
+(3)  Court users are permitted to use notebooks, tablets, mobile phones and other electronic devices to: 
+ 
+> (a) take notes of evidence and for other purposes pertaining to the proceedings in Court or Chambers; or 
+ 
+> (b) communicate with external parties in all hearings in Court, 
+ 
+provided that such use does not in any way disrupt or trivialise the proceedings.            
 
 (4) This Paragraph shall apply to all family and juvenile proceedings in the Family Justice Courts.
 

@@ -558,7 +558,7 @@ _General Correspondence_
 
 (5) The requesting party shall make payment of any prescribed fee for interpretation services under the Family Justice Rules upon approval of the Request.
 
-(6) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter, facsimile transmission or email. This shall serve as a notice of cancellation. 
+(6) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter, or email. This shall serve as a notice of cancellation. 
 
 (7) Any request for refund of the fee paid under sub-paragraph (5) must be submitted to the Registrar through the Electronic Filing Service within one month from the date on which the reason for the refund arose. The supporting reasons and the amount of refund sought must be clearly specified in the request for refund.
 
