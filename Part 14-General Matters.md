@@ -14,7 +14,7 @@
 
 (3) The Duty Registrar will only arrange for the hearing of the application before the Duty Judge if the applicant satisfies the Duty Registrar that the case meets all the criteria stipulated in sub-paragraph (1).
 
-(4) If the applicant is unable to file the application and supporting affidavits via the electronic filing service (EFS) before the hearing, he / she must give a signed written undertaking to the Court to do so in accordance with Form 259 in Appendix A to these Practice Directions before the application will be heard. The applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of court (Form 260 in Appendix B to these Practice Directions) for the ex parte hearing.
+(4) If the applicant is unable to file the application and supporting affidavits via the electronic filing service (EFS) before the hearing, he / she must give a signed written undertaking to the Court to do so in accordance with Form 259 in Appendix A to these Practice Directions before the application will be heard. The applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of court (Form 260 in Appendix A to these Practice Directions) for the ex parte hearing.
 
 (5) On an ex parte application for an injunction against the permanent removal of a child from Singapore, the Court would require the applicant, to give an undertaking to compensate any party for any loss caused as a result of the application. The Court may require the undertaking as to damages to be supported by — 
 
@@ -68,9 +68,8 @@
 
 (3) The duty hours shall be as follows:
 
-> (a) Mondays to Fridays - 9:30 a.m. to 1:00 p.m., and 2:15 p.m. to 5:30 p.m.
-
-> (b) Saturdays - 9:30 a.m. to 1:00 p.m.
+    Mondays to Fridays              -          9:30 a.m. to 1:00 p.m., and 
+                                                  2:15 p.m. to 5:30 p.m.
 
 (4) Only solicitors (or, where a party is not represented, a litigant in person) shall appear before the Duty Registrar.
 
@@ -558,7 +557,7 @@ _General Correspondence_
 
 (5) The requesting party shall make payment of any prescribed fee for interpretation services under the Family Justice Rules upon approval of the Request.
 
-(6) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter, facsimile transmission or email. This shall serve as a notice of cancellation. 
+(6) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter or email. This shall serve as a notice of cancellation. 
 
 (7) Any request for refund of the fee paid under sub-paragraph (5) must be submitted to the Registrar through the Electronic Filing Service within one month from the date on which the reason for the refund arose. The supporting reasons and the amount of refund sought must be clearly specified in the request for refund.
 
