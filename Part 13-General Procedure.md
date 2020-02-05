@@ -896,19 +896,19 @@ _ABC Co Pte Ltd v XYZ Co Ltd [2015] SGFC 25, at [3], [8]._
 
 (1) In the event that a party is represented by more than one counsel at a hearing, whether in Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
 
-(2) If party would like submissions on different issues be made or certain portions of the examination, cross- examination or re-examination be conducted by different counsel, an oral application should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
+(2) If a party would like submissions on different issues be made or certain portions of the examination, cross- examination or re-examination be conducted by different counsel, an oral application should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
 
 > (a) the issues on which each counsel will be making submissions; and/or
 
 > (b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
-Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, crossexamination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them. 
+Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them. 
 
 (3) If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that each confines himself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
 (4) If leave of the Court is not sought in accordance with sub-paragraph (2), only one counsel will be allowed to make submissions or conduct examination for a party throughout the hearing.
 
-(5) For hearings in chambers, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with subparagraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
+(5) For hearings in chambers, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with sub-paragraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
 
 (6) For civil trials: 
  
