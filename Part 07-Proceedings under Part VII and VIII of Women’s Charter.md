@@ -22,7 +22,7 @@
 
 (5) Where there is dispute as to when an Offer was made through the Offer to Resolve platform, the time and date on the Offer sent shall be conclusive of when it was made.
 
-(6) All Offers sent through this platform will reflect the following email address: do-notreply@ifams.gov.sg.
+(6) All Offers sent through this platform will reflect the following email address: do-not-reply@ifams.gov.sg.
 
 ## 24. Pre-hearing matters
 
