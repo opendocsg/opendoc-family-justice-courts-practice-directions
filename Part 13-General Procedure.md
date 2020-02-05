@@ -2271,7 +2271,8 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 (3) The stamp office shall be opened during the following hours:
 
-> (a) Monday to Friday - 9.00 am to 1.00 p.m., and 2.00 p.m. to 4.00 p.m.
+    Monday to Friday            -            9.00 am to 1.00 p.m., and 
+                                             2.00 p.m. to 4.00 p.m.
 
-> (b) Saturday - 9.00 am to 12.00 p.m.
+
 
