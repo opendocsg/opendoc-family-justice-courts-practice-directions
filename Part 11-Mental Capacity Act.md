@@ -6,7 +6,7 @@ Any application under the Mental Capacity Act made in relation to any proceeding
 
 ## 46. Documents to be filed
 
-(1) The originating summons and supporting affidavits for mental capacity proceedings are to be filed in the Family Justice Courts.
+(1) The originating summons, application forms and supporting affidavits for mental capacity proceedings are to be filed in the Family Justice Courts.
 
 (2) The Court may reject any document filed if there are errors or if the document does not comply with the Family Justice Rules, these Practice Directions, or any other directions made by the Court.
 
@@ -40,7 +40,7 @@ Any application under the Mental Capacity Act made in relation to any proceeding
 
 (1) "Relevant persons" are persons who have an involvement in P's life and/or who are likely to have an interest in the application. Often, P’s immediate family members, by virtue of their relationship to P, are likely to have an interest in being notified that an application has been made to the Court concerning P.
 
-(2) ‘Relevant persons’ for the purposes of Rule 179 of the Family Justice Rules will therefore often include the following immediate family members:
+(2) ‘Relevant persons’ for the purposes of Rule 176A and 179 of the Family Justice Rules will therefore often include the following immediate family members:
 
 > (a) P’s spouse;
 
@@ -258,11 +258,13 @@ All applications subsequent to the filing of the originating summons in any ment
  
 ## 61. Order of Court
 
-(1) An Order of Court shall be in Form 32 in Appendix A to these Practice Directions and shall be signed by the Registrar.
+(1) Unless otherwise specified, an Order of Court shall be in Form 32 in Appendix A to these Practice Directions and shall be signed by the Registrar.
 
-(2) An Order of Court shall be drawn up and filed in accordance with rule 678 of the Family Justice Rules within 7 days after the date on which the order was made.
+(2) Unless otherwise specified, an Order of Court shall be drawn up and filed inaccordance with rule 678 of the Family Justice Rules within 7 days after the date on which the order was made.
 
 (3) Pursuant to section 24(10) of the Mental Capacity Act (Cap. 177A), the Court may require a deputy to give security to the Public Guardian for the due discharge of his functions.
+
+(4) An Order of Court made under Rule 176A of the Family Justice Rules shall be in the form made available in IFAMS and will be sent by the Court either by electronic mail or such other means as deemed appropriate by the Court.
 
 ## 61A.  Uncontested applications for certain specified matters 
  
