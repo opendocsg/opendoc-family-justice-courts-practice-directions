@@ -76,7 +76,7 @@ January 2015.
 
 Tel: (Contact telephone number.)
 
-Fax: (Contact facsimile number.)
+Email: (Email address.)  
 
 Ref: (File reference of law firm.)”
 ```

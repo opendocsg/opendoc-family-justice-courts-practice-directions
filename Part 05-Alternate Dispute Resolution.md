@@ -10,7 +10,7 @@
 
 (2) With effect from 1 January 2019, the Court will no longer conduct mediation in relation to proceedings (including divorce proceedings, applications pursuant to section 121B of the Women’s Charter (Cap. 353) and proceedings for a grant of probate or letters of administration in respect of the estate and effects of a deceased person) which meet the following criteria:
 
-> (a) there is a contested issue relating to assets where the gross value of all known assets is S$3 million or above; and
+> (a) there is a contested issue relating to assets where the gross value of all known assets is S$2 million or above; and
 
 > (b) there are no contested child issues (i.e. disputes relating to the custody, care and control of and/or access to any child).
 
@@ -44,7 +44,7 @@
 
 (16) For nullity, divorce, judicial separation proceedings, where interim judgment or judgment of judicial separation has been granted, any agreement will be recorded as a consent order by the Judge-Mediator at a mediation session or any other Judge sitting as a Judge in Chambers upon confirmation of the terms by the parties and/or counsel. Where interim judgment or judgment of judicial separation has not been granted, the agreement will be formally recorded by the Judge and directions will be given for the setting down of the divorce on an uncontested basis on an expedited basis.
 
-(17) For all other proceedings not covered by sub-paragraph (16) above, any agreement reached will be recorded as a consent order by the Judge-Mediator at a mediation session Mediator or any other Judge sitting as a Judge in Chambers upon the confirmation of the terms by the parties and/or counsel.
+(17) For all other proceedings not covered by sub-paragraph (16) above, any agreement reached will be recorded as a consent order by the Judge-Mediator at a mediation session or any other Judge sitting as a Judge in Chambers upon the confirmation of the terms by the parties and/or counsel.
 
 (18) Mediation will be conducted on a without prejudice basis. All communications made in the course of mediation will be treated in strict confidence and will not be admissible in any court unless otherwise stipulated by law. If the dispute is not resolved at the mediation session, the District Judge or Registrar will give the necessary directions to enable the case to proceed to trial, and the case will be heard by a Judge other than the District Judge or Registrar conducting the mediation.
 
