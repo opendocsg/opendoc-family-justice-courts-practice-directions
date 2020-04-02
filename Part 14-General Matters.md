@@ -139,7 +139,7 @@
 
 **<u>Guidelines for Video and Telephone Conferencing </u>**
 
-(2) A set of guidelines (“Guidelines”) shall govern the scope, use and procedure for the conduct of hearings by video or telephone conferencing. The Guidelines are found on https://www.familyjusticecourts.gov.sg and counsel / parties are to abide by and familiarise themselves with the Guidelines for hearings conducted by video or telephone conferencing. The Guidelines may be amended where necessary. 
+(2) A set of guidelines (“Guidelines”) shall govern the scope, use and procedure for the conduct of hearings by video or telephone conferencing. The Guidelines are found on [https://www.familyjusticecourts.gov.sg](https://www.familyjusticecourts.gov.sg) and counsel / parties are to abide by and familiarise themselves with the Guidelines for hearings conducted by video or telephone conferencing. The Guidelines may be amended where necessary. 
 
 (3) Counsel / parties shall ensure that their equipment meets the required technical specifications and that they are familiar with the applicable platform listed in the Guidelines. 
 
@@ -161,7 +161,7 @@
 
 (10) Any reference made to the record of proceedings in these Practice Directions shall refer to the Court’s record of proceedings of the hearing conducted by video or telephone conferencing. 
 
-(11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to FJCourts_Family_Registry@fjcourts.gov.sg.
+(11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to [FJCourts_Family_Registry@fjcourts.gov.sg](FJCourts_Family_Registry@fjcourts.gov.sg).
 
 ## 161A. Technology Facilities in Supreme Court Building
 
