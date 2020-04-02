@@ -137,7 +137,7 @@
 
 (1) These directions apply to hearings to be conducted by video or telephone conferencing, as directed by the Court.  
 
-**<u>Guidelines and Procedures</u>**
+**<u>Guidelines for Video and Telephone Conferencing </u>**
 
 (2) A set of guidelines (“Guidelines”) shall govern the scope, use and procedure for the conduct of hearings by video or telephone conferencing. The Guidelines are found on https://www.familyjusticecourts.gov.sg and counsel / parties are to abide by and familiarise themselves with the Guidelines for hearings conducted by video or telephone conferencing. The Guidelines may be amended where necessary. 
 
