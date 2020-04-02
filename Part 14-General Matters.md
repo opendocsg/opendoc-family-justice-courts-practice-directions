@@ -133,90 +133,35 @@
  
 (3) However, where an adjournment of the hearing date of any cause or matter is sought, solicitors for all parties must attend the hearing. 
 
-## 161. Use of Skype
+## 161. Use of Video or Telephone Conferencing for Hearings
 
-(1) The Family Justice Courts will allow solicitors to use Skype, a free and accessible service, to mention _ex-parte_ applications and/or cases in which parties have a consent order.
+(1) These directions apply to hearings to be conducted by video or telephone conferencing, as directed by the Court.  
 
-(2) This will enable solicitors to mention their cases via Skype instead of personally attending Court for many short mentions which generally will not last beyond 10 minutes.
+**<u>Guidelines for Video and Telephone Conferencing </u>**
 
-**_Guidelines and Procedures_**
+(2) A set of guidelines (“Guidelines”) shall govern the scope, use and procedure for the conduct of hearings by video or telephone conferencing. The Guidelines are found on https://www.familyjusticecourts.gov.sg and counsel / parties are to abide by and familiarise themselves with the Guidelines for hearings conducted by video or telephone conferencing. The Guidelines may be amended where necessary. 
 
-(3) Solicitors mentioning their cases via Skype must comply with the guidelines and procedures set out in the Annex to this Paragraph (see below).
+(3) Counsel / parties shall ensure that their equipment meets the required technical specifications and that they are familiar with the applicable platform listed in the Guidelines. 
 
-**_Court etiquette_**
+**<u>Directions for Hearing by Video and Telephone Conferencing</u>**
 
-(4) A solicitor mentioning a case via Skype must proceed with the hearing as if he or she were appearing before the Judge in person, and must comply with all Court rules of etiquette as prescribed in these Practice Directions and any relevant Registrar’s Circular.
+(4) Where the Court directs that a hearing will be conducted by video or telephone conferencing, a Registrar’s Notice will be sent to the parties in advance of the scheduled hearing. 
 
-**_Adjournment of Skype hearing_**
+**<u>Conduct of Hearing</u>**
 
-(5) If for any reason the presiding Judge or Registrar considers that it is not expedient for any hearing to continue via Skype, he or she may –
+(5) The hearing shall proceed as if it were a hearing conducted in person before the Court. Parties must observe all rules of etiquette applicable to Court hearings as prescribed in these Practice Directions and the Registrar’s Circulars.
 
-> (a) adjourn the matter and require parties to attend Court personally on an appointed date and time;
+(6) If the hearing cannot be conducted, or if the Court decides that it is not expedient to deal with the matter by video or telephone conferencing, the Court may either direct that the hearing be adjourned for counsel and/or parties to attend Court personally, or issue any other direction regarding the resolution of the case.
 
-> (b) conduct the hearing via telephone; or
+(7) If the hearing cannot be conducted, or if the Court decides that it is not expedient to deal with the matter by video or telephone conferencing, the Court may either direct that the hearing be adjourned for counsel and/or parties to attend Court personally, or issue any other direction regarding the resolution of the case.
 
-> (c) make any other direction that may be appropriate in the circumstances of the case.
+(8) Counsel / parties are to ensure that the hearing is conducted in a private and secure location and not in a public area.  No person should be attending at the video or telephone conferencing terminal if the Court is not aware of their presence. The identities of all persons present at the hearing should be disclosed to the Court at the start of the hearing, and permission is to be obtained for their attendance. 
 
-**_Hearing Records_**
+(9) In the event of non-compliance with the required technical specifications, prescribed Court etiquette or the applicable Guidelines, the Court may adjourn the hearing and issue further directions to be complied with.
 
-(6) Hearings conducted via Skype shall not be recorded on video or audio tape or any other form.
+(10) Any reference made to the record of proceedings in these Practice Directions shall refer to the Court’s record of proceedings of the hearing conducted by video or telephone conferencing. 
 
-**_Queries and Assistance_**
-
-(7) Any queries or requests for assistance pertaining to Skype hearings may be sent to FJCourts_Family_Registry@fjcourts.gov.sg. 
-
-## ANNEX
-
-### GUIDELINES AND PROCEDURES FOR HEARINGS VIA SKYPE
-
-1. Log into your Skype account and set your status to ‘available’.
-2. You may access the relevant hearing list at [http://www.familyjusticecourts.gov.sg.](http://www.familyjusticecourts.gov.sg.)
-3. Check the chambers assigned to hear your case.
-4. Then identify the corresponding **Skype contact** from the following:
-
-
-**Family Justice Courts Registry**
-
-**For hearings at 3 Havelock Square, Singapore 059725**
-
-|**Chamber**  | **Skype contact**|
-|-------------|----------------| 
-| Chambers C  | FJCourts_Ch_C  |
-| Chambers D  | FJCourts_Ch_D  |
-| Chambers E  | FJCourts_Ch_E  |
-| Chambers J  | FJCourts_Ch_J  |
-
-**For hearings at 5 Maxwell Road, #04-00, Tower Block, MND Complex, Singapore 069110**
-
-|**Chamber**  | **Skype contact**|
-|-------------|----------------| 
-| Chambers 1    | fjcourts.ch1  |
-| Chambers 2    | fjcourts.ch2  |
-| Chambers 3    | fjcourts.ch3  |
-| Chambers 4    | fjcourts.ch4  |  
-| Chambers 5    | fjcourts.ch5  |
-
-5. Send an instant message to the relevant Chambers using Skype to inform the judge that
-    you are ready and state your name, law firm and case number. E.g., if your matter is
-    fixed for hearing in Chambers J, you will send your message to ‘ _FJCourts_Ch_J’_. Your
-    instant message will state “ _John Tan, ABC Law Firm, ready at 3:15p.m., D_
-    _12345/20XX/A_ ”. **Note that the Judge will not call you unless you have previously**
-    **sent a message to indicate your readiness to proceed with the Skype hearing.**
-
-6. When the judge is ready to deal with your matter, he/she will call you. Accept the _video_
-    _call_ and start the hearing. **Do not attempt to call the Judge**.
-
-7. Where there is a queue, priority will be given to the solicitors who are physically present
-    in court.
-
-8. If you encounter any problem, you may call Family Justice Courts Registry for
-    assistance at –  
-    (a) 6435 5473 (for hearings at 3 Havelock Square).  
-    (b) 6236 9050 (for mediation/counselling sessions at the MND Complex); or  
-    (c) 6435 5864 (for Mental Capacity/Adoption/Probate cases at the MND Complex).
-
-9. If the problems cannot be resolved, you may be required to personally attend Court to
-    mention your case.
+(11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to FJCourts_Family_Registry@fjcourts.gov.sg.
 
 ## 161A. Technology Facilities in Supreme Court Building
 
