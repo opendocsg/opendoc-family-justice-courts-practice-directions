@@ -153,7 +153,7 @@
 
 (6) If the hearing cannot be conducted, or if the Court decides that it is not expedient to deal with the matter by video or telephone conferencing, the Court may either direct that the hearing be adjourned for counsel and/or parties to attend Court personally, or issue any other direction regarding the resolution of the case.
 
-(7) If the hearing cannot be conducted, or if the Court decides that it is not expedient to deal with the matter by video or telephone conferencing, the Court may either direct that the hearing be adjourned for counsel and/or parties to attend Court personally, or issue any other direction regarding the resolution of the case.
+(7) The recording of Court proceedings in video, audio, or any other form is strictly prohibited and will be considered contempt of Court, with consequences of fine and/or imprisonment. 
 
 (8) Counsel / parties are to ensure that the hearing is conducted in a private and secure location and not in a public area.  No person should be attending at the video or telephone conferencing terminal if the Court is not aware of their presence. The identities of all persons present at the hearing should be disclosed to the Court at the start of the hearing, and permission is to be obtained for their attendance. 
 
