@@ -38,6 +38,23 @@
 
 (12) All correspondence to Court from the Child Representative or the parties shall be copied to the other party and the Child Representative (unless the Child Representative has been discharged) including that in paragraph (10) above.
 
+## 8A. Parenting Coordinator 
+
+(1)	The Court may, on its own motion or on the application of any party to the action or proceedings, order the parties to the proceedings to participate in a parenting coordination programme to be carried out by a Parenting Coordinator appointed by the Court, pursuant to rule 34C of the Family Justice Rules. 
+
+(2)	Upon the making of an order for the parties to participate in the parenting coordination programme, the Registrar will select a Parenting Coordinator from the Court’s panel of Parenting Coordinators and send a ‘Notice of Acceptance/Non-Acceptance by Parenting Coordinator’ (Form 188A of Appendix A to these Practice Directions) to the selected member by email together with a copy of the Court’s order. The member may choose to accept or decline such an appointment by returning to the Registrar the completed ‘Notice of Acceptance/Non-Acceptance by Parenting Coordinator’ by email. If no response is received within 3 working days of the email, the member is deemed to have declined the appointment. 
+
+(3)	All members on the Parenting Coordinators’ panel shall inform the Court of any changes to their email addresses within seven (7) working days of such change. 
+
+(4)	Upon acceptance of the appointment, the Parenting Coordinator will receive a notification email from the Registrar providing the names and contact details of the parties and their respective solicitors, if any. The following documents will be enclosed with the notification: 
+
+(i)	 	the Parenting Coordinator Checklist; and  
+(ii)	the Co-Parenting Questionnaire. 
+
+(5)	Within 10 days from the receipt of the above notification, the Parenting Coordinator shall contact the parties to arrange the first parenting coordination session. The Parenting Coordinator shall also send the Co-Parenting Questionnaire for the parties’ completion and return at or before the first parenting coordination session. Notwithstanding that the parties may be represented by solicitors, the Parenting Coordinator shall contact the parties directly and vice-versa throughout the course of the parenting coordination programme. The parties shall endeavour to provide the Parenting Coordinator with documents necessary to facilitate the parenting coordination programme, including but not limited to the documents filed in Court. 
+
+(6)	Pursuant to rule 34F(2) of the Family Justice Rules, either party to the proceedings or the Parenting Coordinator may apply for the termination of the parenting coordination programme. The application is made by filing a summons together with a supporting affidavit, and is to be served on all parties concerned within 3 working days.  
+
 ## 9. Examination of children
 
 (1) Applicants for the leave of the Court for a child to be examined or assessed under rule 35 of the Family Justice Rules must draft their applications in the prescribed format in Form 189 in Appendix A to these Practice Directions, with the appropriate modifications to suit the individual case.
