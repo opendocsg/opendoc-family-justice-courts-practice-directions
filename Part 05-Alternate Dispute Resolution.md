@@ -14,7 +14,7 @@
 
 > (b) there are no contested child issues (i.e. disputes relating to the custody, care and control of and/or access to any child).
 
-(2A) With effect from 26 May 2020, the Court will no longer conduct mediation where there is an application filed in the Family Justice Courts pursuant to the International Child Abduction Act (Cap. 143C).
+(2A) With effect from 1 July 2020, the Court will no longer conduct mediation where there is an application filed in the Family Justice Courts pursuant to the International Child Abduction Act (Cap. 143C).
 
 (3) The Registrar or the Judge may order that parties in proceedings which meet the criteria attend private mediation conducted by the Singapore Mediation Centre (“SMC”), unless parties have agreed upon a mediator (“Agreed Private Mediator”). The Registrar or the Judge may also make any orders necessary, including any orders pertaining to the payment of the mediation and its related fees.
 
