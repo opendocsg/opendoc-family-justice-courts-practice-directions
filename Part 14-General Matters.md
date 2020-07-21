@@ -346,11 +346,17 @@ For example:
 
 _Trials in Court_
 
-(1) For Family Division in the High Court,
+(1) For the Family Division of the High Court,
 
 > (a) the attire for male advocates and solicitors appearing in trials or in open Court will be the existing gown worn over an ordinary long-sleeved white shirt with a turn- down collar, a tie of a subdued or sober colour, a dark jacket, dark trousers and black or plain coloured shoes; and 
 
 > (b) the attire for female advocates and solicitors appearing in trials or in open Court will be the existing gown worn over a long-sleeved white blouse high to the neck, a dark jacket, a dark skirt or dark trousers and black or plain coloured shoes. Conspicuous jewellery or ornaments should not be worn.
+
+> (c) when appearing in trials or open Court proceedings that are conducted through a live video or live television link:
+
+> > (i)	if the proceedings are conducted solely through the live video or live television link and do not take place in any courtroom, the attire for an advocate and solicitor will be the same as for trials and open court, except that the gown need not be worn; but 
+
+> >(ii)	if one or more Judges hear the proceedings in a courtroom, unless the Court directs otherwise, every advocate and solicitor in the proceedings will wear the usual attire for trials and open Court proceedings. 	 
 
 (2) The attire for Senior Counsel shall be as described in sub-paragraphs (1), save that, for hearings, they may, instead of the existing gown, wear a gown in the design of those worn by the Queen’s Counsel of England and Wales and made of the following material:
 
@@ -364,7 +370,7 @@ _Trials in Court_
 
 _Hearings in Chambers_
 
-(4) When appearing before the Judge or Registrar in Chambers, the attire for both male and female advocates and solicitors will be the same as for trials and open Court, save that the gown need not be worn.
+(4) When appearing before the Judge or Registrar in Chambers, the attire for both an advocate and solicitor will be the same as for trials and open Court, save that the gown need not be worn.
 
 _Mediations_
 
