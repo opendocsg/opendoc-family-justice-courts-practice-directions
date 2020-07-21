@@ -56,7 +56,7 @@
 
 ## 24A. Service of summons under Part VIII of Women’s Charter (except an application made under section 69 or 70) 
 
-(1)	The prior written consent of the party referred to in rule 131A(5)(a) of the Family Justice Rules shall be in Form 207 of Appendix A to these Practice Directions.
+(1)	The prior written consent of the party referred to in rule 131A(5)(a) of the Family Justice Rules shall be in Form 207 of Appendix A to these Practice Directions. This Form can be submitted in its physical form or by using the QR Code provided for this purpose which is made available at the Court premises and also found at [www.familyjusticecourts.gov.sg ](http://www.familyjusticecourts.gov.sg).
 
 (2)	In the event of any change to the party’s details in Form 207, such as email address; mobile telephone number; or if there is a change in the party’s position with regard to his or her consent for service of the summons; it shall be for the party to notify the Court of the changes within seven (7) days of such change by email sent to: FJCOURTS_MAINTPOS@FJCourts.gov.sg. The said email must make reference to the relevant case numbers and be copied to the other party in the proceedings. If there is revocation of consent, the date of revocation shall be taken to be the date of the email unless it is otherwise specified to take effect on a later date. 
 
