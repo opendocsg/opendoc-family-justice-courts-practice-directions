@@ -18,9 +18,11 @@
 : 7\. Guidance on Direct Judicial Communications in International Family Proceedings Affecting Children
 
 **Part IV – Processes relating to Children**
-: 8\. Child Representative    
+: 8\. Child Representative
+: 8A\. Parenting Coordinator 
 : 9\. Examination of children    
 : 10\. Arrangements for the welfare of children
+: 10A\. Service on the immigration and Checkpoints Authority (“ICA”) with Court Orders or Injunctions restraining or prohibiting the taking of child out of jurisdiction 
 
 **Part V – Alternate Dispute Resolution**
 : 11\. Mediation and/or Counselling Directed by Court    
@@ -39,8 +41,10 @@
 : 22\. Documents required for the extraction of Certificate of Making Decree Nisi Absolute and Decree Nisi for matrimonial proceedings filed before 15 December 
 
 **Part VII – Proceedings under Part VII and VIII of Women’s Charter**
-: 23\. Alternative dispute resolution    
+: 23\. Alternative dispute resolution
+: 23A\. Offer to Resolve in maintenance applications 
 : 24\. Pre-hearing matters    
+: 24A\. Service of summons under Part VIII of Women’s Charter (except an application made under section 69 or 70)
 : 25\. Documents and affidavits in respect of maintenance proceedings under Part VIII of Women’s Charter (Cap\. 353)    
 : 25A\. Appointment of Maintenance Record Officer    
 : 25B\. Referral for assessment    
@@ -104,6 +108,7 @@
 : 59\. Where P ceases to lack capacity or dies    
 : 60\. Applications subsequent to the filing of the originating summons in mental capacity proceedings    
 : 61\. Order of Court
+: 61A\. Uncontested applications for certain specified matters 
 
 **Part XII – Probate Proceedings**
 : 62\. Applications for grant of probate or letters of administration    
@@ -116,6 +121,10 @@
 : 69\. Applications for dispensation of sureties for grants of letters of administration    
 : 70\. Caveat and probate application searches to be conducted when requesting to extract grant    
 : 71\. Amended grants and re-grants
+: 71A\. Applications under Vulnerable Adults Act
+: 71B\. Forms to be filed
+: 71C\. Application for Court Records
+: 71D\. Pre-hearing matters
 
 **Part XIII- General Procedure**
 : 72\. Originating Summonses    
@@ -155,6 +164,7 @@
 : 106\. Access to case file, inspection, taking copies of documents and conducting searches    
 : 107\. Personal Data    
 : 108\. Witnesses    
+: 108A\. Giving of evidence by person outside Singapore through live video or live television link in any court proceedings (other than proceedings in a criminal matter)
 : 109\. Form of affidavits    
 : 110\. Exhibits to affidavits    
 : 111\. Swearing or affirming of affidavits, statutory declarations and oaths    
@@ -209,7 +219,7 @@
 : 158\. Weekend/Public Holiday Duty Registrar and Judge at the Family Courts    
 : 159\. Duty Registrar and Duty Magistrate    
 : 160\. Attendance of solicitors in Court    
-: 161\. Use of Skype    
+: 161\. Use of Video or Telephone Conferencing for Hearings    
 : 161A.Technology Facilities in Supreme Court Building    
 : 162\. Absence from Court on medical grounds    
 : 163\. Publication of & Reports and Comments on Court Cases    
