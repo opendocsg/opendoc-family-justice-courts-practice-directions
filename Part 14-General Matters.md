@@ -400,9 +400,9 @@ _General Correspondence_
 
 > **CASE CONFERENCE ON 1 JANUARY 2015 at 2:30PM"**
 
-**_Request to adjourn, refix or vacate a hearing date_**
+**_Request to adjourn, reschedule or vacate a hearing date_**
 
-(5) A request for a hearing date to be re-fixed shall be in Form 268 in Appendix A to these Practice Directions and sent to the Registry of the Family Justice Courts as soon as possible and at least 7 working days prior to the hearing date.
+(5) A request for a hearing date to be rescheduled shall be made via the electronic filing service  as soon as possible and at least 7 working days prior to the hearing date.
 
 (6) Before parties write to the Court to request an adjournment or vacation of any hearing other than a trial, they should seek the consent of the other party or parties to the matter. Unilateral requests made without first seeking the consent or views of the other party or parties to the matter will not be entertained, except in the most exceptional circumstances.
 
@@ -410,7 +410,7 @@ _General Correspondence_
 
 (8) If the consent of one or more of the other parties is not obtained, the request should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be annexed. The Court will then evaluate the contents of the request and the relevant correspondence before deciding whether the request should be allowed.
 
-(9) Where the reason for re-fixing of the hearing is a conflict of court dates, the following information relating to both court cases must be stated in the request:
+(9) Where the reason for rescheduling of the hearing is a conflict of court dates, the following information relating to both court cases must be stated in the request:
 
 > (a) the case number;
 
