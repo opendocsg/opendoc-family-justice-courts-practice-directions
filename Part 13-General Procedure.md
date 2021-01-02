@@ -805,9 +805,9 @@ In all hearings in chambers before a Judge or Registrar, counsel shall submit th
 
 ## 92. Written Submissions and Bundles of Authorities for Special Date Hearings
 
-This paragraph applies only to hearings in the Family Division of the High Court.
+This paragraph applies only to hearings in the Family Division of the High Court save for hearings of appeals.
 
-(1) For any contested special date hearing before a Judge in the Family Division of the High Court, each party shall:
+(1) Unless otherwise directed by the Court for any contested special date hearing before a Judge in the Family Division of the High Court, each party shall:
 
 > (a) submit to the Court and serve on the other party a hard copy of the following documents at least 1 clear day in advance of the hearing
 
@@ -1729,15 +1729,15 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 ## 125. Filing of records of appeal and written cases
 
-**_Filing of records of appeal and written cases for appeals filed on or after 1 January 2015 from the Family Courts to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules_**
+**_Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules_**
 
 (1) In practice, the District Judges may furnish grounds of decision, and if so, within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Part 18 Division 60 of the Family Justice Rules.
 
 (2) To facilitate the conduct of appeal hearings before the Judge of the Family Division of the High Court in Chambers, parties are required to file the following documents prior to the appeal hearing:
 
-> (a) the appellant shall, within one week from the date of the release of the notes of evidence and grounds of decision (if any), file his submission, the record of appeal, and where the record of appeal exceeds 1000 pages, a core bundle, and serve a copy thereof on every respondent to the appeal or his solicitor; and 
+> (a) the appellant shall, within 7 working days from the date of the release of the notes of evidence and grounds of decision (if any), file his submission, the record of appeal, and where the record of appeal exceeds 1000 pages, a core bundle, and serve a copy thereof on every respondent to the appeal or his solicitor; and 
 
-> (b) the respondent shall, within one week from the date of the service of the documents referred to in sub-paragraph (2)(a), file his submission and a supplemental core bundle, where necessary, and serve a copy thereof on the appellant or his solicitor.
+> (b) the respondent shall, within 7 working days from the date of the service of the documents referred to in sub-paragraph (2)(a), file his submission and a supplemental core bundle, where necessary, and serve a copy thereof on the appellant or his solicitor.
 
 (3) The submissions to be filed by parties shall set out as concisely as possible:
 
@@ -1755,7 +1755,7 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 > (a) the notice of appeal;
 
-> (b) the certified copy of the grounds of decision;
+> (b) the certified copy of the grounds of decision, if any;
 
 > (c) the certified copy of the notes of evidence;
 
@@ -1765,13 +1765,13 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 > (f) the judgment or order appealed from.
 
-(6) The core bundle shall contain a copy of:
+(6) The core bundle shall, if necessary, contain a copy of:
 
-> (a) the grounds of decision;
+> (a) (deleted) 
 
-> (b) the judgment or order appealed from;
+> (b) (deleted) 
 
-> (c) the documents, including notes of evidence, pleadings and affidavits or portions thereof that are of particular relevance to any question in the appeal or that will be referred to at the appeal; and
+> (c) specific documents, from the record of appeal, or portions thereof that are of particular relevance to any question in the appeal or that will be referred to at the appeal; and
 
 > (d) an index of the documents included therein, which shall cross-refer each document to its location in the record of appeal.
 
@@ -1785,15 +1785,19 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 **_Filing of records of appeal and written cases for appeals filed after 1 October 2014 and before 1 January 2015 on ancillary matters or custody matters or s17A(2) SCJA proceedings from the Family Courts to the Family Division of the High Court under Order 55C of Rules of Court_**
 
-(11) Appeals filed after 1 October 2014 and before 1 January 2015 against final orders made by a District Judge in chambers on ancillary matters in matrimonial proceedings under the Women's Charter (Cap. 353), custody proceedings under the Guardianship of Infants Act (Cap. 122) or proceedings pursuant to section 17A(2) of the Supreme Court of Judicature Act (Cap. 322) are governed by Order 55C of the Rules of Court. In practice, the District Judges furnish grounds of decision within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Rules of Court.
+(11) (deleted) 
 
-(12) To facilitate the conduct of appeal hearings before the Judge of the Family Division of the High Court in Chambers, parties are required to file the following documents prior to the appeal hearing:
+(12) (deleted) 
 
-> (a) the appellant shall, within one week from the date of the release of the notes of evidence and grounds of decision, file his submission, the record of appeal, and where the record of appeal exceeds 1000 pages, a core bundle, and serve a copy thereof on every respondent to the appeal or his solicitor; and
+(13) (deleted) 
 
-> (b) the respondent shall, within one week from the date of the service of the documents referred to in sub-paragraph (12)(a), file his submission and a supplemental core bundle, where necessary, and serve a copy thereof on the appellant or his solicitor.
+**_Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules_**
 
-(13) Sub-paragraphs (3) to (10) apply to such appeals.
+(14) Rules 827 and 828 of the Family Justice Rules apply with regard to the filing and preparation of the Record of Appeal, Appellant’s case and Respondent’s case. 
+
+(15) Where a Record of Appeal exceeds 1000 pages, a core bundle may be filed may be filed and served together with the Record of Appeal.
+
+(16) Sub-paragraphs (6) to (10) shall apply and references to submissions shall be read as Appellant’s case and Respondent’s case.
 
 ## 126. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules
 
@@ -1805,29 +1809,7 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
  
 ## 127. Skeletal arguments for appeals before the Family Division of the High Court 
 
-(1) This paragraph does not apply to appeals from Registrar to a Judge in Chambers.
-
-(2) The term “skeletal arguments” includes “skeletal submissions”, “written submissions”, “written arguments” and all other variant terms by which such documents are known.
-
-(3) Counsel should submit skeletal arguments for the hearing of the appeal or matter and give a copy to counsel for the other parties. Hard copies of skeletal arguments may be printed on one side or both sides of each page.
-
-(4) Skeletal arguments are abbreviated notes of the arguments that will be presented. Skeletal arguments are not formal documents and do not bind parties. They are a valuable tool to the Judges and are meant to expedite the hearing of the appeal. These notes should comply with the following requirements:
-
-> (a) they should contain a numbered list of the points proposed to be argued, stated in no more than one or 2 sentences;
-
-> (b) each listed point should be accompanied by a full reference to the material to which counsel will be referring, i.e., the relevant pages or passages in authorities, the record of appeal, the bundles of documents, affidavits, transcripts and the judgment under appeal;
-
-> (c) all pages should be paginated, with the first page (not including any cover page) numbered as “Page 1”;
-
-> (d) the minimum font size to be used is Times New Roman 12 or its equivalent;
-
-> (e) the print of every page shall be double-spaced; and
-
-> (f) every page shall have a margin on all 4 sides, each of at least 35mm in width.
-
-**_Timelines for submission of skeletal arguments for appeal_**
-
-(5) Where the appeal is a civil appeal before the Family Division of the High Court, the skeletal arguments should be sent to the Correspondence Clearance Centre at Level 1, Supreme Court Building at least 7 days before the hearing of the appeal. 
+(deleted)
 
 ## 128. Use of presentation slides for all proceedings before the Family Division of the High Court
 
