@@ -44,7 +44,7 @@
 
 (3) All documents shall have the title “In the Family Justice Courts of the Republic of Singapore”.
 
-(4) Documents relating to the following proceedings which are to be heard and determined by the High Court shall continue to be filed at the Legal Registry of the Supreme Court at the Supreme Court Building. These include:
+(4) Documents relating to the following proceedings which are to be heard and determined by the General Division of the High Court shall continue to be filed at the Legal Registry of the Supreme Court. These include:
 
 > (a) all proceedings in paragraph (1) commenced in the High Court before 1st October 2014;
 
@@ -54,8 +54,7 @@
 
 > (d) all applications and documents relating to proceedings under the Mental Disorders and Treatment Act or the Mental Capacity Act filed in the High Court before 1st October 2014;and
 
-> (e) all applications and documents relating to proceedings under Probate and Administration Act filed in the High Court before 1 
-January 2015.
+> (e) all applications and documents relating to contentious proceedings under Probate and Administration Act filed in the High Court before 1 January 2015.
 
 (5) Documents relating to contested proceedings filed under Probate and Administration Act filed before 1 January 2015 shall continue to be filed in the State Courts. Documents relating to uncontested proceedings filed under Probate and Administration Act filed before 1 January 2015 shall be filed in the Family Justice Courts.
 

@@ -2,7 +2,7 @@
 
 ## 45. Proceedings under the Mental Capacity Act (Cap 177A)
 
-Any application under the Mental Capacity Act made in relation to any proceedings commenced in the High Court under Part I of the Mental Disorders and Treatment Act (Cap. 178) shall be heard and determined by the Family Division of the High Court. 
+(deleted) 
 
 ## 46. Documents to be filed
 
