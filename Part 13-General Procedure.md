@@ -1565,7 +1565,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
  
 > (a) in the case where any party is represented, by that parties’ counsel; or 
  
-> (b) in the case where any party is unrepresented and another is represented, by that represented party personally and subject to the following requirements: 
+> (b) in the case where any party is unrepresented and another is represented, by that unrepresented party personally and subject to the following requirements: 
  
 > >  (i) the signature of that unrepresented party must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the other parties in the proceedings.
 
