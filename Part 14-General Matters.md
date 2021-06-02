@@ -165,11 +165,11 @@
 
 ## 161A. Technology Facilities in Supreme Court Building
 
-**_Use of the Technology Courts and the Mobile Infocomm Technology Facilities_**
+**_Use of the Video Conference Facilities and the Mobile Infocomm Technology Facilities_**
 
 (1) This Paragraph shall apply only in respect of proceedings in the Family Division of the High Court conducted at the Supreme Court building.
 
-(2) The Technology Courts and the Mobile Infocomm Technology Facilities (“MIT facilities”) may, at the discretion of the Registrar and subject to the payment of the appropriate fees, be used:
+(2) The Video Conference (“VC”) Facilities and the Mobile Infocomm Technology Facilities (“MIT facilities”) may, at the discretion of the Registrar, be used:
 
 > (a) for the hearing of any matter, whether before a Judge or Registrar, in open Court or in Chambers; or
 
@@ -177,23 +177,23 @@
 
 (3) The Registrar may refuse any request for the use of any of the services described in this Part at any time owing to the unavailability of staff or equipment or for any other reason. The Registrar need not give any reasons for the refusal of such a request.
 
-**_Applications to use the Technology Courts_**
+**_Applications to use the Video Conference Facilities and Usage of Additional Equipment_**
 
-(4) A request to use a Technology Court for the hearing of any matter before a Judge or Registrar must be made by filing a Request through the Electronic Filing Service at least 14 working days before the hearing at which the Technology Court is to be used and Form 266A of Appendix A of these Practice Directions in Portable Document Format (PDF) must be annexed to the Request electronic form.
+(4) A request to use the VC facilities for the hearing of any matter before a Judge or Registrar must be made by filing a Request through the Electronic Filing Service at least 14 working days before the hearing at which those facilities are to be used and Form 266A of Appendix A of these Practice Directions in Portable Document Format (PDF) must be annexed to the Request electronic form.
 
-(5) An application to use a Technology Court for any other dispute resolution process must be made by submitting Form 266A of Appendix A of these Practice Directions to the Registrar through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out at least 14 working days before the dispute resolution proceedings at which it is to be used.
+(5) An application to use the VC facilities for any other dispute resolution process must be made by submitting Form 266A of Appendix A of these Practice Directions to the Registrar through the relevant person-in-charge at the organisation at which the dispute resolution process is carried out at least 14 working days before the dispute resolution proceedings at which it is to be used.
 
 (6) [deleted]
 
-(7) Upon the successful booking of a Technology Court for videoconferencing,
+(7) Upon a successful request to use the VC facilities, 
 
-> (a) prior arrangements for videoconferencing testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
+> (a) prior arrangements for equipment testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
 
-> (b) applicants will be informed of the ISDN number for videoconferencing during the testing session; and
+> (b) applicants will be informed of the number for video conferencing during the testing session; and
 
-> (c) as a matter of general practice, the remote site will dial in to the Technology Court and it is the responsibility of the party requesting the videoconferencing to coordinate the booking and calling in from the remote site.
+> (c) as a matter of general practice, the remote site will connect to the number and it is the responsibility of the party requesting the VC to coordinate the booking and calling in from the remote site.
 
-(8) Any person who desires to use audio-visual and computers equipment additional to those provided in the Technology Courts will be asked to provide details of such equipment when applying to use the Courtroom. The applicant must also be prepared to have the equipment available for testing with the audio-visual system of the Technology Courts at least 3 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the Technology Courts.
+(8) Any person who desires to use audio-visual and computer equipment additional to those provided in a Courtroom will be asked to provide details of such equipment. The applicant must also be prepared to have the equipment available for testing with the audio-visual system of the Courtroom at least 3 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide equipment that is compatible with the audio-visual system of the Courtroom.
 
 **_Applications to use the Mobile Infocomm Technology Facilities_**
 
@@ -205,23 +205,13 @@
 
 (12) Any applicant desiring to use the mobile audio-visual equipment is required to provide details of the type of evidence presenting and media format in the application form. The applicant must also be prepared to have the presentation material or media available for testing with the audio-visual system at least 5 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide presentation materials or media format that is compatible with the equipment provided by the Court.
 
-(13) Upon a successful application of the use of the mobile videoconferencing equipment,
-
-> (a) prior arrangements for videoconferencing testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
-
-> (b) applicants will be informed of the ISDN number for videoconferencing during the testing arrangement; and
-
-> (c) as a matter of general practice, the remote site will dial into the Courtroom or Chamber and it is the responsibility of the party requesting the videoconferencing to coordinate the booking and calling in from the remote site.
+(13) [deleted]
 
 **_Fees_**
 
-(14) The fees for the use of the Technology Courts and the MIT facilities are set out in Appendix D of these Practice Directions.
+(14) [deleted]
 
-(15) The Registrar may refund any fee or part thereof paid in respect of any day on which the Technology Court and/or the MIT facilities was not used provided that:
-
-> (a) such request for refund must be made within 3 months after the last scheduled day of use of the said Technology Court and/or the MIT facilities stated in Form 266A; and
-
-> (b) the fees payable for the first scheduled day of use of the said Technology Court and/or the MIT facilities stated in Form 266A shall not be refunded if notice of cancellation for any scheduled day of use or part thereof is given less than 14 days before the first scheduled day of use. 
+(15) [deleted] 
 
 ## 162. Absence from Court on medical grounds
 
