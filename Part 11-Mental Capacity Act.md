@@ -270,7 +270,7 @@ All applications subsequent to the filing of the originating summons in any ment
 
 (1) A specified matter application under Rule 176A of the Family Justice Rules shall be made via the IFAMS portal under “Mental Capacity Act Application”. 
 
-(2) The specified matters to which Rule 176A of the Family Justice Rules apply are as follows: 
+(2) The specified matters to which Rule 176A of the Family Justice Rules apply are the appointment of a Deputy/Deputies to make decisions on P’s behalf in relation to one or more of the following matters:
 
 > (a) To consent to medical treatment for P; 
 
@@ -306,9 +306,7 @@ All applications subsequent to the filing of the originating summons in any ment
 
 > (q) To place P’s monies in a trust for P;
 
-> (r) To apply to and/or communicate with any Government agency or agency
-designated by the Government to administer the matter in question on behalf of
-P to the extent to which P would have been able to if P had mental capacity;
+> (r) To apply to and/or communicate with and/or make agreements with any Government agency or agency or entity designated by the Government to administer the matter in question on behalf of P to the extent to which P would have been able to if P had mental capacity, and to receive monies paid to P by any government agency or agency or entity designated by the government in relation to the aforesaid;
 
 > (s) To obtain information relating to P;
 
@@ -321,12 +319,11 @@ Fund Board;
 
 > (w) To conduct legal proceedings in P’s name or on P’s behalf;
 >
-> (x) Provided that the total amount received is no more than $60,000, to do one or
-> more of the following:
+> (x) Provided that the total amount received is no more than $80,000, to do one or more of the following:
 >
 > >> (i) To withdraw monies from P’s bank account;
 >
-> >> (ii) To surrender and/or claim P’s insurance monies;
+> >> (ii) To surrender, claim, receive and/or administer P’s insurance monies;
 >
 > >> (iii) To sell P’s shares;
 >
@@ -334,7 +331,7 @@ Fund Board;
 >
 > >> (v) To receive, in addition to monies paid to P on a regular basis by the Central Provident Fund Board, up to $60,000 of P’s monies from the Central Provident Fund Board.
 >
-> (y) To receive, in addition to monies paid to P on a regular basis by the Central Provident Fund Board, up to $60,000 of P’s monies from the Central Provident Fund Board. 
+> (y) To receive up to $60,000 of P’s monies from the Central Provident Fund Board in addition to monies paid to P on a regular basis by the Central Provident Fund Board. 
 
 (3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
 
