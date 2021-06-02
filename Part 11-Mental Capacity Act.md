@@ -167,7 +167,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 (1) Any application relating to a lasting power of attorney shall be filed by way of an originating summons and supported by an affidavit.
 
 (2) If the plaintiff or applicant knows or has reason to believe that the donor lacks capacity, he shall notify the donor in accordance with rule 181 of the Family Justice Rules and Paragraph 52 of these Practice Directions.
- 
+
 ## 57. Application for statutory wills
 
 (1) The application for a statutory will under section 23(1)(i) of the Mental Capacity Act (Cap. 177A) shall be by way of an originating summons.
@@ -203,7 +203,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 > (d) any donee under a lasting power of attorney executed by P or any Court- appointed deputy of P. 
 
 (6) Once an order is made for a statutory will, the applicant must file a copy of the will for sealing by the Court. The statutory will is considered valid only with the seal of Court.
- 
+
 ## 58. Litigation Representative in mental capacity proceedings
 
 (1) Where P is a party to any mental capacity proceedings with a litigation representative, P should be referred to in the proceedings as “P (by A.B., his litigation representative)”.
@@ -255,7 +255,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 ## 60. Applications subsequent to the filing of the originating summons in mental capacity proceedings
 
 All applications subsequent to the filing of the originating summons in any mental capacity proceedings shall be made by way of Form 4 in Appendix A to these Practice Directions.
- 
+
 ## 61. Order of Court
 
 (1) Unless otherwise specified, an Order of Court shall be in Form 32 in Appendix A to these Practice Directions and shall be signed by the Registrar.
@@ -267,10 +267,10 @@ All applications subsequent to the filing of the originating summons in any ment
 (4) An Order of Court made under Rule 176A of the Family Justice Rules shall be in the form made available in IFAMS and will be sent by the Court either by electronic mail or such other means as deemed appropriate by the Court.
 
 ## 61A.  Uncontested applications for certain specified matters 
- 
+
 (1) A specified matter application under Rule 176A of the Family Justice Rules shall be made via the IFAMS portal under “Mental Capacity Act Application”. 
- 
-(2) The specified matters to which Rule 176A of the Family Justice Rules apply are as follows: 
+
+(2) The specified matters to which Rule 176A of the Family Justice Rules apply are the appointment of a Deputy/Deputies to make decisions on P’s behalf in relation to one or more of the following matters:
 
 > (a) To consent to medical treatment for P; 
 
@@ -306,9 +306,7 @@ All applications subsequent to the filing of the originating summons in any ment
 
 > (q) To place P’s monies in a trust for P;
 
-> (r) To apply to and/or communicate with any Government agency or agency
-designated by the Government to administer the matter in question on behalf of
-P to the extent to which P would have been able to if P had mental capacity;
+> (r) To apply to and/or communicate with and/or make agreements with any Government agency or agency or entity designated by the Government to administer the matter in question on behalf of P to the extent to which P would have been able to if P had mental capacity, and to receive monies paid to P by any government agency or agency or entity designated by the government in relation to the aforesaid;
 
 > (s) To obtain information relating to P;
 
@@ -320,22 +318,24 @@ Fund Board;
 > (v) To enter into contracts for P;
 
 > (w) To conduct legal proceedings in P’s name or on P’s behalf;
+>
+> (x) Provided that the total amount received is no more than $80,000, to do one or more of the following:
+>
+> >> (i) To withdraw monies from P’s bank account;
+>
+> >> (ii) To surrender, claim, receive and/or administer P’s insurance monies;
+>
+> >> (iii) To sell P’s shares;
+>
+> >> (iv) To sell P’s motor vehicle.
+>
+> >> (v) To receive, in addition to monies paid to P on a regular basis by the Central Provident Fund Board, up to $60,000 of P’s monies from the Central Provident Fund Board.
+>
+> (y) To receive up to $60,000 of P’s monies from the Central Provident Fund Board in addition to monies paid to P on a regular basis by the Central Provident Fund Board. 
 
-> (x) Provided that the total amount received is no more than $60,000, to do one or
-more of the following:
-
->> (i) To withdraw monies from P’s bank account;
-
->> (ii) To surrender and/or claim P’s insurance monies;
-
->> (iii) To sell P’s shares;
-
->> (iv) To sell P’s motor vehicle.
-
->> (v) To receive, in addition to monies paid to P on a regular basis by the Central Provident Fund Board, up to $60,000 of P’s monies from the Central Provident Fund Board.
- 
 (3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
 
 > (a) more than 6 months before the date of the application; and 
 
 > (b) more than 3 months after P was last examined by P’s doctor. 
+
