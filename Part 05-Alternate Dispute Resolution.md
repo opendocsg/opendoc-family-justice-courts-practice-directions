@@ -16,7 +16,7 @@
 
 (2A) With effect from 1 July 2020, the Court will no longer conduct mediation where there is an application filed in the Family Justice Courts pursuant to the International Child Abduction Act (Cap. 143C).
 
-(3) The Registrar or the Judge may order that parties in proceedings which meet the criteria attend private mediation conducted by the Singapore Mediation Centre (“SMC”), unless parties have agreed upon a mediator (“Agreed Private Mediator”). The Registrar or the Judge may also make any orders necessary, including any orders pertaining to the payment of the mediation and its related fees.
+(3) The Registrar or the Judge may order that parties in proceedings which meet the criteria attend private mediation conducted, at parties’ election,  by the Singapore Mediation Centre or the Law Society Mediation Scheme (collectively referred to as “Assigned Private Mediator(s)”), unless parties have agreed upon a mediator (“Agreed Private Mediator”). The Registrar or the Judge may also make any orders necessary, including any orders relating to the choice of mediator (if parties are unable to agree) and pertaining to the payment of the mediation and its related fees. 
 
 (4) <u>For mediations conducted by the SMC<u>, the parties and/or counsel shall provide the Registrar or the Judge with the necessary information for the SMC to contact them to arrange for the mediation. The Registrar or the Judge will give directions and timelines for parties to agree on a mediation date and to exchange case information, documents and mediation briefs. The Registrar or the Judge will fix a return date for parties and/or counsel to update the Court on the outcome of the private mediation.
 
