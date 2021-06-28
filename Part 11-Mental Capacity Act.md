@@ -329,8 +329,6 @@ Fund Board;
 >
 > >> (iv) To sell P’s motor vehicle.
 >
-> >> (v) To receive, in addition to monies paid to P on a regular basis by the Central Provident Fund Board, up to $60,000 of P’s monies from the Central Provident Fund Board.
->
 > (y) To receive up to $60,000 of P’s monies from the Central Provident Fund Board in addition to monies paid to P on a regular basis by the Central Provident Fund Board. 
 
 (3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
