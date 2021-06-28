@@ -39,5 +39,3 @@ The provisions in the Family Justice Rules shall apply to the calculation of tim
 (a) The following definition of “working day” in rule 3 of the Family Justice Rules is applicable in these Practice Directions. “Working day” means any day other than a Saturday, Sunday or public holiday.
 
 (b) The provisions of Part 1 Division 3 of the Family Justice Rules shall also apply to the calculation of time.
-
-+ Example
