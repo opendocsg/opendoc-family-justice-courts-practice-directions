@@ -117,7 +117,7 @@
 
 > >  (i) The documents set out in sub-paragraph (13)(a)(i) and (ii) above.
 
-> >  (ii) An affidavit showing the other party’s default in signing the relevant documents.
+> >  (ii) An affidavit stating the details of the written notification(s) sent to the other party and showing the other party’s default in signing the relevant documents.
 
 (14) The sealed copy of the order of court empowering the Registrar to sign will be returned after the signing of the documents. 
 
@@ -201,9 +201,9 @@
 
 (10) An application to use the MIT facilities for any other dispute resolution process must be made by submitting Form 266A to the Registrar through the relevant person-in- charge at the organisation at which the dispute resolution process is carried out as soon as practicable, as availability of the resources are on a first-come-first served basis.
 
-(11) The mobile audio-visual equipment is available for use in both open Court and in Chambers while the mobile videoconferencing equipment is only for use in Chambers.
+(11) The MIT facilities are available for use in both open Court and in Chambers.
 
-(12) Any applicant desiring to use the mobile audio-visual equipment is required to provide details of the type of evidence presenting and media format in the application form. The applicant must also be prepared to have the presentation material or media available for testing with the audio-visual system at least 5 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide presentation materials or media format that is compatible with the equipment provided by the Court.
+(12) Any applicant desiring to use MIT facilities is required to provide details of the type of evidence to be presented and media format in the application form. The applicant must also be prepared to have the presentation material or media available for testing with the MIT facilities at least 5 working days before the first day fixed for the hearing. It is the responsibility of the applicant to provide presentation materials or media format that is compatible with the equipment provided by the Court.
 
 (13) [deleted]
 
