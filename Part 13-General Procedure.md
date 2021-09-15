@@ -1314,7 +1314,7 @@ having conduct of the proceedings; or
 
 ## 108A. Giving of evidence by person outside Singapore through live video or live television link in any court proceedings (other than proceedings in a criminal matter)
 
-(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any court proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than four weeks before the date of commencement of the hearing at which the person is to give evidence.  
+(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any court proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than four weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of an inter partes summons with a supporting affidavit.
 
 (2) A party applying for leave for any person outside Singapore to give evidence by live video or live television link must take note of the relevant legislation and requirements in force in the foreign country or territory where the person is giving evidence. Certain countries or territories may impose prohibitions against, restrictions on, or requirements to obtain permission for or relating to, the giving of evidence by a person in that country or territory for court proceedings in a different country or territory. The party applying for leave must make all necessary enquiries, and take all necessary steps, to ensure that the foreign country or territory where the person is giving evidence raises no objection, to the giving of evidence in that country or territory for court proceedings in Singapore. This may be done by any means that the party considers appropriate, including:
 
@@ -1323,6 +1323,8 @@ having conduct of the proceedings; or
 > (b)	making enquiries with the relevant authorities; or
 
 > (c)	obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required. 
+
+(2A)	The necessary enquiries and steps referred to at sub-paragraph (2) above must be made prior to the application referred to at sub-paragraph (1) above and evidence of the enquiries and steps taken must be given in the supporting affidavit to the application.
 
 (3)	For the avoidance of doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
 
