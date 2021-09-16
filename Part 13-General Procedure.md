@@ -1584,7 +1584,9 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 > “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.”
 
 > (c) in the case where all parties are unrepresented, by the parties personally and their signatures must be witnessed by an advocate and solicitor or a commissioner for oaths.
- 
+
+(5A)	If either party is incapacitated by reason of insolvency, the party must provide to the Court a letter from the Official Assignee stating that there is no objection to the proposed terms of the agreement, in particular, the terms relating to the division of matrimonial assets and maintenance. This letter is to be filed together with the duly signed draft consent order.
+
 (6) [deleted]
  
 (7) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order". 
@@ -1737,7 +1739,7 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 ## 125. Filing of records of appeal and written cases
 
-**_Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules_**
+**_Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules_**
 
 (1) In practice, the District Judges may furnish grounds of decision, and if so, within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Part 18 Division 60 of the Family Justice Rules.
 
@@ -1806,6 +1808,8 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 (15) Where a Record of Appeal exceeds 1000 pages, a core bundle may be filed may be filed and served together with the Record of Appeal.
 
 (16) Sub-paragraphs (6) to (10) shall apply and references to submissions shall be read as Appellant’s case and Respondent’s case.
+
+**_Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules_**
 
 (17) The appellant shall, within 7 working days from the date of the filing of the Notice of Appeal, file and serve his submissions. The respondent shall, within 7 working days from the service of the appellant’s submissions, file and serve his submissions.
 
