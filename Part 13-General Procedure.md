@@ -1314,7 +1314,7 @@ having conduct of the proceedings; or
 
 ## 108A. Giving of evidence by person outside Singapore through live video or live television link in any court proceedings (other than proceedings in a criminal matter)
 
-(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any court proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than four weeks before the date of commencement of the hearing at which the person is to give evidence.  
+(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any court proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than four weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of an inter partes summons with a supporting affidavit.
 
 (2) A party applying for leave for any person outside Singapore to give evidence by live video or live television link must take note of the relevant legislation and requirements in force in the foreign country or territory where the person is giving evidence. Certain countries or territories may impose prohibitions against, restrictions on, or requirements to obtain permission for or relating to, the giving of evidence by a person in that country or territory for court proceedings in a different country or territory. The party applying for leave must make all necessary enquiries, and take all necessary steps, to ensure that the foreign country or territory where the person is giving evidence raises no objection, to the giving of evidence in that country or territory for court proceedings in Singapore. This may be done by any means that the party considers appropriate, including:
 
@@ -1323,6 +1323,8 @@ having conduct of the proceedings; or
 > (b)	making enquiries with the relevant authorities; or
 
 > (c)	obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required. 
+
+(2A)	The necessary enquiries and steps referred to at sub-paragraph (2) above must be made prior to the application referred to at sub-paragraph (1) above and evidence of the enquiries and steps taken must be given in the supporting affidavit to the application.
 
 (3)	For the avoidance of doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
 
@@ -1481,13 +1483,19 @@ Related documents (e.g., correspondence and invoices) may be collected together 
 
 (4) If an illiterate or a blind deponent is brought before the duty Family Justice Courts commissioner for oaths and the interpretation of the document or documents takes more than 20 minutes, the commissioner for oaths will refer the solicitor and the deponent to the Registrar for a special appointment to be made for the documents to be deposed to. 
 
-(5) Save in exceptional circumstances, the Family Justice Courts will not entertain requests from advocates and solicitors for its commissioners for oaths to swear or affirm affidavits or statutory declarations or administer oaths to a deponent outside the Family Justice Courts’ premises. Advocates and solicitors appointed as commissioners for 
+(5) Save in exceptional circumstances, the Family Justice Courts will not entertain requests from advocates and solicitors for its commissioners for oaths to swear or affirm affidavits or statutory declarations or administer oaths to a deponent outside the Family Justice Courts’ premises. Advocates and solicitors appointed as commissioners for oaths and who are proficient in the language or dialect in which the affidavits or statutory declarations are to be sworn or affirmed, or in which oaths are to be taken, are instead encouraged to perform this function. 
 
-oaths and who are proficient in the language or dialect in which the affidavits or statutory declarations are to be sworn or affirmed, or in which oaths are to be taken, are instead encouraged to perform this function 
+## 111A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video or live television link
+
+(1) A remote communication technology referred to in Rule 653A of the Family Justice Rules must be capable of creating a live video or live television link through which a commissioner for oaths is able to comply with the requirements set in Rule 653A(3) of the Family Justice Rules.
+
+(2) For the purposes of Rule 653A(2) of the Family Justice Rules, the deponent and the commissioner for oaths may sign the affidavit electronically by applying a security procedure that results in a secure electronic signature under section 18 of the Electronic Transactions Act (Cap. 88).
+
+(3) Where an affidavit is made pursuant to Rule 653A of the Family Justice Rules, the affidavit should be made, as far as possible, as if the deponent were appearing before the commissioner for oaths in person, and the attestation must state that the affidavit was sworn or affirmed and signed in Singapore with the deponent appearing before the commissioner for oaths through a live video or live television link, or that the affidavit was signed by the deponent and/or the commissioner for oaths electronically in Singapore, or both, as the case may be.
 
 ## 112. Effect of non-compliance
 
-Any affidavit or exhibit which does not comply with the Directions contained in this Part will be liable to be rejected by the Court and made the subject of an order for costs. 
+Any affidavit or exhibit which does not comply with the Directions contained in this Part may be rejected by the Court and made the subject of an order for costs. 
 
 ## 113. Objections to the contents of affidavits of evidence-in- chief
 
@@ -1563,7 +1571,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (5) The draft consent order must be signed — 
  
-> (a) in the case where any party is represented, by that parties’ counsel; or 
+> (a) If either party is incapacitated by reason of insolvency, the party must provide to the Court a letter from the Official Assignee stating that there is no objection to the proposed terms of the agreement, in particular, the terms relating to the division of matrimonial assets and maintenance. This letter is to be filed together with the duly signed draft consent order.
  
 > (b) in the case where any party is unrepresented and another is represented, by that unrepresented party personally and subject to the following requirements: 
  
@@ -1729,7 +1737,7 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 ## 125. Filing of records of appeal and written cases
 
-**_Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules_**
+**_Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules_**
 
 (1) In practice, the District Judges may furnish grounds of decision, and if so, within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Part 18 Division 60 of the Family Justice Rules.
 
@@ -1798,6 +1806,8 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 (15) Where a Record of Appeal exceeds 1000 pages, a core bundle may be filed may be filed and served together with the Record of Appeal.
 
 (16) Sub-paragraphs (6) to (10) shall apply and references to submissions shall be read as Appellant’s case and Respondent’s case.
+
+(17) The appellant shall, within 7 working days from the date of the filing of the Notice of Appeal, file and serve his submissions. The respondent shall, within 7 working days from the service of the appellant’s submissions, file and serve his submissions.
 
 ## 126. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules
 
