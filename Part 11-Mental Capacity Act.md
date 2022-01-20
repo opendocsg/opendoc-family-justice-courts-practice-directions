@@ -32,7 +32,7 @@
 
 (3) Service on a named defendant shall be by way of personal service. Service on relevant persons may be by way of ordinary service pursuant to rule 902 of the Family Justice Rules, unless directed otherwise by the Court.
 
-(4) Where a relevant person resides overseas and the plaintiff or applicant is able to show that an electronic mail account to which the document will be sent belongs to the relevant person to be served and that it is currently active, the Court may permit service on such a relevant person to be carried out by way of electronic email. The grounds upon which the plaintiff or applicant is relying to obtain such permission must be stated clearly in the supporting affidavit,
+(4) Where a relevant person resides overseas and the plaintiff or applicant is able to show that an electronic mail account to which the document will be sent belongs to the relevant person to be served and that it is currently active, the Court may permit service on such a relevant person to be carried out by way of electronic email. The grounds upon which the plaintiff or applicant is relying to obtain such permission must be stated clearly in the supporting affidavit.
 
 (5) Subject to the timelines specified under rule 179(2) of the Family Justice Rules, one affidavit of service may be filed in respect of service on all the named defendants and relevant persons in any application. The dates, times and manner of service for each of the named defendants and relevant persons have to be stated clearly in the affidavit of service.
 
