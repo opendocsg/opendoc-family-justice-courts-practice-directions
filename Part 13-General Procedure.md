@@ -16,7 +16,7 @@
 
 **_Originating summons to be heard in open Court_**
 
-(6) Rule 506 of the Family Justice Rules provides that all originating summonses shall be heard in Chambers, subject to any provisions in the Family Justice Rules, written law, directions by the Court, or practice directions issued by the Registrar. 
+(6) Rule 506 of the Family Justice Rules provides that all originating summonses shall be heard in Chambers, subject to any provisions in the Family Justice Rules, written law, directions by the Court, or practice directions issued by the Registrar.
 
 (7) In addition to any provisions in the Family Justice Rules or other written law, and subject to any further directions made by the Court, the Registrar hereby directs that the following applications made by originating summonses shall be heard in open Court:
 
@@ -42,29 +42,29 @@
 
 (2) The plaintiff’s affidavit in support of the ex-parte originating summons for leave under section 121D of the Women’s Charter and rule 40 of the Family Justice Rules to file an application for financial relief under section 121B of the Women’s Charter shall be in Form 228 in Appendix A to these Practice Directions.
 
-(3) The plaintiff’s affidavit in support of the originating summons for financial relief under section 121B of the Women’s Charter shall be in Form 229 in Appendix A to these Practice Directions. 
+(3) The plaintiff’s affidavit in support of the originating summons for financial relief under section 121B of the Women’s Charter shall be in Form 229 in Appendix A to these Practice Directions.
 
 ## 75. Distribution of applications
 
-All applications in chambers (including summonses and originating summonses) shall be filed without specifying whether the application is to be heard before a Judge in person or the Registrar. 
+All applications in chambers (including summonses and originating summonses) shall be filed without specifying whether the application is to be heard before a Judge in person or the Registrar.
 
 ## 76. Summonses
 
 (1) All interlocutory applications must be made by way of summons.
 
-(2) Ordinary summonses shall be endorsed “_ex parte_” or “by consent” where applicable. When the summons is endorsed “ex parte”, it must bear a certificate to that effect signed by the solicitors for the applicant. When the summons is endorsed “by consent” and the respondent to the summons is unrepresented, the signature of that respondent with the following endorsement 
- 
- “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.” 
- 
-must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the parties in the proceedings.  
+(2) Ordinary summonses shall be endorsed “_ex parte_” or “by consent” where applicable. When the summons is endorsed “ex parte”, it must bear a certificate to that effect signed by the solicitors for the applicant. When the summons is endorsed “by consent” and the respondent to the summons is unrepresented, the signature of that respondent with the following endorsement
 
-(3) After the filing of any “ _ex parte_ ” or “by consent” summons, the application will be examined by the Judge or Registrar as the case may be. If he is satisfied that the application is in order and all other requirements have been complied with, he may make the order(s) applied for on the day fixed for the hearing of the application without the attendance of the applicant or his solicitor. 
+ “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.”
+
+must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the parties in the proceedings.
+
+(3) After the filing of any “ _ex parte_ ” or “by consent” summons, the application will be examined by the Judge or Registrar as the case may be. If he is satisfied that the application is in order and all other requirements have been complied with, he may make the order(s) applied for on the day fixed for the hearing of the application without the attendance of the applicant or his solicitor.
 
 (4) Summonses that are filed using the Electronic Filing Service will be routed to the inbox of the applicant solicitor’s Electronic Filing Service account. Where the summons is filed through the service bureau, it may be collected at the service bureau.
 
 (5) Enquiries by telephone will not be entertained.
 
-(6) Where a summons is filed in a matter for which a trial date has been fixed, the summons must be filed using the Electronic Filing Service with a special request informing the Registry of Family Justice Courts of the trial date(s). 
+(6) Where a summons is filed in a matter for which a trial date has been fixed, the summons must be filed using the Electronic Filing Service with a special request informing the Registry of Family Justice Courts of the trial date(s).
 
 ## 77. Supporting Affidavits for Specific Applications
 
@@ -177,7 +177,7 @@ maintenance sum from $600 to $500”.)
 
 (2) The applicant should, where appropriate, consider other modes of substituted service, such as AR registered post or electronic means (including electronic mail or Internet transmission) in addition to or in substitution of substituted service by posting on doors or gates of residential and business premises.
 
-(3) Two reasonable attempts at personal service should be made before an application for an order for substituted service is filed. In an application for substituted service, the applicant shall file a supporting affidavit stating the dates, times and outcomes of the said attempts and why he or she believes that such attempts made were reasonable. 
+(3) Two reasonable attempts at personal service should be made before an application for an order for substituted service is filed. In an application for substituted service, the applicant shall file a supporting affidavit stating the dates, times and outcomes of the said attempts and why he or she believes that such attempts made were reasonable.
 
 (4) If there is no response for both attempts at personal service (i.e. the door was locked and no one came to the door during both attempts), the plaintiff needs to state in the affidavit —
 
@@ -211,7 +211,7 @@ maintenance sum from $600 to $500”.)
 
 (11) On an application for substituted service by way of prepaid AR registered post / ordinary post, the plaintiff must state the following matters in the affidavit—
 
-> (a) the grounds for the plaintiff’s belief that the defendant is currently resident at the particular address in respect of which the plaintiff is applying for substituted service by way of prepaid AR registered post / ordinary post; 
+> (a) the grounds for the plaintiff’s belief that the defendant is currently resident at the particular address in respect of which the plaintiff is applying for substituted service by way of prepaid AR registered post / ordinary post;
 
 > (b) if the application for substituted service by way of prepaid AR registered post / ordinary post is to an overseas address, that the defendant is not ordinarily resident in Singapore;
 
@@ -233,11 +233,11 @@ maintenance sum from $600 to $500”.)
 
 > (c) if the advertisement is to be placed in an overseas newspaper, the grounds for the plaintiff’s belief as to why the defendant is thought to be in that particular country.
 
-(16) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed. 
+(16) An application for substituted service by advertisement (in one issue of the Straits Times if the person to be served is literate in English, or one issue of the Straits Times and one issue of one of the main non-English language newspapers where his language literacy is unknown) should only be considered as a last resort and should contain evidence that the person to be served is literate in the language of the newspaper in which the advertisement will be placed.
 
 **Application for dispensation of service**
 
-(17) Before an application for dispensation of service can be granted, the plaintiff should make attempts to locate the defendant by contacting the defendant’s relatives, friends, and employer(s) (if any), in order to discover the address at which the defendant is currently residing. 
+(17) Before an application for dispensation of service can be granted, the plaintiff should make attempts to locate the defendant by contacting the defendant’s relatives, friends, and employer(s) (if any), in order to discover the address at which the defendant is currently residing.
 
 (18) The affidavit must include the following:
 
@@ -259,7 +259,7 @@ maintenance sum from $600 to $500”.)
 
 > (a) In any application for discovery, inspection and interrogatories in respect of ancillary relief, the particular rule, paragraph and sub-paragraph (where applicable) of the Family Justice Rules under which the application is being taken out shall be stated in the application.
 
-> (b) A request for discovery under rule 63(4) of the Family Justice Rules shall be in Form 233 in Appendix A to these Practice Directions, and a notice under rule 63(5) of the Family Justice Rules in response to the request for discovery shall be in Form 234 in Appendix A to these Practice Directions. 
+> (b) A request for discovery under rule 63(4) of the Family Justice Rules shall be in Form 233 in Appendix A to these Practice Directions, and a notice under rule 63(5) of the Family Justice Rules in response to the request for discovery shall be in Form 234 in Appendix A to these Practice Directions.
 
 > (c) An application for discovery under rule 63(1) to (3) of the Family Justice Rules shall be in Form 237 in Appendix A to these Practice Directions.
 
@@ -279,7 +279,7 @@ preceded by a heading.
 > > (iv) The relevant paragraphs and pages in the affidavit(s) relating to the item shall be stated for each item and sub-item, where applicable.
 > > (v) If discovery of bank, trading or investment account statements are being requested, then the relevant account numbers (if known) shall be set out.
 
-> (g) A request (under rule 63(4) of the Family Justice Rules) or application (under rule 63(1) to (3) of the Family Justice Rules) for discovery and a request (under rule 69(1) of the Family Justice Rules) or application (under rule 69(5) to (6) of the Family Justice Rules) for interrogatories have to be filed through the separate prescribed templates in the Electronic Filing Service. 
+> (g) A request (under rule 63(4) of the Family Justice Rules) or application (under rule 63(1) to (3) of the Family Justice Rules) for discovery and a request (under rule 69(1) of the Family Justice Rules) or application (under rule 69(5) to (6) of the Family Justice Rules) for interrogatories have to be filed through the separate prescribed templates in the Electronic Filing Service.
 
 ## 81. Applications for electronic discovery
 
@@ -360,7 +360,7 @@ preceded by a heading.
 
 (19) If copies of electronic documents are supplied in one or more read-only optical disc(s) or other storage medium, the party giving discovery shall provide a further list, at the time when such copies are supplied, stating the following:
 
-> (a) the storage format (and its version) of the optical disc or storage medium; and 
+> (a) the storage format (and its version) of the optical disc or storage medium; and
 
 > (b) if there are multiple optical discs or storage media, a list of electronic documents stored on each optical disc or storage medium.
 
@@ -392,7 +392,7 @@ preceded by a heading.
 
 **_Requests for the supply of copies_**
 
-(30) A request for copies of discoverable electronically stored documents may specify the format and manner in which such copies are to be supplied. If the party giving discovery does not agree with the specified format or manner or both, he may either: 
+(30) A request for copies of discoverable electronically stored documents may specify the format and manner in which such copies are to be supplied. If the party giving discovery does not agree with the specified format or manner or both, he may either:
 
 > (a) propose a reasonably usable format and/or storage medium and/or a reasonable manner in which he intends to supply copies of the requested electronic documents; or
 
@@ -424,17 +424,17 @@ preceded by a heading.
 
 > (b) by or on behalf of the performer of a performance against a network service provider for information relating to the identity of a user of the network service provider's primary network who is alleged to have made an unauthorised use of the performance in relation to an electronic recording of the material on, or accessible through, the network service provider's primary network.
 
-(2) An application referred to in sub-paragraph (1) shall —
+(2) An application referred to in sub-paragraph (1) shall be made in Form 47 of Appendix A to these Practice Directions.
 
-> (a) be made in Form 47 of Appendix A to these Practice Directions; and
+> (a) 	\[deleted]
 
-> (b) when made in accordance with sub-paragraph (2)(a), be fixed for hearing within 5 days from the date of filing of the application.
+> (b)	\[deleted]
 
-(3) The onus shall lie on the applicant to highlight the nature of the application to the Registry and to request that the application be fixed for hearing within 5 days.
+(3) If the applicant requires an urgent hearing date, the onus shall lie on the applicant to attend before the Duty Registrar to highlight the nature of the application and to request that the application be fixed for hearing on an urgent basis.
 
-(4) In sub-paragraph (1)(a), the words "electronic copy", "material", "network service provider" and "primary network" have the same meanings as in section 193A(1) of the Copyright Act (Cap 63).
+(4) \[deleted]
 
-(5) In sub-paragraph (1)(b), the words "electronic recording", "network service provider", "performance" and "primary network" have the same meanings as in section 246(1) of the Copyright Act (Cap 63). 
+(5) \[deleted]
 
 ## 83. Ex parte applications for injunctions
 
@@ -448,7 +448,7 @@ preceded by a heading.
 
 > (c) whether the other parties or their solicitors consent to the application being heard without their presence.
 
-(3) The Directions set out in sub-paragraph (2) need not be followed if the giving of the notice to the other parties, or some of them, would or might defeat the purpose of the _ex parte_ application. However, in such cases, the reasons for not following the Directions should be clearly set out in the affidavit prepared in support of the _ex parte_ application. 
+(3) The Directions set out in sub-paragraph (2) need not be followed if the giving of the notice to the other parties, or some of them, would or might defeat the purpose of the _ex parte_ application. However, in such cases, the reasons for not following the Directions should be clearly set out in the affidavit prepared in support of the _ex parte_ application.
 
 ## 84. Mareva injunctions
 
@@ -466,11 +466,11 @@ When composing the summons electronic form online through the Electronic Filing 
 
 (4) Wherever practicable, applications should be made sufficiently early so as to ensure that the Judge has sufficient time to read and consider the application in advance.
 
-(5) On an _ex parte_ application for a _Mareva_ injunction, an applicant may be required, in an appropriate case, to support his cross-undertaking in damages by a payment to be made into Court, a bond to be issued by an insurance company with a place of business within Singapore, a written guarantee to be issued from a bank with a place of business within Singapore or a payment to the applicant’s solicitor to be held by the solicitor as an officer of the Court pending further order. 
+(5) On an _ex parte_ application for a _Mareva_ injunction, an applicant may be required, in an appropriate case, to support his cross-undertaking in damages by a payment to be made into Court, a bond to be issued by an insurance company with a place of business within Singapore, a written guarantee to be issued from a bank with a place of business within Singapore or a payment to the applicant’s solicitor to be held by the solicitor as an officer of the Court pending further order.
 
 ## 85. Documents in support of ex parte applications for injunctions (including Mareva injunctions)
 
-(1) Without prejudice to the requirements stated in Paragraphs 83 and 84 of these Practice Directions, in order to assist the Court hearing _ex parte_ applications for injunctions (including _Mareva_ injunctions), an applicant must include in the affidavit prepared in support of the application the following information under clearly defined headings: 
+(1) Without prejudice to the requirements stated in Paragraphs 83 and 84 of these Practice Directions, in order to assist the Court hearing _ex parte_ applications for injunctions (including _Mareva_ injunctions), an applicant must include in the affidavit prepared in support of the application the following information under clearly defined headings:
 
 > (a) reason(s) the application is taken out on an ex parte basis, including whether the applicant believes that there is a risk of dissipation of assets, destruction of evidence or any other prejudicial conduct;
 
@@ -487,7 +487,7 @@ whether there have been any past incidents of the opponent dissipating assets, d
 
 (2) An applicant must prepare skeletal submissions on the points to be raised at the hearing of the _ex parte_ application. At the hearing, the applicant shall give a copy of the skeletal submissions to the Court and to any opponent present. The applicant shall file the skeletal submissions by the next working day.
 
-(3) The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the court documents. 
+(3) The Court may also require the applicant to prepare a note of the hearing setting out the salient points and arguments canvassed before the Court and may order such a note to be served together with the court documents on any opponent who is not present at the hearing or within a reasonable time after the service of the court documents.
 
 ## 86. Case conferences
 
@@ -541,10 +541,10 @@ whether there have been any past incidents of the opponent dissipating assets, d
 
 > (j) the necessity (if any) for an order for the Central Provident Fund Board to furnish information relating to the utilisation of CPF monies or CPF account balances where there is a claim for the division of a matrimonial property or CPF-related assets;
 
-> (k) the necessity (if any) to transfer the proceedings to the Family Division of the High Court for hearing and determination. In 
+> (k) the necessity (if any) to transfer the proceedings to the Family Division of the High Court for hearing and determination. In
 determining whether to transfer the case to the Family Division of the High Court, the Family Court will take into account whether:
 
-> > (i) there is an important question of law; 
+> > (i) there is an important question of law;
 
 > > (ii) the matter is a test case; and/or
 
@@ -558,16 +558,16 @@ determining whether to transfer the case to the Family Division of the High Cour
 
 (3) The principal solicitors having conduct of the case are to personally attend the case conference. They are expected to be thoroughly prepared to discuss all relevant matters as the Registrar conducting the case conference will take a holistic approach tothe case and consider all relevant matters relating to the case.
 
-(4) Solicitors should ensure that their clients are fully informed of the option of using alternative dispute resolution before attending the case conference. They are expected to advise their clients and to take instructions on the desirability of referring the dispute for mediation and / or counselling. 
+(4) Solicitors should ensure that their clients are fully informed of the option of using alternative dispute resolution before attending the case conference. They are expected to advise their clients and to take instructions on the desirability of referring the dispute for mediation and / or counselling.
 
 (5) The following sub-paragraphs shall apply in matrimonial proceedings under Part X of the Women’s Charter where any of the ancillary relief claimed is contested and section 17A(2) of the Supreme Court Judicature Act.
 
 > (a) The parties or their counsel attending the case conference shall ensure that all affidavits, reports, Ancillary Matters Fact and Position Sheet in Form 242 in Appendix A to these Practice Directions and any other necessary documents have been filed and all interlocutory applications and appeals therefrom have been dealt with before seeking a date for the hearing of the ancillary matters.
 
-> (b) Where the contested ancillary matters include the division of matrimonial assets, the parties or their counsel shall, upon the 
+> (b) Where the contested ancillary matters include the division of matrimonial assets, the parties or their counsel shall, upon the
 direction of the court, file the in Form 243 in Appendix A to these Practice Directions stating the contested issues, the net value of the matrimonial assets as at the date of the Declaration, the status of the proceedings.
 
-> (c) At any time before the commencement of the hearing of the contested ancillary matters, where it is necessary to do so, the 
+> (c) At any time before the commencement of the hearing of the contested ancillary matters, where it is necessary to do so, the
 parties or their counsel may, upon the direction of the court, file another in Form 243 in Appendix A to these Practice Directions.
 
 (6) In proceedings under the Guardianship of Infants Act,
@@ -576,14 +576,14 @@ parties or their counsel may, upon the direction of the court, file another in F
 
 ## 87. Attendance at hearings in the Family Justice Courts
 
-(1) For the avoidance of doubt, the general rule is that all hearings in a Family Justice Court shall be heard in camera pursuant to section 10(1) of the Family Justice Act. Members of the public are not entitled to attend such hearings.
+(1) For the avoidance of doubt, the general rule is that all hearings in a Family Justice Court shall be heard in private pursuant to section 10(1) of the Family Justice Act. Members of the public are not entitled to attend such hearings.
 
-(2) Notwithstanding paragraph (1) above, a Family Justice Court may hear any matter in an open and public court to which the public generally may have access, if the Court is satisfied that it is expedient in the interests of justice, or for other sufficient reason to do so. Such matters include but are not limited to:- 
+(2) Notwithstanding paragraph (1) above, a Family Justice Court may hear any matter in an open and public court to which the public generally may have access, if the Court is satisfied that it is expedient in the interests of justice, or for other sufficient reason to do so. Such matters include but are not limited to:-
 
-> (a) trial or hearings for proceedings under section 105 and 106 of the Women’s Charter; 
+> (a) trial or hearings for proceedings under section 105 and 106 of the Women’s Charter;
 
 > (b) uncontested trials or hearings for proceedings under section 95 and 101 of the
-Women’s Charter which were adjourned from chambers to Open Court; and 
+Women’s Charter which were adjourned from chambers to Open Court; and
 
 > (c) mentions for proceedings under Part VII and VIII of the Women’s Charter.
 
@@ -598,299 +598,529 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 > (d) the Court’s interest in preserving and upholding its authority and dignity.
 
 (4) In granting interested persons the permission to attend hearings in a Family Justice Court, the Court may, in its discretion, impose the necessary conditions to be complied with.
- 
+
 ## 88. Electronic filing of documents and authorities for use in Court
 
-(1) Subject to any Directions in this Part to the contrary, in particular Paragraph 90(3), all bundles of documents, bundles of authorities, bundles of pleadings, bundles of affidavits, all other bundles, and all opening statements for proceedings which have been commenced using the Electronic Filing Service must be filed in Court using the Electronic Filing Service.
+***Time for filing of documents***
 
-(2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for leave to use paper documents during the hearing. The paper documents may be printed on one side or both sides of each paper. The solicitor must explain why it was not possible to file the documents in advance of the hearing, and must give an undertaking to file using the Electronic Filing Service all the documents used at the hearing by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court's case file.
+(1) Subject to any Directions in this Part to the contrary, or by the Court to the contrary, all documents to be used at any hearing in Court must be filed using the Electronic Filing Service at least 1 clear day in advance of the hearing. These documents include written submissions, skeletal arguments, bundles of documents, bundle of pleadings, bundles of affidavits, core bundles and opening statements.
 
-(3) Notwithstanding anything else in this Paragraph, in the event that a party chooses to use bundles of authorities in paper form for a hearing, the directions in this sub-paragraph shall apply:
+(2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for leave to:
 
-> (a) The party using the paper copy of the bundle of authorities shall bear the onus of producing the bundle at every hearing at which it is required. The Court will neither retain nor undertake to produce for hearings the paper copy of the bundle.
+> (a) 	use hard copy documents during the hearing. Without limiting paragraph 90(12) of these Practice Directions, the hard copy documents may be printed on one side or both sides of each page; or
 
-> (b) The party using the paper copy of the bundle of authorities should file through the Electronic Filing Service a list of authorities to be used at least one clear day in advance of the hearing. In the event that it is not possible for the party to do so, he must explain to the Judge or Registrar conducting the hearing why it was not possible for him to do so and must also undertake to file the list of authorities using the Electronic Filing Service by the next working day after the hearing.
+> display a soft copy of the document by sharing his or her screen during the hearing (if the hearing is conducted by video-conferencing).
 
-> (c) The Judge or Registrar may, if he so chooses, retain the paper copy of the bundle of authorities for his own reference. The paper copy so retained will not however form part of the Court's record in respect of the proceedings in which it was used.
+The solicitor must explain why it was not possible to file the documents in advance of the hearing, and must also give an undertaking to file using the Electronic Filing Service all the documents used at the hearing by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court's case file.
 
-(4) Counsel must adhere to the following directions when preparing bundles of authorities for use in Court:
+***General requirements as regards documents filed for use in Court***
 
-> (a) The bundle of authorities shall contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
-> (b) The bundle of authorities shall have a table of contents immediately after the first title page. Where the bundle of authorities consists of more than one volume, each volume shall have a table of contents clearly indicating the authorities that are contained in that volume;
-> (c) The items in the table of contents shall be numbered sequentially, and bound in the order in which they are listed;
+(3) Without limiting any directions in these Practice Directions, the following requirements apply to all documents filed for use in Court:
 
-> (d) The table of contents shall contain a concise statement of the relevance of each authority to the specific issues before the Court. The relevance of each authority shall be succinctly expressed and comprise no more than 3 sentences. The statement shall be set out immediately after the name of the case. For example:
+<ul type="*">
 
-> _Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull [2007] 1 SLR(R) 377_
+<li>(a)	Cover pages are mandatory for all documents;</li>
 
-> Relevance: Choice of law considerations are relevant even when determining the natural forum to hear a dispute.
+<li>(b)	A table of contents is mandatory for all documents exceeding 20 pages;</li>
 
-> (e) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in paragraph 90(8)(c);
+<li>(c)	Where a document consists of more than 1 volume:</li>
 
-> (f) be paginated consecutively at the top right hand corner of each page (for which purpose the pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle); and
+<ul type="*">
 
-> (g) be appropriately flagged for easy reference.
+<li>(i) 	the table of contents of all volumes of the document must be placed at the beginning of Volume I; and</li>
 
-(5) The Court may reject bundles of authorities which are not in compliance with sub- paragraph (4) above, and in exercising its discretion as to costs, take such non- compliance into account.
+<li>(ii)	each volume must have a table of contents indicating the items that are contained in that volume.</li>
 
-(6) Where electronic bundles of authorities are filed through the Electronic Filing Service, the following shall apply:
+</ul>
 
-> (a) A bookmark should be created in the Portable Document Form (PDF) file for each authority in the bundle.
+</ul>
 
-> (b) The name given to each bookmark should be the same as the table of contents.
+(4) If the filing of a document is to be done by submitting only a hard copy of the same to the Registry in accordance with these Practice Directions or the Court’s direction:
 
-> (c) The page number of each printed bundle must correspond to the page number in the Portable Document Format (PDF) version of that bundle. Each separate bundle of documents shall start at page 1 and every page shall be numbered consecutively.
+<ul type="*">
 
-## 89. Bundle of Documents filed on setting down
+<li>(a)	Any fees payable pursuant to the Fifth Schedule to the Family Justice Rules must be paid over the counter or by any alternative mode of payment specified by the Registry at the same time as when the hard copy document is submitted to the Registry.</li>
 
-(1) Rule 566 of the Family Justice Rules requires a bundle containing certain documents to be filed together with the notice for setting down. The documents in the bundle should be included in the order in which these appear in rule 566(1):
+<li>(b)	Parties should, when making payment over the counter, indicate to the cashier the precise number of pages which comprise the documents.</li>
 
-**Filing documents when setting down**
+<li>(c)	The hard copy of the document filed in Court should show, on the first page of the document, the amount of fees that have been paid on the document.</li>
 
->(1) The party setting down an action for trial must file with the Registrar a notice for setting down an action for trial in Form 119 together with a bundle for the use of the Judge consisting of one copy of each of the following documents:
+<li>(d)	To avoid doubt, this sub-paragraph does not apply where:</li>
 
->> (a) the writ;
+<ul type="*">
 
->> (b) the pleadings (including any affidavits ordered to stand as pleadings), any notice or order for particulars and the particulars given; and 
+<li>(i) 	a document is filed, and the fees payable pursuant to the Fifth Schedule to the Family Justice Rules are paid, through the Electronic Filing System; and</li>
 
->> (c) all orders made on the summons for directions.
+<li>(ii)	the party chooses to tender hard copy of the document to the Registry.</li>
 
-(2) In addition, parties should endeavour to file a core bundle of documents. This core bundle should comprise only documents that are relevant to the hearing in question, or which will be referred to in the course of the hearing.
+</ul>
 
-(3) These documents must be prepared in an electronic format. If there are other documents, the relevance of which is uncertain, these documents should be included and any objections taken before the trial Judge.
+</ul>
 
-**_Directions for electronic creation and filing of bundles of documents_**
+***Bundle of authorities***
 
-(4) The following directions shall apply to the filing of bundles:
+(5)	Where bundles of authorities are required to be filed under these Practice Directions or by the Court, the following directions, unless otherwise provided by these Practice Directions or ordered by the Court, apply.
 
-> (a) Index pages shall be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many book-marks in that PDF file as there are references in the index to documents in that PDF file.
+(6)	Bundles of authorities may be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities for hearings according to the directions in this Part.
 
-> (b) The name given to each bookmark should be the same as the corresponding reference in the index.
+(7)	The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. The hard copy of the bundle of authorities may be printed on one side or both sides of each page. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
 
-> (c) The various PDF documents should be arranged chronologically or in some logical order.
+(8)	Counsel must adhere to the following directions when preparing bundles of authorities for use in Court. These requirements also apply to paragraphs 90 to 92, 99, 125 and 126 of these Practice Directions:
 
-> (d) The page number of each bundle of documents must correspond to the page number in the Portable Document Format (PDF) version of that bundle. Each separate bundle of documents shall start at page 1 and every page shall be numbered consecutively.
+<ul type="*">
 
-(5) For proceedings using the Electronic Filing Service, a bundle of documents may be created online and filed through the Electronic Filing Service. The electronic bundle shall be created in Portable Document Format (PDF). The electronic bundle may contain:
+<li>(a)	The bundle of authorities must contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on.</li>
 
-> (a) documents in the electronic case file; and
+<li>(b)	The bundle of authorities must be arranged in the following order – statutes in alphabetical order of the title, subsidiary legislation in alphabetical order of the title, cases in alphabetical order of the case name, secondary materials (such as textbooks and articles) in alphabetical order of the last name of the author, and any other materials in alphabetical order of the title or last name of the author as is appropriate.</li>
 
-> (b) documents that have been uploaded into the electronic case file by solicitors or other persons given access to the shared folder in the electronic case file.
- 
+<li>(c)	The bundle of authorities must have a table of contents immediately after the cover page. Where the bundle of authorities consists of more than 1 volume:</li>
+
+<ul type="*">
+
+<li>(i)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
+
+<li>(ii)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
+
+</ul>
+
+<li>(d)	The items in the table of contents must be numbered sequentially, and bound in the order in which they are listed.</li>
+
+<li>(e)	The table of contents must contain a concise statement of the relevance of each authority to the specific issues before the Court. The relevance of each authority must be succinctly expressed and comprise no more than 3 sentences. The statement must be set out immediately after the name of the case. For example:
+<br>
+<br>
+<em>Rickshaw Investments Ltd and another v Nicolai Baron von Uexkull</em> [2007] 1 SLR(R) 377
+<br>
+<br>
+<span style="text-decoration: underline">Relevance</span>: Choice of law considerations are relevant even when determining the natural forum to hear a dispute.
+
+</li>
+
+<li>(f)	The bundle of authorities must be properly bound with plastic ring binding or plastic spine thermal binding. The rings or spines should be red for plaintiffs/appellants and blue for defendants/respondents with a transparent plastic cover in front and at the back.</li>
+
+<li>(g)	The bundle of authorities must have flags to mark out the authorities. Such flags must bear the appropriate indicium by which the authority is referred to. Flags must be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another.</li>
+
+<li>(h)	The bundle of authorities must be paginated consecutively at the top right hand corner of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.</li>
+
+<li>(i)	The bundle of authorities must be legible. Clear copies of the authorities must be made available for inspection by the other parties or the Judge if the copies exhibited in the bundle of authorities are not legible.</li>
+
+</ul>
+
+(9)	The Court may reject bundles of authorities that are not in compliance with sub-paragraph (8) above, and in exercising its discretion as to costs, take such non-compliance into account.
+
+(10)	Only authorities which are relevant or necessary for the trial or hearing may be included in the bundle. No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial or hearing. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant party.
+
+(11)	Where bundles of authorities are filed through the Electronic Filing Service, the following applies:
+
+<ul type="*">
+
+<li>(a)	A bookmark should be created in the Portable Document Format (PDF) file for each authority in the bundle.</li>
+
+<li>(b)	The name given to each bookmark should be the same as the corresponding authority in the table of contents.</li>
+
+<li>(c)	The page number of each printed volume of the bundle must correspond to the page number in the Portable Document Format (PDF) version of that volume of the bundle. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.</li>
+
+</ul>
+
+## 89. [deleted]
+
+[deleted]
+
 ## 90. Documents for use in trials
 
-(1) This Paragraph shall apply to trials of —
+(1)	This Paragraph shall apply to trials of —
 
 > (a) writ actions; and
 
-> (b) originating summonses ordered to be continued as if the cause of action had been begun by writ.
+> (b)	originating summonses ordered to be continued as if the cause of action had been begun by writ.
 
-(2) Rule 567 of the Family Justice Rules requires the originals of the affidavits of the evidence-in-chief of all witnesses and a bundle of documents to be filed not less than 5 working days before the trial of an action. This Paragraph prescribes the contents and the format of the bundle of documents. In addition, to improve the conduct of family proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall also be prepared by the respective solicitors of the parties:
+(2)	To improve the conduct of family proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall also be prepared by the respective solicitors of the parties:
 
-> (a) a bundle of authorities; and
+> (a)	a bundle of authorities; and
 
-> (b) an opening statement.
+> (b)	an opening statement.
 
-**_Documents which need not be filed electronically_**
+**_Time for filing of documents under rule 567(1) of the Family Justice Rules_**
 
-(3) Paragraphs 88, 89(2) to (6) of these Practice Directions do not apply to the documents that are filed in Court pursuant to the provisions of rule 567(1) of the Family Justice Rules. Such documents may be tendered to the Registry in hardcopy together with an electronic copy stored on a CD-ROM in PDF format and complying with the provisions of this Paragraph.
+(3)	Parties are to note that the timeline given pursuant to the Court’s directions under rule 567(1) of the Family Justice Rules is to be adhered to strictly, and that the timeline will apply to the filing of the documents into the electronic case file and, if applicable, the submission of the CD-ROM or DVD-ROM (containing the documents in Portable Document Format (PDF)) to the Registry.
 
-(4) Any court fees payable, pursuant to Part 19 of the Family Justice Rules, on filing the documents in this Paragraph, shall be payable at the stamp office. Parties should, when making payment at the stamp office, indicate to the cashier the precise number of pages which comprise the documents and comply with the provisions of Paragraph 157 of these Practice Directions.
+(4)	At the trial of the cause or matter, an adjournment may be ordered if:
 
-(5) It is emphasised that payment of the court fees on such documents should be made before the documents are tendered to Court in compliance with rule 567 of the Family Justice Rules. The hardcopy of documents tendered to Court should show, on the front page, the amount of court fees paid on the document.
+<ul type="*">
 
-(6) The electronic copy must tally in all respects with the hardcopy, as it will be uploaded into the case file by the Registry staff and will form part of the electronic case file. The importance of not submitting unnecessarily large electronic files is emphasised. To this end, parties are to adhere as far as possible to the guidelines set out on the Electronic Filing Service website (currently at [http://www.elitigation.sg](http://www.elitigation.sg)), or its equivalent as may be set up from time to time, on the resolution to be used when scanning documents into PDF format.
+<li>(a)	the documents or any of them (save for the opening statement in cases where it is not required or dispensation was granted) were not filed and served within the prescribed time or at all; or</li>
 
-(7) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Family Registry in hard copy. It shall not be necessary to pay any additional court fees in respect of the hard copy in such circumstances.
+<li>(b)	one party seeks to tender any of the above documents or supplements to such documents (except for supplements to the opening statement at the trial of the cause or matter).</li>
+
+</ul>
+
+(5)	If an adjournment is ordered for any of the reasons set out in sub-paragraph (3), the party in default may be ordered to bear the costs of the adjournment.
+
+**_Mode of filing documents_**
+
+(6)	The opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents must be filed in Court as separate documents using the Electronic Filing Service, and, if required, each of the opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents in Portable Document Format (PDF) stored on optical media (CD-ROM or DVD-ROM) may be tendered to the Registry. The documents must comply with the provisions of this paragraph.
+
+(7)	Additionally, unless otherwise directed, the parties must tender the documents referred to at sub-paragraph (6) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy (if tendered in optical media), and the page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at [http://www.elitigation.sg](http://www.elitigation.sg) on the resolution to be used when scanning documents into PDF.
 
 **_Bundle of documents_**
 
-(8) The bundle of documents required to be filed by rule 567 of the Family Justice Rules should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page.
+(8)	The bundles of documents in Rules 566 and 567(1)(b) must be prepared in an electronic format. The contents of the bundle of documents must be agreed on between all parties as far as possible. If there are other documents, the relevance of which is uncertain, these documents should be included and any objections taken before the trial Judge. Only documents which are relevant or necessary for the trial may be included in the bundles. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary documents, the Court will have no hesitation in making a special order for costs against the relevant party. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
 
-> (a) An index of contents of each bundle in the manner and form set out in Form 205 in Appendix A to these Practice Directions must also be furnished. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
+(9) 	The following directions apply to the electronic creation of bundles of documents:
 
-> (b) Under rule 567(3) of the Family Justice Rules it is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible. The scope to which the agreement extends must be stated in the index sheet of the agreed bundle.
+<ul type="*">
 
-> (c) The documents in the bundles should —
+<li>(a) Index pages shall be prepared. Bookmarks should be created in the Portable Document Format (PDF) file for each such reference in the index. There should be as many book-marks in that PDF file as there are references in the index to documents in that PDF file.</li>
 
-> >  (i) be firmly secured together with plastic ring binding or plastic spine thermal binding, and such rings or spines should be red for plaintiffs and blue for defendants with a transparent plastic cover in front and at the back;
+<li>(b) The name given to each bookmark should be the same as the corresponding reference in the index.</li>
 
-> >  (ii) have flags to mark out documents to which repeated references will be made in the course of hearing, and such flags shall —
+<li>(c)	It is the responsibility of the solicitors for all parties to agree and prepare a bundle of agreed documents. The scope to which the agreement extends must be stated in the index sheet of the bundle of agreed documents. If the parties are unable to agree on the inclusion of certain documents, those documents on which agreement cannot be reached must be prepared by the party that intends to rely on or refer to those documents. It is the responsibility of the solicitors for the party filing the bundle of documents to separate the documents into sections for documents of which authenticity is not in dispute and documents of which authenticity is in dispute and to indicate in the index sheet the documents of which authenticity is in dispute and by whom. Apart from the above, the various PDF documents should be arranged chronologically or in some logical order.</li>
 
-> > > (A) bear the appropriate indicium by which the document is indicated in the index of contents; and
+<li>(d) The page number of each bundle of documents must correspond to the page number in the Portable Document Format (PDF) version of that bundle. Each separate bundle of documents shall start at page 1 and every page shall be numbered consecutively.</li>
 
-> > > (B) be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another; and
+</ul>
 
-> >  (iii) be legible (for which purpose clear legible photo-copies of original documents may be exhibited instead of the originals provided the originals are made available for inspection by the other parties before the hearing and by the Judge at the hearing).
+(10) For proceedings using the Electronic Filing Service, a bundle of documents may be created online and filed through the Electronic Filing Service. The electronic bundle shall be created in Portable Document Format (PDF). The electronic bundle may contain:
 
-> (d) Where originals and copies of documents are included in one bundle, it should be stated in the index which documents are originals and which are copies.
+<ul type="*">
 
-> (e) Only documents which are relevant or necessary for the trial shall be included in the bundles. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary documents, the Court will have no hesitation in making a special order for costs against the relevant person.
+<li>(a) documents in the electronic case file; and</li>
 
-> (f) A core bundle should (unless clearly unnecessary) also be provided containing the most important documents upon which the case will turn or to which repeated reference will have to be made. The documents in this bundle should normally be paginated but should also be cross-referenced to copies of the documents included in the main bundles. The bundle supplied to the Court should be contained in a loose-leaf file which can easily have further documents added to it if required.
+<li>(b)	documents that have been uploaded into the electronic case file by solicitors or other persons given access to the shared folder in the electronic case file.</li>
 
-**_Bundle of authorities_**
+</ul>
 
-(9) Bundles of authorities may be filed in compliance with paragraph 88(4), (5) and (6).
+(11)	The directions in sub-paragraph (12) below apply to hard copies tendered to the Registry or the Court.
 
-(10) Only authorities which are relevant or necessary for the trial shall be included in the bundles. No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant person.
+(12)	The documents in the bundles should —
 
-(11) The bundle of authorities shall be filed and served on all relevant parties at least 3 working days before trial.
+<ul type="*">
+
+<li>(a)	contain an index of contents of each bundle in the manner and form set out in Form 205 in Appendix A to these Practice Directions.</li>
+
+<li>(b)	be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page.</li>
+
+<li>(c)	Where the bundle of documents consists of more than 1 volume:</li>
+
+<ul type="*">
+
+<li>(i)	the index of contents of all volumes of the bundle of documents must be placed at the beginning of Volume 1; and</li>
+
+<li>(ii) 	each volume must have an index of contents indicating the documents that are contained in that volume.</li>
+
+</ul>
+
+<li>(d)	be firmly secured together with plastic ring binding or plastic spine thermal binding, and such rings or spines should be red for plaintiffs and blue for defendants with a transparent plastic cover in front and at the back;</li>
+
+<li>(e)	have flags to mark out documents to which repeated references will be made in the course of hearing, and such flags shall —</li>
+
+<ul type="*">
+
+<li>(i)	bear the appropriate indicium by which the document is indicated in the index of contents; and</li>
+
+<li>(ii)	be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another; and</li>
+
+</ul>
+
+<li>(f)	be legible (for which purpose clear legible photo-copies of original documents may be exhibited instead of the originals provided the originals are made available for inspection by the other parties before the hearing and by the Judge at the hearing).</li>
+
+<li>(g)	Where originals and copies of documents are included in one bundle, it should be stated in the index which documents are originals and which are copies.</li>
+
+</ul>
+
+**_Core bundle of documents_**
+
+(13) 	A core bundle should (unless clearly unnecessary) also be provided containing the most important documents upon which the case will turn or to which repeated reference will have to be made. The documents in this bundle should normally be paginated but should also be cross-referenced to copies of the documents included in the main bundles.  The bundle supplied to the Court should be contained in a loose-leaf file which can easily have further documents added to it if required.
+
+(13) 	Where the core bundle of documents consists of more than 1 volume:
+
+<ul type="*">
+
+<li>(a)	the table of contents of all volumes of the core bundle of documents must be placed at the beginning of Volume I; and</li>
+
+<li>(b)	each volume must have a table of contents indicating the documents that are contained in that volume.</li>
+
+</ul>
 
 **_Opening statements_**
 
-(12) A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law. It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. Opening statements also help to clarify issues between the parties, so that unnecessary time is not spent on trying to prove what is not disputed or irrelevant. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose.
+(15)	A proper opening statement is of great assistance to the Court as it sets out the case in a nutshell, both as to facts and law.  It is intended to identify both for the parties and the Judge the issues that are, and are not, in dispute. It enables the Judge to appreciate what the case is about, and what he is to look out for when reading and listening to the evidence that will follow. Opening statements also help to clarify issues between the parties, so that unnecessary time is not spent on trying to prove what is not disputed or irrelevant. The need for brevity is emphasised as opening statements that contain long and elaborate arguments, and citations from and references to numerous authorities, do not serve this purpose.
 
-> (a) In the light of these objectives, opening statements will be required in all cases from all parties, except where dispensation has been granted by the trial Judge and in running down actions.
+<ul type="*">
 
-> (b) All opening statements must include the following:
+<li>(a)	In the light of these objectives, opening statements will be required in all cases from all parties, except where dispensation has been granted by the trial Judge and in running down actions.</li>
 
-> >  (i) the nature of the case generally and the background facts insofar as they are relevant to the matter before the Court and indicating which facts, if any, are agreed;
+<li>(b)	All opening statements must include the following:</li>
 
-> >  (ii) the precise legal and factual issues involved are to be identified with cross-references as appropriate to the pleadings. These issues should be numbered and listed, and each point should be stated in no more than one or two sentences. The object here is to identify the issues in dispute and state each party's position clearly, not to argue or elaborate on them;
+<ul type="*">
 
-> >  (iii) the principal authorities in support of each legal proposition should be listed, while the key documents and witnesses supporting each factual proposition should be identified;
+<li>(i)	the nature of the case generally and the background facts insofar as they are relevant to the matter before the Court and indicating which facts, if any, are agreed;</li>
 
-> >  (iv) where there is a counterclaim or third party action, the opening statement must similarly address all issues raised therein; and
+<li>(ii) the precise legal and factual issues involved are to be identified with cross-references as appropriate to the pleadings. These issues should be numbered and listed, and each point should be stated in no more than one or two sentences. The object here is to identify the issues in dispute and state each party's position clearly, not to argue or elaborate on them;</li>
 
-> >  (v) an explanation of the reliefs claimed (if these are unusual or complicated).
+<li>(iii) the principal authorities in support of each legal proposition should be listed, while the key documents and witnesses supporting each factual proposition should be identified;</li>
 
-> (c) The plaintiff’s statement as provided for in sub-paragraph (12)(e) below, should, unless exempted or dispensation has been granted by the trial Judge, be filed and served on all other relevant parties not less than 3 working days before the commencement of the trial for which they are to be used. 
+<li>(iv) where there is a counterclaim or third party action, the opening statement must similarly address all issues raised therein; and</li>
 
-> (d) The other counsel should each similarly not later than 2 working days before the start of the trial provide to the Court (with copies at the same time to their opponents) a statement which should concisely state the nature of their case on each of the issues to be tried and summarise the propositions of law to be advanced with references to the main authorities to be relied on. The character and length of this document will depend on the circumstances and whether there is any counterclaim or third party proceedings.
+<li>(v) an explanation of the reliefs claimed (if these are unusual or complicated).</li>
 
-> (e) In the case of the plaintiff, the statement must include the following:
+</ul>
 
-> >  (i) a summary of essential facts indicating which, if any, are agreed;
+<li>(c)	In the case of the plaintiff, the statement must include the following:</li>
 
-> >  (ii) an indication of how these facts are to be proved, identifying relevant witnesses and documents;
+<ul type="*">
 
-> >  (iii) a summary of the issues involved with cross-references as appropriate to the pleadings;
+<li>(i) a summary of essential facts indicating which, if any, are agreed;</li>
 
-> >  (iv) a summary of the plaintiff’s case in relation to each of the issues with references to the key documents relied upon, and a summary of the propositions of law to be advanced with references to the main authorities to be relied on; and
+<li>(ii) an indication of how these facts are to be proved, identifying relevant witnesses and documents;</li>
 
-> >  (v) an explanation of the reliefs claimed (if these are unusual or complicated).
+</ul>
 
-> (f) In cases where the Court is of the opinion that costs or hearing days have been wasted by a poorly drafted opening statement, the Court will have no hesitation in making a special order for costs against the relevant person. 
+<li>(d)	The plaintiff’s statement as provided for in sub-paragraph (15)(c) above, should, unless exempted or dispensation has been granted by the trial Judge, be filed and served on all other relevant parties not less than 3 working days before the commencement of the trial for which they are to be used.</li>
 
-> (g) The following format shall be adhered to when preparing opening statements:
+<li>(e)	The other counsel should each similarly not later than 2 working days before the start of the trial provide to the Court (with copies at the same time to their opponents) a statement which should concisely state the nature of their case on each of the issues to be tried and summarise the propositions of law to be advanced with references to the main authorities to be relied on. The character and length of this document will depend on the circumstances and whether there is any counterclaim or third-party proceedings.</li>
 
-> >  (i) all pages shall be paginated, with the first page (including the cover page) numbered as ‘Page 1’ so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version;
+<li>(f)	In cases where the Court is of the opinion that costs or hearing days have been wasted by a poorly drafted opening statement, the Court will have no hesitation in making a special order for costs against the relevant person.</li>
 
-> >  (ii) the minimum font size to be used is Times New Roman 12 or its equivalent;
+<li>(g) The following format shall be adhered to when preparing opening statements:</li>
 
-> >  (iii) the print of every page shall be double spaced;
+<ul type="*">
 
-> >  (iv) each page may be printed on one side or both sides; and
+<li>(i)	all pages shall be paginated, with the first page (including the cover page) numbered as ‘Page 1’ so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version;</li>
 
-> >  (v) every page shall have a margin on all 4 sides, each of at least 35 mm in width.
+<li>(ii) the minimum font size to be used is Times New Roman 12 or its equivalent;</li>
 
-> (h) All opening statements should not exceed 20 pages (including all annexes and appendices, but excluding the cover page and backing page).
+<li>(iii) the print of every page shall be double spaced;</li>
 
-> (i) Counsel will be at liberty to amend their statements at the trial but in such event will be expected to explain the reasons for the amendments.
+<li>(iv) each page may be printed on one side or both sides; and</li>
 
-**_Timeline for tendering documents_**
+<li>(v) every page shall have a margin on all 4 sides, each of at least 35 mm in width.</li>
 
-(13) At the trial of the cause or matter, an adjournment may be ordered if:
+</ul>
 
-> (a) the above documents or any of them, save for the opening statement in cases where it is not required or dispensation was granted, were not filed and served within the prescribed time or at all; or
+<li>(h)	All opening statements should not exceed 20 pages (including the cover page, table of contents and all annexes and appendices). All opening statements must include a cover page and a table of contents.</li>
 
-> (b) one party seeks to tender any of the above documents or supplements thereto except for supplements to the opening statement at the trial of the cause or matter.
+<li>(i)	Opening statements may be amended at trial, but counsel will be expected to explain the reasons for the amendments.</li>
 
-(14) If an adjournment is ordered for any of the reasons set out in sub-paragraph (13) above, the party who has failed to file or serve his documents within the prescribed time or at all or who seeks to tender a document or supplement thereto except for supplements to the opening statement may be ordered by the Court to bear the costs of the adjournment. 
+</ul>
+
+**_Bundle of authorities_**
+
+(16)	In addition to the documents required to be filed and served under rule 567 of the Family Justice Rules, the Court may direct parties to file and serve bundles of authorities. Paragraphs 88(5) to (11) of these Practice Directions must be complied with.
+
+(17)	The bundle of authorities shall be filed and served on all relevant parties at least 5 working days before trial.
 
 ## 91. Hearing in Chambers
 
-In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities. Rule 567 of the Family Justice Rules and the requirements of Paragraphs 90(8) to (11) shall, with the necessary modifications , be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be. 
+(1) In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities. Rule 567 of the Family Justice Rules and the requirements of paragraphs 88(5) to (11) and 90(8) to (12) shall, with the necessary modifications, be complied with, except where paragraph 92(1) of these Practice Directions applies, the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
+
+(2)	The party using a hard copy of the bundle of authorities for the hearing must, if directed by the Court, file the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service at least 1 clear day in advance of the hearing. In the event that it is not possible for the party to do so, he or she must explain to the Judge or Registrar conducting the hearing why it was not possible for him or her to do so and must also undertake to file the list of authorities using the Electronic Filing Service by the next working day after the hearing.
 
 ## 92. Written Submissions and Bundles of Authorities for Special Date Hearings
 
-This paragraph applies only to hearings in the Family Division of the High Court save for hearings of appeals.
+This paragraph applies only to hearings in the Family Division of the High Court save for the hearing of appeals.
 
 (1) Unless otherwise directed by the Court for any contested special date hearing before a Judge in the Family Division of the High Court, each party shall:
 
-> (a) submit to the Court and serve on the other party a hard copy of the following documents at least 1 clear day in advance of the hearing
+> submit to the Court and serve on the other party a hard copy of the following documents at least 1 clear day in advance of the hearing:
 
-> >  (i) written submissions; and
+> >  (i) 	written submissions (with a cover page and a table of contents); and
 
-> >  (ii) bundle of authorities (which are in compliance with the requirements under paragraphs 88(4), 90(9) to (11) of these Practice Directions); and
+> >  (ii) 	bundle of authorities (which are in compliance with the requirements under paragraphs 88(5) to (11) of these Practice Directions); and
 
-> (b) file a soft copy of his written submissions using the Electronic Filing Service no later than 1 working day after the hearing.
+> (b) file a soft copy of the written submissions into the electronic case file using the Electronic Filing Service at least 1 clear day before the hearing.
 
-(2) If any party does not intend to rely on written submissions at the contested hearing referred to in sub-paragraph (1) above (e.g., where the hearing does not involve complex issues), the party should seek the Court’s approval for a waiver by way of a Request using the Electronic Filing Service at least 7 days before the hearing.
+(2) All written submissions must include a cover page and a table of contents.
 
-(3) This paragraph does not apply to any hearing before a Judge which is fixed on the normal list. However, parties are encouraged to adhere to the directions set out in sub- paragraph (1) above if the application will be contested. In the event that this is not done, the Judge may adjourn the hearing to enable the filing of written submissions or bundle of authorities if appropriate.
+(3) The party using a hard copy of the bundle of authorities for the hearing must, if directed by the Court, file the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service at least 1 clear day before the hearing. Where the bundle of authorities (whether in hard copy or soft copy) consists of more than 1 volume:
 
-(4) For any special date hearing before a Registrar, any party who wishes to rely on written submissions at the hearing is required to comply with sub-paragraph (1) above.
+<ul type="*">
 
-(5) This paragraph does not apply to any hearings for which specific directions on the filing of written submissions or bundle of authorities are provided for in these Practice Directions. 
+<li>(a)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and </li>
 
-## 93. Citation of written judgments and secondary authorities
+<li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
 
-**_Citation of written judgments_**
+</ul>
 
-Counsel who cite a judgment must state the proposition of law that the judgment establishes and the parts of the judgment that support that proposition. Such statements should not excessively add to the length of the submission but should be sufficient to demonstrate the relevance of that judgment to the argument made. Where counsel wish to cite more than two judgments as authority for a given proposition, there must be a compelling reason to do so, and this reason must be provided by counsel in submissions.
+(4) If any party does not intend to rely on written submissions at the contested hearing referred to in sub-paragraph (1) above (e.g., where the hearing does not involve complex issues), the party should seek the Court’s approval for a waiver by way of a Request using the Electronic Filing Service at least 7 days before the hearing.
 
-Judgments from other jurisdictions can, if judiciously used, provide valuable assistance to the Court. However, where there are in existence local judgments which are directly relevant to the issue, such judgments should be cited in precedence to foreign judgments. Relevant local judgments will be accorded greater weight than judgments from foreign jurisdictions. This will ensure that the Courts are not unnecessarily burdened with judgments made in jurisdictions with differing legal, social or economic contexts. In addition, counsel who cite a foreign judgment must:
+(5) This paragraph does not apply to any hearing before a Judge which is fixed on the normal list. However, parties are encouraged to adhere to the directions set out in sub-paragraph (1) above if the application will be contested. In the event that this is not done, the Judge may adjourn the hearing to enable the filing of written submissions or bundle of authorities if appropriate.
 
-> (a) draw the attention of the Court to any local judgment that may be relevant to whether the Court should accept the proposition that the foreign judgment is said to establish; and
+(6) For any special date hearing before a Registrar, any party who wishes to rely on written submissions at the hearing is required to comply with sub-paragraph (1) above.
 
-> (b) ensure that such citation will be of assistance to the development of local jurisprudence on the particular issue in question.
+(7) This paragraph does not apply to any hearings for which specific directions on the filing of written submissions or bundle of authorities are provided for in these Practice Directions.
 
-(1) The **neutral citation system**
+## 93. Citation of written judgments
 
-> (a) A neutral citation is a court-approved system of citation which is independent of the series of law reports or other publications, and unique to each written judgment.
+(1)	Counsel who wish to cite a judgment as authority in support of their oral or written submissions must adhere to the following directions. These directions are intended to provide guidance to advocates and solicitors as to:
 
-> (b) Each written judgment from a particular level of court is assigned a sequential number, starting from 1 at the beginning of each calendar year.
+<ul type="*">
 
-(2) **Specific paragraph citations**
+<li>(a) the extent to which it is necessary to rely on local and foreign judgments in support of their case; and</li>
 
-> (a) Counsel will be required to make specific citations by referring to the paragraph number of the judgment, and not to the page number of the judgment or report.
+<li>(b) the practice of citing such judgments.</li>
 
-> (b) For consistency, square brackets will be used to denote paragraph numbers. The paragraph mark (¶) will no longer be used.
+</ul>
 
-(3) **Court designators**
+**_Use of judgments as authorities in submissions_**
 
-> SGHCF – Family Division of the High Court
+(2) Counsel who cite a judgment must state the proposition of law that the judgment establishes and the parts of the judgment that support that proposition. Such statements should not excessively add to the length of the submission but should be sufficient to demonstrate the relevance of that judgment to the argument made. Where counsel wish to cite more than two judgments as authority for a given proposition, there must be a compelling reason to do so, and this reason must be provided by counsel in submissions.
 
-> SGFC – Singapore Family Courts
+(3)	The Court will also pay particular attention to any indication in the cited judgment that the judgment:
 
-> SGYC – Singapore Youth Courts
+<ul type="*">
 
-> SGDC – Singapore District Court
+<li>(a) only applied decided law to the facts of the particular case; or</li>
 
-(4) **Application of the neutral citation system**
+<li>(b) did not extend or add to the existing law.</li>
 
-The application of the system is as follows:
+</ul>
 
-> (a) Cases reported in the Singapore Law Reports shall be cited using their Singapore Law Reports citations, in priority to their neutral citations.
+**_Use of judgments from foreign jurisdictions_**
 
-> (b) Unreported decisions shall be cited using their neutral citations.
+(4)	Judgments from other jurisdictions can, if judiciously used, provide valuable assistance to the Court. However, where there are in existence local judgments which are directly relevant to the issue, such judgments should be cited in precedence to foreign judgments. Relevant local judgments will be accorded greater weight than judgments from foreign jurisdictions. This will ensure that the Courts are not unnecessarily burdened with judgments made in jurisdictions with differing legal, social or economic contexts. In addition, counsel who cite a foreign judgment must:
 
-(5) **Example and explanation**
+<ul type="*">
 
-_ABC Co Pte Ltd v XYZ Co Ltd [2015] SGFC 25, at [3], [8]._
-> Year of the decision [2015]
+<li>(a) draw the attention of the Court to any local judgment that may be relevant to whether the Court should accept the proposition that the foreign judgment is said to establish; and</li>
 
-> Level of Court SGFC (Singapore Family Courts)
+<li>(b) ensure that such citation will be of assistance to the development of local jurisprudence on the particular issue in question.</li>
 
-> Sequential Number 25 (twenty-fifth written judgment rendered by the Family Courts in 2015)
+</ul>
 
-> Paragraph Number(s) Paragraphs 3 and 8 of the judgment
+**_Citation practice_**
 
-> Citation of secondary authorities in court
+(5)	Counsel who cite a judgment must use the official series of the law report(s) or, if the official series is not available, any other law report series in which the judgment was published. Counsel should refrain from referring to (or including in the bundle of authorities) copies of judgments which are printed out from electronic databases, unless:
 
-(6) Counsel are advised to be more circumspect in their use of secondary authorities such as textbooks, journals, periodicals and other treatises. As far as possible, counsel should rely on primary authorities to support the proposition of law argued for; and
+<ul type="*">
 
-(7) If it necessary to cite secondary authorities, counsel should ensure that the material to be cited is directly relevant to the case before the Court. Counsel are also reminded of their duty to ensure that such material is not cited out of context. The following are specific guidelines for the citation of different types of secondary authorities:
+<li>(a) such judgments are not available in any law report series; or </li>
 
-> (a) Textbooks that are generally recognised as leading textbooks in the relevant area of law may be readily cited to the Court.
+<li>(b) the print-outs are the exact copies of the judgments in the law report series.
+<br><br>
+The following are examples of law reports that should be used for citation:
+<table>
+<thead>
+  <tr>
+	  <th><strong>Jurisdiction</strong></th>
+	  <th><strong>Law Reports (in order of preference)</strong></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="4">(a) Singapore</td>
+    <td>1. Singapore Law Reports (2010 - ) (SLR current series)</td>
+  </tr>
+  <tr>
+    <td>2. Singapore Law Reports (Reissue) (SLR (R))</td>
+  </tr>
+  <tr>
+    <td>3. Singapore Law Reports (1965-2009) (SLR 1965-2009)</td>
+  </tr>
+  <tr>
+    <td>4. Malayan Law Journal (MLJ)</td>
+  </tr>
+  <tr>
+    <td>(b) Malaysia</td>
+    <td>Malayan Law Journal (MLJ)</td>
+  </tr>
+	<tr>
+		<td rowspan="3">(c) England & Wales</td>
+		<td>1. Law reports published by the Incorporated Council of Law Report (e.g., Queen’s Bench (QB), Appeal Cases (AC), Chancery (Ch), Family (Fam), Probate (P)</td>
+	</tr>
+	<tr>
+		<td>2. Weekly Law Reports (WLR)</td>
+	</tr>
+	<tr>
+		<td>3. All England Law (All ER)</td>
+	</tr>
+	<tr>
+		<td rowspan="2">(d) Australia	</td>
+		<td>1. Commonwealth Law Reports (CLR)</td>
+	</tr>
+	<tr>
+		<td>2. Australian Law Reports (ALR)</td>
+	</tr>
+	<tr>
+		<td rowspan="3">(e) Canada	</td>
+		<td>1. Supreme Court Reports (SCR))</td>
+	</tr>
+	<tr>
+		<td>2. Federal Court Reports (FC)</td>
+	</tr>
+	<tr>
+		<td>3. Dominion Law Reports (DLR)</td>
+	</tr>
+	<tr>
+		<td>(f) New Zealand	</td>
+		<td>New Zealand Law Reports (NZLR)</td>
+	</tr>
+</tbody>
+</table>
+</li>
 
-> (b) If counsel wish to cite academic articles in journals and periodicals in support of a particular proposition of law, they should ensure that they are citing a statement, rather than a critique, of the law. Citation of academic articles should be limited to those written by eminent authors of reputable standing. The articles should also have been published in established journals and periodicals.
+</ul>
 
-> (c) Legal opinions written by other counsel not having conduct of the case before the court should generally not be cited as authority. Such legal opinions are considerably less authoritative than academic articles, as the views expressed in these private opinions have not been subject to the rigorous scrutiny of editorship and public critique.
+(6)	Counsel should, where possible, make specific citations by referring to the paragraph number of the judgment, and not to the page number of the judgment or report. For consistency, square brackets ([xx]) should be used to denote paragraph numbers. The paragraph mark (¶) should no longer be used.
 
-(8) Counsel’s attention is drawn to rule 859 of the Family Justice Rules which gives the Court the power to make an order for costs personally against errant advocates and solicitors, who have wasted or incurred costs unreasonably or improperly. The Court will not hesitate to invoke its powers under rule 859 of the Family Justice Rules in cases where costs have been wasted due to counsel’s indiscriminate citation of unnecessary and irrelevant secondary authorities. 
+**_The neutral citation system for local judgments_**
+
+(7)	A neutral citation is a court-approved system of citation which is independent of the series of law reports or other publications, and unique to each written judgment. Each written judgment from a particular level of court is assigned a sequential number, starting from 1 at the beginning of each calendar year. The application of the system is as follows:
+
+<ul type="*">
+
+<li>(a)	Cases reported in the Singapore Law Reports must be cited using their Singapore Law Reports citations, in priority to their neutral citations.</li>
+
+<li>(b)	Unreported decisions must be cited using their neutral citations.</li>
+
+</ul>
+
+(8)	**The neutral citation system for local judgments**
+| Court  | Neutral citation |
+|-|-|
+| Singapore Court of Appeal	| SGCA |
+| Singapore High Court (Appellate Division)	| SGHC(A) |
+| Singapore High Court (before 2 January 2021) or Singapore High Court (General Division) (on or after 2 January 2021) | SGHC |
+| Family Division of the High Court	| SGHCF |
+| Singapore Family Courts	| SGFC |
+| Singapore Youth Courts	| SGYC |
+| Singapore District Court	| SGDC |
+
+(8)	**Example and explanation**
+
+<em>ABC Co Pte Ltd v XYZ Co Ltd</em> [2015] SGFC 25, at [3], [8].
+
+<table>
+<tbody>
+  <tr>
+	  <td><em>Year of the decision</em></td>
+	  <td>[2015]</td>
+  </tr>
+  <tr>
+    <td><em>Level of Court	</em></td>
+    <td>SGFC (Singapore Family Courts)</td>
+  </tr>
+  <tr>
+    <td><em>Sequential Number</em></td>
+    <td>25 (twenty-fifth written judgment rendered by the Family Court in 2015)</td>
+  </tr>
+	<tr>
+		<td><em>Paragraph Number(s)</em></td>
+		<td>Paragraphs 3 and 8 of the judgment</td>
+	</tr>
+</tbody>
+</table>
+
+**_Ancillary provisions_**
+
+(10) The Court in exercising its discretion as to costs may, where appropriate in the circumstances, take into account the extent to which counsel has complied with this paragraph.
+
+(11)	Counsel’s attention is drawn to rule 859 of the Family Justice Rules which gives the Court the power to make an order for costs personally against errant advocates and solicitors, who have wasted or incurred costs unreasonably or improperly.  The Court will not hesitate to invoke its powers under rule 859 of the Family Justice Rules in cases where costs have been wasted due to counsel’s indiscriminate citation of unnecessary and irrelevant secondary authorities.
+
+(12)	It will remain the duty of counsel to draw the attention of the Court to any judgment he or she is aware of, not cited by an opponent, which is adverse to the case being advanced.
+
+(13)	In addition, counsel should also comply with paragraphs 88(5) to (11) of these Practice Directions when preparing bundles of authorities for use in court.
+
+(14)	This paragraph applies to all hearings, whether in open court or in chambers, in the Family Justice Courts.
 
 ## 94. Submissions and examination by leading and assisting counsel
 
@@ -902,7 +1132,7 @@ _ABC Co Pte Ltd v XYZ Co Ltd [2015] SGFC 25, at [3], [8]._
 
 > (b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
-Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them. 
+Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
 
 (3) If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that each confines himself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
 
@@ -910,13 +1140,13 @@ Nothing in this paragraph detracts from the responsibility of lead counsel to en
 
 (5) For hearings in chambers, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with sub-paragraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
 
-(6) For civil trials: 
- 
-> (a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and 
+(6) For civil trials:
 
-> (b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference (“JPTC”), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel. 
- 
-(7) This Paragraph shall apply to all proceedings in the Family Courts, Youth Courts and Family Division of the High Court. 
+> (a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and
+
+> (b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference (“JPTC”), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel.
+
+(7) This Paragraph shall apply to all proceedings in the Family Courts, Youth Courts and Family Division of the High Court.
 
 ## 95. Amendment of documents
 
@@ -991,7 +1221,7 @@ by
 
 **_Amendment of case title to add a party_**
 
-(13) Where leave of Court has been obtained to add a party to the main case title of a matter, for example, an intervener, a garnishee or any party that was previously a non-party, the applicant or his solicitor is to file a Request through the Electronic Filing Service to add that specific party to the main case title. 
+(13) Where leave of Court has been obtained to add a party to the main case title of a matter, for example, an intervener, a garnishee or any party that was previously a non-party, the applicant or his solicitor is to file a Request through the Electronic Filing Service to add that specific party to the main case title.
 
 ## 96. Waiting time for the hearing of matters
 
@@ -1005,7 +1235,7 @@ The average waiting time between the filing of certain processes or other steps 
 |-|-|-|
 | 1 | Trials | 2 to 4 weeks from the last case conference / court mentions |
 | 2 | Maintenance Cases | 3 to 4 weeks from the last court mentions |
-| 3 | Summons# | 4 to 6 weeks from the last case conference |
+| 3 | Summons | 4 to 6 weeks from the last case conference |
 | 4 | Summary Judgment | 6 weeks (statutory) from filing date |
 | 5 | Summons for Directions | 4 to 6 weeks from filing date |
 | 6 | Assessment of Damages | 2 to 4 weeks from the last case conference |
@@ -1034,15 +1264,13 @@ The average waiting time between the filing of certain processes or other steps 
 | 19 | Appeals from Family Courts | 4 weeks from receipt of record of proceedings |
 | 20 | Magistrate's Appeals | 8 weeks from receipt of record of proceedings |
 
-_#_ The waiting period for applications for discovery or interrogatories against a network service provider under Paragraph 82 of these Practice Directions is 5 days from the date of filing of the Originating Summons.
-
 _(*) "Waiting Time" is defined as follows:_
 
 For trials, it is the period from the last court mentions/case conference (when parties indicate they are ready) to the date of hearing. For interlocutory matters, the waiting time is usually calculated from the date of filing. In the majority of cases, the matter should be heard within the time frames as indicated above. It is only in exceptional circumstances that the time frame is departed from.
 
 ## 97. Request for urgent hearing dates or urgent hearings prior to the filing of the application through the Electronic Filing Service
 
-Counsel requesting an urgent hearing before the Duty Registrar or Duty District Judge, or an urgent hearing date, in respect of an application that has not yet been filed through the Electronic Filing Service, shall submit a hard copy of the proposed application and any supporting affidavit to the Duty Registrar or Duty District Judge for the Court’s retention and shall give an undertaking to file the application and supporting affidavit using the Electronic Filing Service by the next working day. 
+Counsel requesting an urgent hearing before the Duty Registrar or Duty District Judge, or an urgent hearing date, in respect of an application that has not yet been filed through the Electronic Filing Service, shall submit a hard copy of the proposed application and any supporting affidavit to the Duty Registrar or Duty District Judge for the Court’s retention and shall give an undertaking to file the application and supporting affidavit using the Electronic Filing Service by the next working day. Any document not filed using the Electronic Filing Service will not be included in the Court’s electronic case file.
 
 ## 98. Requesting a hearing date through the Electronic Filing Service
 
@@ -1052,13 +1280,15 @@ Counsel requesting an urgent hearing before the Duty Registrar or Duty District 
 
 (3) In the event that it is not possible to confer with opposing counsel on a preferred hearing date, whether due to the nature or urgency of the application or otherwise, solicitors must select a date when counsel arguing the application for the applicant will be available.
 
-(4) Solicitors are reminded to satisfy the requirements of subparagraph 76(6) of these Practice Directions. 
+(4) Solicitors are reminded to satisfy the requirements of subparagraph 76(6) of these Practice Directions.
 
 ## 99. Written Submissions for Contested Inter Partes Applications in Chambers
 
-(1) To facilitate and expedite the hearing of contested _inter partes_ applications before a Registrar in Chambers, District Judge in Chambers and Registrar’s Appeals before a District Judge in Chambers, the applicant and the respondent to the application shall file their Written Submissions no later than 7 days prior to the hearing date fixed by the Court and shall serve a copy thereof on the other party to the application or his solicitor. 
+This paragraph applies only to contested inter partes applications before a Registrar in Chambers, District Judge in Chambers and Registrar’s Appeals before a District Judge in Chambers.
 
-(2) The Written Submissions filed by parties shall set out as concisely as possible:
+(1) Without prejudice to paragraph 91 of these Practice Directions, and to facilitate and expedite the hearing, the applicant and respondent to the application shall, unless otherwise directed, file their Written Submissions no later than 7 days prior to the hearing date fixed by the Court and shall serve a copy thereof on the other party to the application or his solicitor. The requirements of paragraph 88 of these Practice Directions shall, with the necessary modifications, be complied with in this regard.
+
+(2) The Written Submissions filed by parties must include a cover page and a table of contents and shall set out as concisely as possible:
 
 > (a) the circumstances out of which the application arises;
 
@@ -1076,7 +1306,7 @@ Counsel requesting an urgent hearing before the Duty Registrar or Duty District 
 
 > (c) Application to strike out pleadings and endorsements under rule 405 of the Family Justice Rules;
 
-> (d) Registrar’s Appeals under Part 18, Divisions 57 and 58 of the Family Justice Rules of Court; and
+> (d) Registrar’s Appeals under Part 18 Division 57 of the Family Justice Rules; and
 
 > (e) Any other application as may be directed by the Court.
 
@@ -1086,7 +1316,7 @@ Counsel requesting an urgent hearing before the Duty Registrar or Duty District 
 
 (2) Subject to any directions of the Judge or Registrar, when a case is adjourned, the Registrar will assign such days as are available for the hearing of the case, and counsel will be expected to take the dates at short notice. Where counsel is unable for any reason to take the dates, he shall apply to the Judge or Registrar for an adjournment in accordance with sub-paragraph (1) above.
 
-(3) In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter notwithstanding the fact that the time originally allotted may have expired. Subject to any such directions of the Court, all part-heard cases shall be fixed for continued hearing at short notice. Applications for adjournment of such hearing dates may be granted only for good and sufficient reasons. 
+(3) In the event that the hearing of a case is not concluded within the number of days allotted, the Court may direct the hearing of the case to continue beyond the allotted time rather than adjourning the case part-heard to another date. Counsel for parties in all cases should therefore be prepared to continue with the hearing of the matter notwithstanding the fact that the time originally allotted may have expired. Subject to any such directions of the Court, all part-heard cases shall be fixed for continued hearing at short notice. Applications for adjournment of such hearing dates may be granted only for good and sufficient reasons.
 
 ## 101. Requests for further arguments before the Judge or Registrar
 
@@ -1111,15 +1341,19 @@ Counsel requesting an urgent hearing before the Duty Registrar or Duty District 
 (4) All requests must be addressed to the Registrar.
 
 
-## 102. Absence of parties
+## 102. Absence of parties and mode of hearing
 
-Where an application has been struck off by reason of any party being absent, the Registrar may direct that the matter be restored by way of summons. 
+(1)	Where an application has been struck off by reason of any party being absent, the Registrar may direct that the matter be restored by way of summons.
+
+(2)	In the exercise of its powers under rule 610B of the Family Justice Rules, the Court may, subject to any written law, direct that Case Conferences or other hearings be carried out with parties in physical attendance or with parties attending via electronic (including through video conferencing), mechanical or any other means.
 
 ## 103. Production of record of hearing
 
 **_Record of Trials_**
 
 (1) Pursuant to rule 611 of the Family Justice Rules, the Registrar hereby directs that there shall be audio recording of all trials in action. Such audio recording shall be made using the Digital Audio Recording Transcription System (DART) only.
+
+(1A)	Where a hearing is conducted by means of video conferencing or telephone conferencing using a remote communication technology approved by the Chief Justice or authorised by the Court, and the Court has authorised the making of a recording of the hearing using such remote communication technology, the recording so made will, unless the Court otherwise directs, constitute the Court’s notes of proceedings for the purposes of rule 611 of the Family Justice Rules.
 
 (2) Pursuant to rule 611(1)(b), the Registrar further directs that in proceedings where no audio recording is made, the notes of hearing shall be taken down by the Judge, judicial officer or court officer, whether by hand or through the use of a computer or electronic device.
 
@@ -1139,7 +1373,7 @@ Where an application has been struck off by reason of any party being absent, th
 
 (7) Digital audio recording and transcription of proceedings will be made available in the Family Justice Courts, to parties, through one or more designated service providers at the request of parties.
 
-(8) The request for digital audio recording and transcription service shall be subject to the approval and/or directions of the Court hearing the proceedings, the approval of the Registrar, and the availability of the designated service provider to provide the service. 
+(8) The request for digital audio recording and transcription service shall be subject to the approval and/or directions of the Court hearing the proceedings, the approval of the Registrar, and the availability of the designated service provider to provide the service.
 
 **_Applications for Digital Audio Recording and Transcription Service_**
 
@@ -1151,27 +1385,27 @@ Where an application has been struck off by reason of any party being absent, th
 
 (12) The cost of engaging the designated service provider for digital audio recording and transcription service shall be paid by the requesting party directly to the designated service provider. The engagement of and payment to the designated service provider are subject to its terms and conditions.
 
-(13) The party or parties engaging the designated service provider shall apply for sufficient copies of the transcript to be furnished to the Court hearing the proceedings and all other parties to the proceedings. 
+(13) The party or parties engaging the designated service provider shall apply for sufficient copies of the transcript to be furnished to the Court hearing the proceedings and all other parties to the proceedings.
 
 ## 104. Use of electronic and other devices
 
-(1) In order to maintain the dignity of Court proceedings in the Family Justice Courts, court users are strictly prohibited from making any video and/or image recording in all hearings and sessions in Court or in chambers. 
+(1) In order to maintain the dignity of Court proceedings in the Family Justice Courts, court users are strictly prohibited from making any video and/or image recording in all hearings and sessions in Court or in chambers.
 
-(2) Additionally, audio recording during a hearing is strictly prohibited without prior approval of the Judge or Registrar hearing the matter or the person presiding over the session. 
+(2) Additionally, audio recording during a hearing is strictly prohibited without prior approval of the Judge or Registrar hearing the matter or the person presiding over the session.
 
-(3)  Court users are permitted to use notebooks, tablets, mobile phones and other electronic devices to: 
- 
-> (a) take notes of evidence and for other purposes pertaining to the proceedings in Court or Chambers; or 
- 
-> (b) communicate with external parties in all hearings in Court, 
- 
-provided that such use does not in any way disrupt or trivialise the proceedings.            
+(3)  Court users are permitted to use notebooks, tablets, mobile phones and other electronic devices to:
 
-(4) This Paragraph shall apply to all family and juvenile proceedings in the Family Justice Courts.
+> (a) take notes of evidence and for other purposes pertaining to the proceedings in Court or Chambers; or
+
+> (b) communicate with external parties in all hearings in Court,
+
+provided that such use does not in any way disrupt or trivialise the proceedings.
+
+(4) This Paragraph shall apply to all civil, criminal and quasi-criminal proceedings in the Family Justice Courts.
 
 (5) For the avoidance of doubt, this Paragraph shall also apply to all alternative dispute resolution and counselling sessions conducted in the Family Justice Courts.
 
-(6) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016). 
+(6) The attention of court users is also drawn to section 5 of the Administration of Justice (Protection) Act 2016 (Act No. 19 of 2016).
 
 ## 105. Application for court records and certification of transcripts for family matters
 
@@ -1192,27 +1426,27 @@ having conduct of the proceedings; or
 
 **_Access by parties to a case file_**
 
-(1) All parties to a case who are registered users of the Electronic Filing Service may, subject to this paragraph and any directions of the Court, access the online case file made available through the Electronic Filing Service and may inspect, download soft copies or print hard copies of documents accessible to the parties in the online case file.
+(1) All parties to a case who are registered users of the Electronic Filing Service may, subject to this paragraph and any directions of the Court, access the electronic case file made available through the Electronic Filing Service and may inspect, download soft copies or print hard copies of documents accessible to the parties in the online case file.
 
-(2) Where a party to a case is not a registered user and is unable to access the electronic case file through the Electronic Filing Service, the procedure governing file inspection by non-parties to a case in sub-paragraph (5) below shall be followed.
+(2) Where a party to a case is not a registered user and is unable to access the electronic case file through the Electronic Filing Service, the procedure in sub-paragraph (5) below shall be followed.
 
-(3) All parties to a case shall have the liberty to make amendments at will to administrative details contained in the electronic case file through the Electronic Filing Service, and for this purpose —
+(3) All parties to a case have the liberty to make amendments to administrative details contained in the electronic case file through the Electronic Filing Service, and for this purpose —
 
 > (a) administrative details include the contact details of solicitors, the identities of the solicitors, and the nature of the claim; and
 
-> (b) where a party to a case is not a registered user of the Electronic Filing Service, he may attend at the service bureau to seek assistance to amend the administrative details contained in the electronic case file.
+> (b) where a party to a case is not a registered user of the Electronic Filing Service, he or she may attend at the service bureau to seek assistance to amend the administrative details contained in the electronic case file.
 
 (4) The Registry may require parties to a case to provide supporting documents to substantiate proposed amendments to other details of the electronic case file before the amendment is approved (e.g. amendments to add or remove a party to the case have to be supported by an order of court, and amendments to change the name, gender, identification number, or marital status of a party to the case have to be substantiated by documentary proof).
 
-**_File inspection by non-parties_**
+**_File inspection by non-parties or parties who are not registered users_**
 
-(5) In order to inspect a case file containing documents that were filed through the Electronic Filing Service, the following procedure should be followed:
+(5) In order to inspect a case file, the following procedure should be followed:
 
 > (a) A Request should be made to obtain leave to inspect the file, which request should —
 
 > >  (i) be filed using the Electronic Filing Service;
 
-> >  (ii) state the name of the person who is to carry out the search or inspection (and if this person is not a solicitor, his identity card number should also be included in the request, after his name, and a copy of his identity card should be provided);
+> >  (ii) state the name of the person who is to carry out the search or inspection (and if this person is not a solicitor, his or her identification and contact details should also be included in the request, and his or her identification document (including physical or digital identity card) should be provided for verification when requested;
 
 > >  (iii) state the interest the applicant has in the matter, and the reason for the search or inspection; and
 
@@ -1222,25 +1456,27 @@ having conduct of the proceedings; or
 
 > >  (i) Registered users can inspect the case file online through the Electronic Filing Service;
 
-> >  (ii) Parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval that has been presented, the service bureau will assign a personal computer to the inspecting party for the inspection to be carried out. An inspecting party will usually be allowed only 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
+> >  Parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval, the service bureau will assign the inspecting party a personal computer for the inspection to be carried out. An inspecting party will usually be allowed 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
 
 (6) Requests in hard copy may be submitted to inspect case files containing documents which were not filed using the Electronic Filing Service. The Family Registry will only accept requests which are printed or typewritten on paper of good quality and signed by the solicitors concerned. Requests which have any erasure marks on them will be rejected. Requests which are double stamped, that is, if the requests were originally short stamped and later stamped to add up to the correct fee, may be rejected.
 
-(7) Solicitors must communicate to the Registrar in writing the names of their clerks who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period. 
+(7) Solicitors must communicate to the Registrar in writing the names of their employees who have their authority to make searches and inspections. Such authority may be in respect of a specific search or inspection or for a specified period.
 
-(8) For the avoidance of doubt, a non-party who has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection. All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors shall be responsible for informing their clients of this. 
+(8) All copies of documents taken in the course of inspection should not be used for purposes other than those stated in the Request to inspect. Solicitors are responsible for informing their clients of this. To avoid doubt, a non-party that has obtained approval to inspect a case file may take and retain a soft copy of any document that is available for inspection.
 
 **_Obtaining certified true copies of documents_**
 
-(9) Applications to obtain certified true paper copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
+(9) Applications to obtain certified true copies of documents should be made by way of filing a Request through the Electronic Filing Service, unless the documents concerned have not been filed through the Electronic Filing Service.
+
+(9A)	Users are encouraged to use the Authentic Court Order system to validate orders of court issued after 2 January 2020 by going to [http://www.courtorders.gov.sg](http://www.courtorders.gov.sg). However, certified true copies of orders of court will still be available upon application.
 
 (10) The intended use of the certified true copies should be clearly stated in the Request. The relevance and necessity of the certified true copies in relation to their intended use should also be clearly described.
 
-(11) Once approval is received from the Court, the applicant should present a printed copy of the approved Request at the Records Section. After verifying that the Request presented has been approved, the staff of the Records Section will inform the applicant of any additional fees payable. Where additional fees are payable, these fees should then be stamped on the Request at the Family Justice Courts’ Cashier’s Office. Upon presentation of this stamped Request, the documents will be furnished to the applicant.
+(11) The applicant will be informed of the outcome to his or her Request and the fees payable for the provision of the certified true copies if the Request is approved. Upon confirmation of the receipt of payment of the fees payable, the certified true copies will be released to the applicant. The Registry may require verification of the identity of the applicant against his or her identification document (including physical or digital identity card).
 
-(12) The fees prescribed by Part 19 of the Family Justice Rules will be payable for the above services without prejudice to additional printing charges which may be chargeable by the Court or the service bureau for reproducing the copies in paper form.
+(12) The fees prescribed by Part 19 of the Family Justice Rules will be payable for the provision of the above services without prejudice to additional incidental charges which may be chargeable by the Court for reproducing the copies in paper form and/or mailing the copy(ies) to the applicant.
 
-**_Conducting searches of information maintained by the Registry_**
+**_Electronic cause books and registers maintained by the Registry_**
 
 (13) Rule 889 of the Family Justice Rules provides that the Registry shall maintain information prescribed or required to be kept by the Family Justice Rules and practice directions issued by the Registrar. In addition to any provisions in the Family Justice Rules, the Registrar hereby directs that the following information shall be maintained by the Registry:
 
@@ -1256,15 +1492,15 @@ having conduct of the proceedings; or
 
 > (c) any other information as may from time to time be deemed necessary.
 
-(14) Searches of this information under rule 891 of the Family Justice Rules may be conducted through the Electronic Filing Service at a service bureau or at the Records Section. The fees prescribed by Part 19 of the Family Justice Rules will be payable for the searches. 
+(14) Searches of this information under rule 891 of the Family Justice Rules may be conducted through the Electronic Filing Service at a service bureau or at the Records Section. The fees prescribed by Part 19 of the Family Justice Rules will be payable for the searches.
 
-(15) An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this paragraph must be made in writing, identifying the data fields sought and providing details of how the information will be used. 
+(15) An application may be made by any person for a licence to use any information contained in any electronic cause book or register subject to such terms and conditions as the Registrar may determine. Successful applicants will be required to enter into separate technical services agreements with the Electronic Filing Service provider. Applications under this paragraph must be made in writing, identifying the data fields sought and providing details of how the information will be used.
 
 ## 107. Personal Data
 
 (1) For the purposes of the following sub-paragraphs:
 
-> (a) “personal data” shall have the same meaning as defined in the Personal Data Protection Act 2012 (Act No. 26 of 2012); and
+> (a) “personal data” shall have the same meaning as defined in the Personal Data Protection Act 2012; and
 
 > (b) “data subject” means a person whose personal data appears in any document filed in the Registry or an electronic cause book or register maintained by the Registry.
 
@@ -1276,23 +1512,23 @@ having conduct of the proceedings; or
 
 **_Access to, and correction of, personal data contained in documents filed with, served on, delivered or otherwise conveyed to the Registrar_**
 
-(4) A data subject who wishes to access his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the access to and inspection of case files.
+(4) A data subject who wishes to access his or her personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Family Justice Rules and these Practice Directions relating to the access to and inspection of case files.
 
-(5) A data subject shall not be entitled to request information about the ways in which his personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed.
+(5) A data subject shall not be entitled to request information about the ways in which his or her personal data contained in any document filed with, served on, delivered or otherwise conveyed to the Registrar has been used or disclosed.
 
-(6) A data subject who wishes to correct any error or omission in his personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Rules of Court and these Practice Directions relating to the amendment of the relevant document.
+(6) A data subject who wishes to correct any error or omission in his or her personal data in any document filed with, served on, delivered or otherwise conveyed to the Registrar must comply with the applicable provisions in the Family Justice Rules and these Practice Directions relating to the amendment of the relevant document.
 
 **_Access to, and correction of, personal data contained in electronic cause books and registers maintained by the Registry_**
 
-(7) A data subject who wishes to access his personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Legal Registry and shall pay the fees prescribed by Part 19 of the Family Justice Rules. 
+(7) A data subject who wishes to access his or her personal data contained in any electronic cause book or register must conduct a search through the Electronic Filing Service at a service bureau or at the Legal Registry and shall pay the fees prescribed by Part 19 of the Family Justice Rules.
 
-(8) A data subject shall not be entitled to request information about the ways in which his personal data contained in any electronic cause book or register has been used or disclosed.
+(8) A data subject shall not be entitled to request information about the ways in which his or her personal data contained in any electronic cause book or register has been used or disclosed.
 
-(9) A data subject who wishes to correct any error or omission of his personal data in any electronic cause book or register maintained by the Registry shall comply with the following procedure:
+(9) A data subject who wishes to correct any error or omission of his or her personal data in any electronic cause book or register maintained by the Registry shall comply with the following procedure:
 
-> (a) The request to correct the error or omission must be made in writing by the data subject or by his solicitor, together with the reason for the requested correction. The request must clearly identify the record and the personal data to be corrected;
+> (a) The request to correct the error or omission must be made in writing by the data subject or by his or her solicitor, together with the reason for the requested correction. The request must clearly identify the record and the personal data to be corrected;
 
-> (b) If the data subject is not represented, his identity card number should also be included in the request and a copy of his identity card should be provided; and 
+> (b) If the data subject is not represented, his or her identification and contact details should also be included in the request and his or her identification document (including physical or digital identity card) should be produced for verification when requested; and
 
 > (c) The following documents should accompany the request:
 
@@ -1300,21 +1536,21 @@ having conduct of the proceedings; or
 
 > >  (ii) supporting document(s) to substantiate the proposed correction.
 
-(10) Where a correction is made pursuant to a request under sub-paragraph (9), any information that is licensed for use under paragraph 106(15) will be updated accordingly with the corrected personal data. 
+(10) Where a correction is made pursuant to a request under sub-paragraph (9), any information that is licensed for use under paragraph 106(15) will be updated accordingly with the corrected personal data.
 
 ## 108. Witnesses
 
 **_Issuance of subpoenas_**
 
-(1) An application for a subpoena shall be made by way of filing a subpoena in Form 123 in Appendix A to these Practice Directions. The subpoena is deemed to be issued when it is sealed by an officer of the Registry pursuant to rule 601(2) of the Family Justice Rules. The previous practice of filing a Request to issue a subpoena is discontinued. 
+(1) An application for a subpoena shall be made by way of filing a subpoena in Form 123 in Appendix A to these Practice Directions. The subpoena is deemed to be issued when it is sealed by an officer of the Registry pursuant to rule 601(2) of the Family Justice Rules. The previous practice of filing a Request to issue a subpoena is discontinued.
 
 **_Release of witness upon completion of evidence_**
 
-(2) Every witness will be released by the Court upon completion of his evidence and it is the duty of counsel to apply to the Court if counsel desires the witness to remain. This sub-paragraph shall apply to both civil and criminal proceedings. 
+(2) Every witness will be released by the Court upon completion of his evidence and it is the duty of counsel to apply to the Court if counsel desires the witness to remain. This sub-paragraph shall apply to both civil and criminal proceedings.
 
 ## 108A. Giving of evidence by person outside Singapore through live video or live television link in any court proceedings (other than proceedings in a criminal matter)
 
-(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any court proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than four weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of an _inter partes_ summons with a supporting affidavit.
+(1) Any application for leave for any person outside Singapore to give evidence by live video or live television link in any court proceedings (other than proceedings in a criminal matter) must be made expeditiously and, in any case, unless the Court otherwise directs, not later than four weeks before the date of commencement of the hearing at which the person is to give evidence. The application is to be made by way of an _inter partes_ summons with a supporting affidavit. The application may also contain a prayer for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for leave for evidence to be given by live video or live television link by a person located in that jurisdiction, if the laws of that jurisdiction require the issue of such a letter of request.
 
 (2) A party applying for leave for any person outside Singapore to give evidence by live video or live television link must take note of the relevant legislation and requirements in force in the foreign country or territory where the person is giving evidence. Certain countries or territories may impose prohibitions against, restrictions on, or requirements to obtain permission for or relating to, the giving of evidence by a person in that country or territory for court proceedings in a different country or territory. The party applying for leave must make all necessary enquiries, and take all necessary steps, to ensure that the foreign country or territory where the person is giving evidence raises no objection, to the giving of evidence in that country or territory for court proceedings in Singapore. This may be done by any means that the party considers appropriate, including:
 
@@ -1322,11 +1558,13 @@ having conduct of the proceedings; or
 
 > (b)	making enquiries with the relevant authorities; or
 
-> (c)	obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required. 
+> (c)	obtaining permission from the relevant foreign country or territory, in accordance with any applicable procedure, for evidence to be given by a person located in that country or territory through a live video or live television link, if such permission is required.
 
-(2A)	The necessary enquiries and steps referred to at sub-paragraph (2) above must be made prior to the application referred to at sub-paragraph (1) above and evidence of the enquiries and steps taken must be given in the supporting affidavit to the application.
+(2A) The necessary enquiries and steps referred to at sub-paragraph (2) above must be made prior to the application referred to at sub-paragraph (1) above and evidence of the enquiries and steps taken must be given in the supporting affidavit to the application.
 
-(3)	For the avoidance of doubt, the proceedings mentioned in sub-paragraph (1) include all civil proceedings involving the examination of any person.
+(2B) An application to the Family Division of the High Court for the issue of a letter of request, to the relevant authorities of a foreign jurisdiction, for leave for evidence to be given by live video or live television link by a person located in that jurisdiction, if not contained in an application mentioned in sub-paragraph (1), must be made expeditiously and, in any case, unless the Court otherwise directs, not later than eight weeks before the date of commencement of the hearing at which the person is to give evidence. In this regard, parties should write to the Family Justice Courts at the earliest possible juncture to inform the Court of their intention to take out such an application in the Family Division of the High Court.
+
+(3)	For the avoidance of doubt, the proceedings mentioned in sub-paragraph (1) include all civil and quasi-criminal proceedings involving the examination of any person.
 
 ## 109. Form of affidavits
 
@@ -1362,7 +1600,7 @@ having conduct of the proceedings; or
 
 **_Affidavits that are not filed electronically_**
 
-(2) This sub-paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service. 
+(2) This sub-paragraph applies to affidavits which are not required to be filed through the Electronic Filing Service.
 
 > (a) **Form of affidavits generally**
 
@@ -1386,20 +1624,24 @@ having conduct of the proceedings; or
 
 > >  (iv) the date the affidavit is filed;
 
-> >  (v) whether the affidavit has been filed in respect of a contested divorce (“CD”), uncontested divorce (“UD”), summons (“SUM”), ancillary matters ("AM") or originating summons ("OS") hearing, for example, “Defendant: Tan Ah Kow: 4th: 15.4.2013: AM hearing”; and 
+> >  (v) whether the affidavit has been filed in respect of a contested divorce (“CD”), uncontested divorce (“UD”), summons (“SUM”), ancillary matters ("AM") or originating summons ("OS") hearing, for example, “Defendant: Tan Ah Kow: 4th: 15.4.2013: AM hearing”; and
 
 > >  (vi) if the affidavit is filed in respect of a summons hearing, the number of the said summons, where the number is available, for example, “Defendant: Tan Ah Kow: 4th: 15.4.2013: SUM hearing: SUM no. 1234 of 2013".
 
 (c) **Binding of affidavits**
 
-Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled at the top left hand corner of the paper firmly. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages shall be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for plaintiffs/appellants, and blue for defendants/respondents) with a transparent plastic cover in front and at the back. 
+Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled at the top left hand corner of the paper firmly. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages shall be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for plaintiffs/appellants, and blue for defendants/respondents) with a transparent plastic cover in front and at the back.
 
 (d) **Pagination of affidavits**
 
 Every page of the affidavit shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page. Every reference to an exhibit (or a document in an exhibit) shall include, where appropriate, the page number(s) where the exhibit (or document) can be located.
 
 (e) Sub-paragraph 2(b) is applicable to proceedings under Part X of the Women’s Charter (Cap. 353) filed before 1 April 2006 as if any reference to the defendant were a reference to the respondent.
- 
+
+**_Hard copy affidavits_**
+
+(3) Unless otherwise directed by the Court, hard copies of affidavits should be printed on both sides of each page.
+
 ## 110. Exhibits to affidavits
 
 **_Non-documentary exhibits_**
@@ -1408,7 +1650,7 @@ Every page of the affidavit shall be paginated consecutively, and the page numbe
 
 (2) Where the exhibit consists of more than one item (e.g., cassettes in a box) each and every such separate item of the exhibits shall similarly be separately marked with enough of the usual exhibit mark to ensure precise identification.
 
-(3) Where it is impracticable to mark on the article itself, such article or the container thereof shall be tagged or labelled with the exhibit mark securely attached to the exhibit in such a manner that it is not easily removable. 
+(3) Where it is impracticable to mark on the article itself, such article or the container thereof shall be tagged or labelled with the exhibit mark securely attached to the exhibit in such a manner that it is not easily removable.
 
 (4) Very small non-documentary exhibits shall be enclosed or mounted in a sealed transparent container, tagged or labelled as aforesaid. An enlarged photograph showing the relevant characteristics of such exhibits shall, where applicable, be exhibited in the affidavit.
 
@@ -1438,9 +1680,9 @@ Every page of the affidavit shall be paginated consecutively, and the page numbe
 
 > >  “This is the exhibit marked ______ [letter of the alphabet or a number] referred to in the affidavit of ____________[name of the deponent] and sworn/affirmed before me this _______ [date on which the affidavit is sworn or affirmed].
 
-> >  Before me,  
+> >  Before me,
 
-> >  SGD  
+> >  SGD
 
 > >  A Commissioner for Oaths”
 
@@ -1466,12 +1708,12 @@ Every page of the exhibits (but not the dividing sheets mentioned in sub- paragr
 Where a deponent deposes to more than one affidavit to which there are exhibits in any one action, cause or proceedings, the numbering of such exhibits in all subsequent affidavits shall run consecutively throughout, and not begin again with each affidavit.
 
 (f) **References to exhibits in other affidavits**
- 
+
 Where a deponent wishes to refer to a document already exhibited in some other deponent's affidavit, he shall not also exhibit it to his own affidavit.
 
 (g) **Related documents**
- 
-Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub- paragraph (6)(d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit. 
+
+Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub- paragraph (6)(d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 ## 111. Swearing or affirming of affidavits, statutory declarations and oaths
 
@@ -1481,9 +1723,9 @@ Related documents (e.g., correspondence and invoices) may be collected together 
 
 (3) Accordingly, solicitors who wish to bring illiterate or blind deponents before the Family Justice Courts' commissioners for oaths should first estimate the time that will be taken to interpret the document or documents to be deposed to. If it is estimated that the total time required for interpretation of the documents will be more than 20 minutes, the solicitor must write to the Registrar and arrange for a special appointment for the documents to be sworn or affirmed; the solicitor should not bring the deponent before the duty commissioner for oaths without such an appointment.
 
-(4) If an illiterate or a blind deponent is brought before the duty Family Justice Courts commissioner for oaths and the interpretation of the document or documents takes more than 20 minutes, the commissioner for oaths will refer the solicitor and the deponent to the Registrar for a special appointment to be made for the documents to be deposed to. 
+(4) If an illiterate or a blind deponent is brought before the duty Family Justice Courts commissioner for oaths and the interpretation of the document or documents takes more than 20 minutes, the commissioner for oaths will refer the solicitor and the deponent to the Registrar for a special appointment to be made for the documents to be deposed to.
 
-(5) Save in exceptional circumstances, the Family Justice Courts will not entertain requests from advocates and solicitors for its commissioners for oaths to swear or affirm affidavits or statutory declarations or administer oaths to a deponent outside the Family Justice Courts’ premises. Advocates and solicitors appointed as commissioners for oaths and who are proficient in the language or dialect in which the affidavits or statutory declarations are to be sworn or affirmed, or in which oaths are to be taken, are instead encouraged to perform this function. 
+(5) Save in exceptional circumstances, the Family Justice Courts will not entertain requests from advocates and solicitors for its commissioners for oaths to swear or affirm affidavits or statutory declarations or administer oaths to a deponent outside the Family Justice Courts’ premises. Advocates and solicitors appointed as commissioners for oaths and who are proficient in the language or dialect in which the affidavits or statutory declarations are to be sworn or affirmed, or in which oaths are to be taken, are instead encouraged to perform this function.
 
 ## 111A. Swearing and signing of affidavits in Singapore before, and completing of attestation by, commissioner for oaths through live video or live television link
 
@@ -1495,17 +1737,17 @@ Related documents (e.g., correspondence and invoices) may be collected together 
 
 ## 112. Effect of non-compliance
 
-Any affidavit or exhibit which does not comply with the Directions contained in this Part may be rejected by the Court and made the subject of an order for costs. 
+Any affidavit or exhibit which does not comply with the Directions contained in this Part may be rejected by the Court and made the subject of an order for costs.
 
 ## 113. Objections to the contents of affidavits of evidence-in- chief
 
 (1) If, on an application for directions under rule 482, or rule 583 of the Family Justice Rules, or otherwise, orders are made prescribing the time within which objection to the contents of affidavits of evidence-in-chief must be taken, the objections must be taken in accordance with the Directions contained in this Paragraph and not otherwise.
 
-(2) Objections to the contents of affidavits of evidence-in-chief filed pursuant to an order of the Court made under rule 482, or rule 583 of the Family Justice Rules, or otherwise, must be taken by filing and serving a notice in Form 246 of Appendix A. 
+(2) Objections to the contents of affidavits of evidence-in-chief filed pursuant to an order of the Court made under rule 482, or rule 583 of the Family Justice Rules, or otherwise, must be taken by filing and serving a notice in Form 246 of Appendix A.
 
 (3) The notice in Form 246 should set out all the objections to the contents of affidavits of evidence-in-chief that will be raised at the hearing of the cause or matter and all the grounds thereof.
 
-(4) An adjudication on the material objected to in affidavits of evidence-in-chief filed pursuant to an order of the Court should only be sought at the trial or hearing of the cause or matter for which the affidavits of evidence-in-chief were filed, and not before. If an adjudication is sought prior to the trial or hearing of the cause or matter, the application for the adjudication will be adjourned to be dealt with at the trial or hearing of the cause or matter, and the applicant may be ordered to pay the costs of the adjournment. 
+(4) An adjudication on the material objected to in affidavits of evidence-in-chief filed pursuant to an order of the Court should only be sought at the trial or hearing of the cause or matter for which the affidavits of evidence-in-chief were filed, and not before. If an adjudication is sought prior to the trial or hearing of the cause or matter, the application for the adjudication will be adjourned to be dealt with at the trial or hearing of the cause or matter, and the applicant may be ordered to pay the costs of the adjournment.
 
 ## 114. Draft orders of Court
 
@@ -1527,13 +1769,13 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 > (f) The Registry will seal and issue an engrossed order of court once its terms are approved.
 
-> (g) Rules 676(4) to (6) of the Family Justice Rules shall continue to apply. 
+> (g) Rules 676(4) to (6) of the Family Justice Rules shall continue to apply.
 
 ## 115. Unnecessary extraction of orders of Court
 
 (1) Certain orders are extracted by parties when such orders need not be drawn up under the Family Justice Rules. The attention of solicitors is drawn to rule 677 of the Family Justice Rules in this regard.
 
-(2) To reduce unnecessary documentation and to expedite proceedings, solicitors are requested not to extract orders that need not be drawn up. 
+(2) To reduce unnecessary documentation and to expedite proceedings, solicitors are requested not to extract orders that need not be drawn up.
 
 ## 116. Draft Consent Orders
 
@@ -1567,19 +1809,19 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 **<u>Content of the draft consent order</u>**
 
-(4) When an agreement has been reached between the parties on the custody and care of children, access to them, maintenance, division of matrimonial assets or other ancillary matters subsequent to the granting of an interim judgment (“the agreement”), a draft consent order may be prepared for submission to the Court for an order in terms of the agreement. 
+(4) When an agreement has been reached between the parties on the custody and care of children, access to them, maintenance, division of matrimonial assets or other ancillary matters subsequent to the granting of an interim judgment (“the agreement”), a draft consent order may be prepared for submission to the Court for an order in terms of the agreement.
 
-(5) The draft consent order must be signed — 
- 
+(5) The draft consent order must be signed —
+
 > (a) If either party is incapacitated by reason of insolvency, the party must provide to the Court a letter from the Official Assignee stating that there is no objection to the proposed terms of the agreement, in particular, the terms relating to the division of matrimonial assets and maintenance. This letter is to be filed together with the duly signed draft consent order.
- 
-> (b) in the case where any party is unrepresented and another is represented, by that unrepresented party personally and subject to the following requirements: 
- 
+
+> (b) in the case where any party is unrepresented and another is represented, by that unrepresented party personally and subject to the following requirements:
+
 > >  (i) the signature of that unrepresented party must be witnessed by an advocate and solicitor or a commissioner for oaths not acting for any of the other parties in the proceedings.
 
-> >  (ii)	the counsel for the represented party or parties shall inform the unrepresented party of his/her right to seek legal advice before the unrepresented party signs the draft consent order. 
+> >  (ii)	the counsel for the represented party or parties shall inform the unrepresented party of his/her right to seek legal advice before the unrepresented party signs the draft consent order.
 
-> >  (iii)	the following endorsement shall be inserted immediately below the unrepresented party’s signature. 
+> >  (iii)	the following endorsement shall be inserted immediately below the unrepresented party’s signature.
 
 > “I acknowledge that I have considered the terms of the agreement and have also been informed of my right to seek independent legal advice.”
 
@@ -1588,36 +1830,40 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 (5A)	If either party is incapacitated by reason of insolvency, the party must provide to the Court a letter from the Official Assignee stating that there is no objection to the proposed terms of the agreement, in particular, the terms relating to the division of matrimonial assets and maintenance. This letter is to be filed together with the duly signed draft consent order.
 
 (6) [deleted]
- 
-(7) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order". 
- 
+
+(7) The document name selected for the filing of the draft consent order in the Electronic Filing Service is “Draft Consent Order".
+
 **<u>Recording a consent order in the manner set out in sub-paragraph (3)(a) to (c)</u>**
- 
-(8) Counsel shall file the draft consent order incorporating the agreement in the prescribed template in the Electronic Filing Service at least 5 working days prior to the appearance in sub-paragraph (3)(a) to (c) above. 
- 
-(9) If the draft consent order has not been electronically filed in the Electronic Filing Service by the time of the appearance, a physical copy of the draft consent order bearing the signature of both parties or their counsel must be submitted in court for the approval of the Court during the appearance before the judge. 
- 
+
+(8) Counsel shall file the draft consent order incorporating the agreement in the prescribed template in the Electronic Filing Service at least 5 working days prior to the appearance in sub-paragraph (3)(a) to (c) above.
+
+(9) If the draft consent order has not been electronically filed in the Electronic Filing Service by the time of the appearance, a physical copy of the draft consent order bearing the signature of both parties or their counsel must be submitted in court for the approval of the Court during the appearance before the judge.
+
 **<u>Recording a consent order in the manner set out in sub-paragraph (3)(d)</u>**
- 
-(10) Parties may file a draft consent order and via correspondence to the Court, request for an order in terms in accordance with sub-paragraph (3)(d) above. The Court may consider and approve the draft consent order submitted by the parties, and grant an order in terms of the same before the next date of appearance in Court. The next date of appearance in Court will then be vacated thus obviating the need for the parties to attend in Court for the sole purpose of recording the consent order. In such a situation, the Court will notify parties of the grant of the consent order through a Registrar's Notice. 
- 
+
+(10) Parties may file a draft consent order and via correspondence to the Court, request for an order in terms in accordance with sub-paragraph (3)(d) above. The Court may consider and approve the draft consent order submitted by the parties, and grant an order in terms of the same before the next date of appearance in Court. The next date of appearance in Court will then be vacated thus obviating the need for the parties to attend in Court for the sole purpose of recording the consent order. In such a situation, the Court will notify parties of the grant of the consent order through a Registrar's Notice.
+
 **<u>Extracting an Order granted by Consent</u>**
- 
-(11) Parties need not submit a further draft consent order for approval after the hearing. 
- 
+
+(11) Parties need not submit a further draft consent order for approval after the hearing.
+
 (12) Counsel need only file the engrossed copy of the consent order after the draft consent order is granted.
 
 ## 117. Judgment Interest
 
-(1) Pursuant to the Chief Justice’s directions as provided for under Order 42, Rule 12 of the Rules of Court, unless it has been otherwise agreed between the parties, interest payable after the date of judgment shall be 5.33% per annum until further notice and calculated to the date the judgment is satisfied. The Court retains the discretion under rule 680 of the Family Justice Rules to revise the default rate of interest to such other rate not exceeding the default rate on the facts of the individual case.
+(1)	Solicitors may refer to the relevant rules in the Family Justice Rules for the applicable interest rate.
 
 **_Interest on costs_**
 
-(2) Pursuant to the Chief Justice’s directions as provided for under rule 887(1) of the Family Justice Rules, interest payable from the relevant date(s) as stipulated in rule 887(1) shall be 5.33% per annum until further notice and calculated to the date of payment.
+(2)	Pursuant to the Chief Justice’s directions as provided for under rule 887(1) of the Family Justice Rules, interest payable from the relevant date(s) as stipulated in rule 887(1) shall be 5.33% per year until further notice and calculated to the date of payment.
 
 **_Pre-judgment interest_**
 
-(5) The Chief Justice has directed that solicitors may wish to submit to the Court to consider that the interest rate for the period prior to the date of judgment should be the default interest rate of 5.33% per annum. Solicitors should note that the Court retains the overriding discretion to depart from the default interest rate based on the facts of the individual case. 
+(3) Pursuant to the Chief Justice’s directions as provided under rule 328(3) of the Family Justice Rules, interest payable from the relevant date(s) as stipulated in rule 328(3) shall be 5.33% per year until further notice and calculated to the date of payment.
+
+**_Interest under an order of court made under Part 18 Division 26 of the Family Justice Rules_**
+
+(4)	If an order of court made under Part 18 Division 26 of the Family Justice Rules includes an order for interest on the sum shown by the receiver’s account as due from him or her and which the receiver has failed to pay into Court, pursuant to the Chief Justice’s directions as provided for under rule 539(3)(b) of the Family Justice Rules, the rate of interest applicable to such an order is 5.33% per year. Interest will accrue for the period during which the sum was in the possession of the receiver.
 
 ## 118. Filing of writs of execution through the Electronic Filing Service
 
@@ -1625,11 +1871,11 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (2) The writ of execution is deemed to be issued when it is sealed by an officer of the Registry pursuant to rule 707 of the Family Justice Rules.
 
-(3) The previous practice of filing a Request to issue a writ of execution is discontinued. 
+(3) The previous practice of filing a Request to issue a writ of execution is discontinued.
 
 ## 119. Sale of immovable property
 
-(1) If an execution creditor wishes to effect the sale of immovable property seized under a writ of seizure and sale, he shall file the requisite electronic form Request for sale to the Bailiff through the Electronic Filing Service stating the following: 
+(1) If an execution creditor wishes to effect the sale of immovable property seized under a writ of seizure and sale, he shall file the requisite electronic form Request for sale to the Bailiff through the Electronic Filing Service stating the following:
 
 > (a) the date of registration (and expiry) at the Singapore Land Registry of the order of court/writ of seizure and sale on immovable property;
 
@@ -1649,7 +1895,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 > (c) that the immovable property shall not be sold at a price below the forced sale value as specified in the valuation report, or if there exists two or more valuation reports, in the latest valuation report; and
 
-> (d) that the solicitor shall prepare all necessary conditions of sale, documentation, accounts and particulars on behalf of the Bailiff in accordance with the Bailiff’s directions, and shall be entitled to recover his legal fees and disbursements. 
+> (d) that the solicitor shall prepare all necessary conditions of sale, documentation, accounts and particulars on behalf of the Bailiff in accordance with the Bailiff’s directions, and shall be entitled to recover his legal fees and disbursements.
 
 ## 120. Writs of execution & writs of distress – movable property
 
@@ -1667,7 +1913,7 @@ Prior to the seizure and/or sale, the Bailiff will notify the execution debtor, 
 
 > (a) If any person requires the Bailiff to attend at any place in connection with any order of court or writ of execution or writ of distress whether during or after office hours for any purpose, that person must file a Request in the appropriate electronic form through the Electronic Filing Service. A Request for attendance made in any other manner will not be acceded to.
 
-> (b) The fees payable in respect of any such attendance by the Bailiff shall be as prescribed in the Rules of Court or as determined by the Registrar.
+> (b) The fees payable in respect of any such attendance by the Bailiff shall be as prescribed in the Fifth Schedule of the Family Justice Rules or as determined by the Registrar.
 
 (4) Effecting entry into premises
 
@@ -1677,7 +1923,7 @@ Where the execution creditor requests the Bailiff to exercise his powers of entr
 
 > (b) the Bailiff may, in any case, refuse to effect the entry without assigning any reason; and
 
-> (c) the execution creditor shall at his expense, upon the direction of the Bailiff, engage any security personnel, locksmith or any other person or facility as the Bailiff deems appropriate to assist in effecting entry into the premises and the execution process. 
+> (c) the execution creditor shall at his expense, upon the direction of the Bailiff, engage any security personnel, locksmith or any other person or facility as the Bailiff deems appropriate to assist in effecting entry into the premises and the execution process.
 
 (5) Valuation Report
 
@@ -1705,7 +1951,7 @@ The execution creditor or his solicitors shall, at the Bailiff’s request, furn
 
 he or she must do so by filing the requisite Request in Form 247 of Appendix A of these Practice Directions for attendance electronic form to the Bailiff through the Electronic Filing Service. A Request for attendance made in any other manner will not be acceded to.
 
-(2) The fees prescribed by Part 19 to the Family Justice Rules will be payable in respect of any attendance by the bailiffs pursuant to a Request made in Form 247. 
+(2) The fees prescribed by Part 19 to the Family Justice Rules will be payable in respect of any attendance by the bailiffs pursuant to a Request made in Form 247.
 
 ## 122. Examination of Judgment Debtor
 
@@ -1723,7 +1969,7 @@ he or she must do so by filing the requisite Request in Form 247 of Appendix A o
 
 ## 123. Committal proceedings
 
-An applicant seeking to lift a suspension order under rule 763(3) of the Family Justice Rules to enforce committal orders must prepare his or her own Warrant in accordance with Form 161 in Appendix A to these Practice Directions and bring the same to the hearing. 
+An applicant seeking to lift a suspension order under rule 763(3) of the Family Justice Rules to enforce committal orders must prepare his or her own Warrant in accordance with Form 161 in Appendix A to these Practice Directions and bring the same to the hearing.
 
 ## 124. Appeals
 
@@ -1741,93 +1987,169 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 **_Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules_**
 
-(1) In practice, the District Judges may furnish grounds of decision, and if so, within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Part 18 Division 60 of the Family Justice Rules.
+(1)	In practice, the District Judges may furnish grounds of decision, and if so, within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Part 18 Division 60 of the Family Justice Rules.
 
-(2) To facilitate the conduct of appeal hearings before the Judge of the Family Division of the High Court in Chambers, parties are required to file the following documents prior to the appeal hearing:
+(2)	To facilitate the conduct of appeal hearings before the Judge of the Family Division of the High Court in Chambers, parties are required to file the following documents prior to the appeal hearing:
 
-> (a) the appellant shall, within 7 working days from the date of the release of the notes of evidence and grounds of decision (if any), file his submission, the record of appeal, and where the record of appeal exceeds 1000 pages, a core bundle, and serve a copy thereof on every respondent to the appeal or his solicitor; and 
+<ul type="*">
 
-> (b) the respondent shall, within 7 working days from the date of the service of the documents referred to in sub-paragraph (2)(a), file his submission and a supplemental core bundle, where necessary, and serve a copy thereof on the appellant or his solicitor.
+<li>(a) 	the appellant shall, within 7 working days from the date of the release of the notes of evidence and grounds of decision (if any), file his submission, the record of appeal, and where the record of appeal exceeds 1000 pages, a core bundle, and serve a copy thereof on every respondent to the appeal or his solicitor; and</li>
 
-(3) The submissions to be filed by parties shall set out as concisely as possible:
+<li>(b) 	the respondent shall, within 7 working days from the date of the service of the documents referred to in sub-paragraph (2)(a), file his submission and a supplemental core bundle, where necessary, and serve a copy thereof on the appellant or his solicitor.</li>
 
-> (a) the circumstances out of which the appeal arises;
+</ul>
 
-> (b) the issues arising in the appeal;
+(3) 	The submissions to be filed by parties must include a cover page and a table of contents and shall set out as concisely as possible:
 
-> (c) the contentions to be urged by the party filing it and the authorities in support thereof; and
+<ul type="*">
 
-> (d) the reasons for or against the appeal, as the case may be.
+<li>(a) 	the circumstances out of which the appeal arises;</li>
 
-(4) The parties shall file together with their submissions a bundle of authorities relied on by the Court below as well as other authorities to be relied on at the hearing of the appeal and serve such bundle of authorities on the other party.
+<li>(b)	 the issues arising in the appeal;</li>
 
-(5) The record of appeal shall consist of:
+<li>(c) 	the contentions to be urged by the party filing it and the authorities in support thereof; and</li>
 
-> (a) the notice of appeal;
+<li>(d) 	the reasons for or against the appeal, as the case may be.</li>
 
-> (b) the certified copy of the grounds of decision, if any;
+</ul>
 
-> (c) the certified copy of the notes of evidence;
+(4) 	In addition to the written submissions, the parties must, in lieu of the bundle of authorities, file a list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service within the timelines as directed by the Court and serve such bundle of authorities on the other party. The bundle of authorities (whether in hard copy of soft copy) must comply with the requirements under paragraphs 88(5) to (11) of these Practice Directions. In particular, where the bundle of authorities consists of more than 1 volume:
 
-> (d) the originating process and all subsequent pleadings;
+<ul type="*">
 
-> (e) the affidavits filed or referred to by parties for the hearing and any other documents, so far as relevant to the matter decided and the nature of the appeal; and
+<li>(a)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
 
-> (f) the judgment or order appealed from.
+<li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
 
-(6) The core bundle shall, if necessary, contain a copy of:
+</ul>
 
-> (a) (deleted) 
+(5) 	The record of appeal shall consist of:
 
-> (b) (deleted) 
+<ul type="*">
 
-> (c) specific documents, from the record of appeal, or portions thereof that are of particular relevance to any question in the appeal or that will be referred to at the appeal; and
+<li>(a) 	the notice of appeal;</li>
 
-> (d) an index of the documents included therein, which shall cross-refer each document to its location in the record of appeal.
+<li>(b) 	the certified copy of the grounds of decision, if any;</li>
 
-(7) If the respondent intends to refer to documents at the appeal that are not included in the core bundle filed by the appellant, the respondent shall file a supplemental core bundle that contains a copy of the documents, together with an index of the documents which shall cross-refer each document to its location in the record of appeal.
+<li>(c) 	the certified copy of the notes of evidence;</li>
 
-(8) The core bundle filed by the appellant shall not exceed 100 pages and the supplemental core bundle filed by the respondent shall not exceed 50 pages. In computing the number of pages, the copy of the order appealed from, the grounds of decision and the index of documents shall be excluded. The Judge of the Family Division of the High Court may take into consideration any failure to comply with this direction in deciding the costs to be awarded at the hearing of the appeal.
+<li>(d) 	the originating process and all subsequent pleadings;</li>
 
-(9) The submissions, the record of appeal, the core bundle and the respondent’s core bundle shall be filed at the appeals counter of the Registry of the Family Justice Courts.
+<li>(e) 	the affidavits filed or referred to by parties for the hearing and any other documents, so far as relevant to the matter decided and the nature of the appeal; and</li>
 
-(10) In order to assist the Judge hearing the appeal, the appellant and the respondent are to tender one hard copy of the record of appeal, submissions and the core bundle, where applicable, as well as any bundle of authorities to be relied upon to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal.
+<li>(f) 	the judgment or order appealed from.</li>
 
-**_Filing of records of appeal and written cases for appeals filed after 1 October 2014 and before 1 January 2015 on ancillary matters or custody matters or s17A(2) SCJA proceedings from the Family Courts to the Family Division of the High Court under Order 55C of Rules of Court_**
+</ul>
 
-(11) (deleted) 
+(6) 	The core bundle shall, if necessary, contain a copy of:
 
-(12) (deleted) 
+<ul type="*">
 
-(13) (deleted) 
+<li>(a) 	specific documents from the record of appeal or portions thereof that are of particular relevance to any question in the appeal or that will be referred to at the appeal; and</li>
 
-**_Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules_**
+<li>(b) 	an index of the documents included therein, which shall cross-refer each document to its location in the record of appeal.</li>
 
-(14) Rules 827 and 828 of the Family Justice Rules apply with regard to the filing and preparation of the Record of Appeal, Appellant’s case and Respondent’s case. 
+</ul>
 
-(15) Where a Record of Appeal exceeds 1000 pages, a core bundle may be filed may be filed and served together with the Record of Appeal.
+(7) 	If the respondent intends to refer to documents at the appeal that are not included in the core bundle filed by the appellant, the respondent shall file a supplemental core bundle that contains a copy of the documents, together with an index of the documents which shall cross-refer each document to its location in the record of appeal.
 
-(16) Sub-paragraphs (6) to (10) shall apply and references to submissions shall be read as Appellant’s case and Respondent’s case.
+(8) 	The core bundle filed by the appellant shall not exceed 100 pages and the supplemental core bundle filed by the respondent shall not exceed 50 pages. In computing the number of pages, the copy of the order appealed from, the grounds of decision and the index of documents shall be excluded. The Judge of the Family Division of the High Court may take into consideration any failure to comply with this direction in deciding the costs to be awarded at the hearing of the appeal.
 
-**_Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules_**
+(9) 	The submissions, the record of appeal, the core bundle and the respondent’s core bundle shall be filed at the appeals counter of the Registry of the Family Justice Courts.
 
-(17) The appellant shall, within 7 working days from the date of the filing of the Notice of Appeal, file and serve his submissions. The respondent shall, within 7 working days from the service of the appellant’s submissions, file and serve his submissions.
+(10) 	In order to assist the Judge hearing the appeal, the appellant and the respondent are to tender one hard copy of the record of appeal, submissions and the core bundle, where applicable, as well as any bundle of authorities to be relied upon to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed.
+
+***Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules***
+
+(11)	Rules 827 and 828 of the Family Justice Rules apply with regard to the filing and preparation of the record of appeal, appellant’s Case and respondent’s Case. In addition to the requirements set out in the relevant rules, the appellant’s Case and the respondent’s Case must each include a cover page and a table of contents.
+
+(12)	Where a record of appeal exceeds 1000 pages, a core bundle may be filed may be filed and served together with the record of appeal.
+
+(13)	Each volume of the appellant’s and respondent’s core bundles of documents and subsequent bundles (if any), must begin at page 1. Every page must be numbered and the page number of the appellant’s and respondent’s core bundles of documents and the second core bundle must correspond to the page number of the Portable Document Format (PDF) version.
+
+(14)	Sub-paragraphs (6) to (10) above shall apply and references to submissions shall be read as appellant’s Case and respondent’s Case.
+
+(15)	The party must, in lieu of the bundle of authorities, file a list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service within the timelines as directed by the Court. The bundle of authorities (whether in hard copy of soft copy) must comply with the requirements under paragraphs 88(5) to (11) of these Practice Directions. In particular, where the bundle of authorities consists of more than 1 volume:
+
+<ul type="*">
+
+<li>(a)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
+
+<li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
+
+</ul>
+
+(16)	The appellant must tender 1 hard copy each of the following documents to the Correspondence Clearance Centre at Level 1, Supreme Court Building:
+
+<ul type="*">
+
+<li>(a)	the record of appeal and the appellant’s Case within the timelines prescribed in rule 827 of the Family Justice Rules;</li>
+
+<li>(b)	the appellant’s core bundle of documents, if necessary; and</li>
+
+<li>(c)	the appellant’s bundle of authorities,</li>
+
+</ul>
+
+within the timelines as directed by the Court.
+
+(17)	The respondent must tender 1 hard copy each of the following documents to the Correspondence Clearance Centre at Level 1, Supreme Court Building:
+
+<ul type="*">
+
+<li>(a)	the respondent’s Case within the timelines prescribed in rule 828 of the Family Justice Rules;</li>
+
+<li>(b)	the respondent’s core bundle of documents, if necessary; and</li>
+
+<li>(c)	the respondent’s bundle of authorities,</li>
+
+</ul>
+
+within the timelines as directed by the Court.
+
+***Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules***
+
+(18)	The appellant shall, within 7 working days from the date of the filing of the Notice of Appeal, file and serve his submissions. The respondent shall, within 7 working days from the service of the appellant’s submissions, file and serve his submissions. The written submission filed by parties must include a cover page and a table of contents.
+
+(19)	In addition to the written submissions, the parties must, in lieu of the bundle of authorities, file a list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service within the timelines as directed by the Court and serve such bundle of authorities on the other party. The bundle of authorities (whether in hard copy of soft copy) must comply with the requirements under paragraphs 88(5) to (11) of these Practice Directions. In particular, where the bundle of authorities consists of more than 1 volume:
+
+<ul type="*">
+
+<li>(a)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
+
+<li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
+
+</ul>
+
+(20)	The appellant and the respondent are to tender 1 hard copy each of his or her written submissions and bundle of authorities (if any) to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed.
 
 ## 126. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules
 
-(1) Rule 805(4) of the Family Justice Rules states that it is the appellant's duty to apply to the Judge or other person presiding at the proceedings in which the decision appealed against was given, for the signed copy of any note made by him of the proceedings and to furnish that copy for the use of the Court. For the avoidance of doubt, the onus is on the appellant to file a record of proceedings, comprising the signed copy of the notes of proceedings, and any further grounds of decision, in the Family Division of the High Court.
+(1)	Rule 805(4) of the Family Justice Rules states that it is the appellant's duty to apply to the Judge or other person presiding at the proceedings in which the decision appealed against was given, for the signed copy of any note made by him of the proceedings and to furnish that copy for the use of the Court. For the avoidance of doubt, the onus is on the appellant to file a record of proceedings, comprising the signed copy of the notes of proceedings, and any further grounds of decision, in the Family Division of the High Court.
 
-(2) The appellant and the respondent are to tender one hard copy of the notes of proceedings, grounds of decision and any skeletal arguments or bundles of authorities to be relied upon to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 7 days before the hearing of the appeal, to assist the Judge of the Family Division of the High Court.
+(2)	If the signed copy of the notes of proceedings or any further grounds of decision are not available at the time when the record of proceedings is filed but subsequently becomes available, the appellant should seek directions from the Court to file a supplemental record of proceedings when it becomes available, if it is necessary for the appeal. To facilitate this, the appellant should promptly apply for any written grounds of decision, the record of evidence or notes of arguments taken in respect of the proceedings before the tribunal.
 
-(3) No affidavits shall be filed in respect of the appeal without the leave of court.
- 
-## 127. Skeletal arguments for appeals before the Family Division of the High Court 
+(3) Unless otherwise ordered by the Court, each party is to tender 1 hard copy each of his or her affidavits (if any as allowed by the Court), written submissions (including a cover page and a table of contents), bundles of authorities (if any), notes of proceedings and grounds of decision to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed.
+
+(4) The party using hard copy of the bundle of authorities for the hearing must, if directed by the Court, file the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service within the timelines as directed by the Court. The bundle of authorities (whether in hard copy or soft copy) must comply with the requirements under paragraphs 88(5) to (11) of these Practice Directions. In particular, where the bundle of authorities consists of more than 1 volume:
+
+<ul type="*">
+
+<li>(a)	the table of contents of all volumes of the bundle of authorities must be placed at the beginning of Volume I; and</li>
+
+<li>(b)	each volume must have a table of contents indicating the authorities that are contained in that volume.</li>
+
+</ul>
+
+(5) No affidavits shall be filed in respect of the appeal without the leave of court.
+
+## 127. Skeletal arguments for appeals before the Family Division of the High Court
 
 (deleted)
 
 ## 128. Use of presentation slides for all proceedings before the Family Division of the High Court
 
-Subject to approval by the Court, parties may utilise presentation slides to assist in oral submissions before the Court. Presentation slides may be projected in the courtroom or hearing chambers when oral submissions are made. Presentation slides shall comply with the following standards: 
+Subject to approval by the Court, parties may utilise presentation slides to assist in oral submissions before the Court. Presentation slides may be projected in the courtroom or hearing chambers when oral submissions are made. Presentation slides shall comply with the following standards:
 
 **_Typeface_**
 
@@ -1835,7 +2157,7 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 **_Colours_**
 
-(2) There should be sufficient contrast between the slide background and text: it is preferable to use black or dark fonts with a light background. The colours used in slide backgrounds should be muted and preferably monochromatic. 
+(2) There should be sufficient contrast between the slide background and text: it is preferable to use black or dark fonts with a light background. The colours used in slide backgrounds should be muted and preferably monochromatic.
 
 **_Animation and sounds_**
 
@@ -1843,18 +2165,18 @@ Subject to approval by the Court, parties may utilise presentation slides to ass
 
 **_Corporate logos_**
 
-(4) Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides. 
+(4) Corporate logos of the law practice may be displayed on the presentation slides. Care should be taken to ensure that the size and location of corporate logos do not distract from the substance of the presentation slides.
 
 ## 129. Request for waiver or deferment of court fees in Family Division of the High Court
 
-A request for the waiver or deferment of the whole or any part of any appeal court fees under rule 998 of the Family Justice Rules must be supported by an affidavit in Form 250 of Appendix A of these Practice Directions. The affidavit in Form 250 must verify Form 251 of Appendix A of these Practice Directions. 
+A request for the waiver or deferment of the whole or any part of any appeal court fees under rule 998 of the Family Justice Rules must be supported by an affidavit in Form 250 of Appendix A of these Practice Directions. The affidavit in Form 250 must verify Form 251 of Appendix A of these Practice Directions.
 
 ## 130. Basis of taxation
 
-Every bill of costs to be taxed pursuant to a judgment or order of court must be filed together with a copy of the judgment or order of court. Where an order for taxation is not required under the Family Justice Rules, the bill of costs shall describe succinctly in its heading the basis of taxation. A bill of costs for taxation between a solicitor and his client pursuant to section 120(3) of the Legal Profession Act (Cap 161) must be filed together with a copy of the document signifying the consent of the parties to taxation. 
+Every bill of costs to be taxed pursuant to a judgment or order of court must be filed together with a copy of the judgment or order of court. Where an order for taxation is not required under the Family Justice Rules, the bill of costs shall describe succinctly in its heading the basis of taxation. A bill of costs for taxation between a solicitor and his client pursuant to section 120(3) of the Legal Profession Act (Cap 161) must be filed together with a copy of the document signifying the consent of the parties to taxation.
 
 ## 131. Form of bills of costs
- 
+
 The attention of solicitors is drawn to rules 875 and 882 and Part 1 of the Third Schedule of the Family Justice Rules. In addition, solicitors are to abide by the following requirements in relation to the form of bills of costs.
 
 (1) Margins
@@ -1961,7 +2283,7 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 
 > (f) **Registrar's certificate**
 
-> The total amount of GST allowed on a bill of costs will be indicated as a separate item in the Registrar's certificate. Solicitors are responsible for ensuring that the GST figures accurately reflect the sums allowed by the Registrar. 
+> The total amount of GST allowed on a bill of costs will be indicated as a separate item in the Registrar's certificate. Solicitors are responsible for ensuring that the GST figures accurately reflect the sums allowed by the Registrar.
 
 ## 132. Registrar’s Certificate
 
@@ -1978,7 +2300,7 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 > (a) the Registrar’s Certificate shall be filed as a Portable Document Format (PDF) document for bills of costs filed before 30 September 2013; and
 
 > (b) for all other cases, the Registrar’s Certificate shall be composed online through the Electronic Filing Service.
- 
+
 ## 133. Objections
 
 (1) In any disputed taxation involving party-and-party bills of costs, solicitors presenting the bill for taxation shall observe the following procedure:
@@ -1991,15 +2313,15 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 
 (3) The Notice of Dispute shall be filed through the Electronic Filing Service in Portable Document Format (PDF) and be accompanied by a Notice of Dispute summary, the electronic form of which will be composed online through the Electronic Filing Service.
 
-(4) The information required by the Electronic Filing Service to compose the Notice of Dispute summary includes the amounts of costs to be awarded under Sections 1, 2 and 3 of the bill of costs according to the respondent. 
+(4) The information required by the Electronic Filing Service to compose the Notice of Dispute summary includes the amounts of costs to be awarded under Sections 1, 2 and 3 of the bill of costs according to the respondent.
 
 ## 134. Amount allowed as disbursement on account of use of electronic transmission
 
-(1) If a document is filed using the Electronic Filing Service, $0.40 for each page of the document thus filed shall be allowed as costs between parties to proceedings. Such costs may be claimed by a receiving party from the paying party where the receiving party is entitled to costs for the filing of the document. These costs shall be allowed in addition to all other disbursements and Court fees. 
+(1) If a document is filed using the Electronic Filing Service, $0.40 for each page of the document thus filed shall be allowed as costs between parties to proceedings. Such costs may be claimed by a receiving party from the paying party where the receiving party is entitled to costs for the filing of the document. These costs shall be allowed in addition to all other disbursements and Court fees.
 
 (2) This Paragraph shall apply to the taxation of costs as well as cases where the Court fixes a gross sum in lieu of taxation.
 
-(3) This Paragraph shall not apply to any document filed through the service bureau. 
+(3) This Paragraph shall not apply to any document filed through the service bureau.
 
 ## 135. Taxations involving the Public Trustee or the Director of Legal Aid
 
@@ -2023,7 +2345,7 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 
 (1) The Court may, where appropriate, fix costs at the end of a hearing or trial in lieu of ordering taxation. Counsel should therefore be prepared to make submissions on the entitlement to and quantum of costs at the end of a hearing or trial, whether before or after judgment is delivered.
 
-(2) Counsel should note that the Court may fix costs where costs have been ordered to be in the cause, or on hearing applications for dismissal or striking out pursuant to an unless order, and be prepared to make submissions accordingly. 
+(2) Counsel should note that the Court may fix costs where costs have been ordered to be in the cause, or on hearing applications for dismissal or striking out pursuant to an unless order, and be prepared to make submissions accordingly.
 
 ## 137. Costs Scheduling
 
@@ -2037,11 +2359,11 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 
 (3) The relevant costs schedule will be taken into account for the purposes of assessing the quantum of costs to be awarded for the proceedings.
 
-(4) The costs schedule for the proceedings described in sub-paragraphs (1)(a) and (b) shall be filed together with the parties’ written closing submissions or, where there are no written closing submissions, before the parties’ oral closing submissions are presented. 
+(4) The costs schedule for the proceedings described in sub-paragraphs (1)(a) and (b) shall be filed together with the parties’ written closing submissions or, where there are no written closing submissions, before the parties’ oral closing submissions are presented.
 
 ## 138. Operating hours of the Family Justice Courts
 
-The various courts, offices and counters within the Family Justice Courts have different operating hours. These operating hours may be found the Family Justice Courts’ website at [http://www.familyjusticecourts.gov.sg.](http://www.familyjusticecourts.gov.sg.) 
+The various courts, offices and counters within the Family Justice Courts have different operating hours. These operating hours may be found on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
 ## 139. Hours for the sittings of the Family Justice Courts
 
@@ -2097,7 +2419,7 @@ The various courts, offices and counters within the Family Justice Courts have d
 
 (3) If anything in this Part has the effect of modifying any other direction, whether expressly or impliedly, then such other direction shall apply in relation to the filing, service, delivery and conveyance of documents under Part 18 Division 68 of the Family Justice Rules with such modification.
 
-(4) Where the words and phrases set out in rule 913 of the Family Justice Rules are used in this Part, they shall have the same meaning as defined in rule 913 of the Family Justice Rules, unless otherwise specified. 
+(4) Where the words and phrases set out in rule 913 of the Family Justice Rules are used in this Part, they shall have the same meaning as defined in rule 913 of the Family Justice Rules, unless otherwise specified.
 
 ## 141. Establishment of Electronic Filing Service and appointment of network service provider
 
@@ -2105,37 +2427,23 @@ In exercise of the powers conferred by rules 914 and 915 of the Family Justice R
 
 > (a) establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at http://www.elitigation.sg; and
 
-> (b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service, with the Electronic Litigation Systems Committee of the Singapore Academy of law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1). 
+> (b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service, with the Electronic Litigation Systems Committee of the Singapore Academy of law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1).
 
 ## 142. Appointment of agent to establish service bureau
 
-Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road #19-01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable), with the Electronic Litigation Systems Committee of the Singapore Academy of Law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1). 
+Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road #19-01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable), with the Electronic Litigation Systems Committee of the Singapore Academy of Law as its superintendent.
 
 ## 143. Registered users and authorised users
 
-(1) Under Part 18 Division 68 of the Family Justice Rules, any entity may apply to be a registered user and a registered user may designate one or more of its partners, directors, officers or employees to be an authorised user. Such applications shall be dealt with by the eLitigation Project Director. For the purpose of Part 18 Division 68 of the Family Justice Rules, the identification code of an authorised user shall be his or her SingPass ID.
+(1)	For the purpose of Part 18 Division 68 of the Family Justice Rules, the identification code of an authorised user is the authorised user’s SingPass ID.
 
-(2) The following procedures shall apply to applications to become a registered user and for designating authorised users:
+(2)	For the purposes of rule 918(1) of the Family Justice Rules, an application to the Registrar to be a registered user is to be made using Form 257 of Appendix A of these Practice Directions. For the purposes of rule 918(2) of the Family Justice Rules, a registered user may designate one or more authorised users by nominating at least 1 authorised user in Form 257 of Appendix A of these Practice Directions. In either case, Form 257 must be accompanied by the following:
 
 > (a) The application to become a registered user must be made to the eLitigation Project Director using Form 257 in Appendix A to these Practice Directions. In Form 257, the registered user must nominate at least one authorised user. Form 257 must be accompanied by the following:
 
-> >  (i) a recent business profile report from the Accounting and Corporate Regulatory Authority (ACRA) of the registered user;
+> (b)	an application form including the subscriber agreement for subscription to the Electronic Filing Service; and
 
-> >  (ii) an application form including the subscriber agreement for subscription to the Electronic Filing Service; and
-
-> >  (iii) two sets of GIRO application forms for the electronic payment of filing and hearing fees and electronic filing and other charges.
-
-> (b) After the application to become a registered user has been approved, the application forms for subscription to the Electronic Filing Service and GIRO electronic payment will be forwarded to the Electronic Filing Service provider.
-
-> (c) After the Electronic Filing Service provider has processed the applications and made arrangements for GIRO electronic payments, the registered user will be provided access to his or her Electronic Filing Service account. The initial authorised user may designate additional authorised users by providing the identification code of each authorised user to be added through the administration module of the Electronic Filing Service.
-
-(3) Registered users approved hereunder shall be deemed to be approved by the Registrar of the Family Justice Courts. Registered users shall be responsible for all transactions conducted and liable for all fees and charges incurred by any of their designated authorised users in the Electronic Filing Service.
-
-(4) The registered user shall be responsible for ensuring that the list of designated authorised users is kept updated at all times through the administration module of the Electronic Filing Service and for updating the eLitigation Project Director of any changes in the list of its advocates and solicitors in accordance with the procedure stated in sub-paragraph (5) below.
-
-(5) A registered user shall submit to the eLitigation Project Director on an annual basis, and in any event by the end of May each year, a list of its advocates and solicitors as at the 1st of May of each year.
-
-(6) Additionally, a registered user may at any time submit to the eLitigation Project Director an updated list of its advocates and solicitors in the event of any significant change in the number of its advocates and solicitors. 
+> (c)	2 sets of GIRO application forms for the electronic payment of filing and hearing fees, and electronic filing and other charges.
 
 ## 144. Documents which must be filed, served, delivered etc., using the Electronic Filing Service
 
@@ -2145,29 +2453,29 @@ Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints 
 
 > (a) any petition for divorce
 
-(3) Parties are to note that the documents which are to be filed pursuant to rule 567(1) of the Family Justice Rules may, instead of being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in Paragraph 90(3)-(7). 
+(3) Parties are to note that the documents which are to be filed pursuant to rule 567(1) of the Family Justice Rules may, instead of being filed through the Electronic Filing Service, be filed in accordance with the procedure outlined in Paragraph 90(3)-(7).
 
 (4) In respect of appeals under Part 18 Division 59 of the Family Justice Rules, it shall not be necessary to file, deliver or convey any document at the Family Division of the High Court using the Electronic Filing Service if its filing, service, delivery or conveyance is not required under Part 18 Division 59 of the Family Justice Rules.
 
 (5) Where documents are served using the Electronic Filing Service, a Certificate of Service will be automatically generated and stored in the electronic case file.
 
-(6) Bundles of authorities can be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file bundles of authorities and may instead use hardcopies for hearings in accordance with the Directions contained in this Part. 
+(6) Bundles of authorities can be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file bundles of authorities and may instead use hardcopies for hearings in accordance with the Directions contained in this Part.
 
 ## 145. Form of documents
 
 (1) It is not necessary for documents that are electronically filed in Court to have a cover page or backing sheet.
 
-(2) Parties are reminded that they must, at all times, ensure that the information stored in the front end system is up-to-date and free from errors as the same information will be reproduced in electronic forms that are generated by the Electronic Filing Service. 
+(2) Parties are reminded that they must, at all times, ensure that the information stored in the front end system is up-to-date and free from errors as the same information will be reproduced in electronic forms that are generated by the Electronic Filing Service.
 
 (3) Documents generated by the Electronic Filing Service containing out-of-date or wrong information will be rejected by the Registry and the fee payable shall be that stipulated in Part 19 of the Family Justice Rules.
 
 (4) In the event that the Electronic Filing Service fails to automatically generate an information page, parties may undertake the procedure outlined in Paragraph 151(2) of these Practice Directions.
 
-(5) If a document generated by the Electronic Filing Service is in respect of an Originating Summons or Petition for Probate or Letters of Administration where the parties are described as “Petitioner” and “Respondent”, parties should first write to the Family Registry by way of a Request through the Electronic Filing Service to request the convening of a Case Conference in respect of the matter. At the PTC, appropriate directions will be given to change the references to “Petitioner” and “Respondent” in the case title to “Plaintiff” and “Defendant” or such other party description as appropriate. 
+(5) If a document generated by the Electronic Filing Service is in respect of an Originating Summons or Petition for Probate or Letters of Administration where the parties are described as “Petitioner” and “Respondent”, parties should first write to the Family Registry by way of a Request through the Electronic Filing Service to request the convening of a Case Conference in respect of the matter. At the PTC, appropriate directions will be given to change the references to “Petitioner” and “Respondent” in the case title to “Plaintiff” and “Defendant” or such other party description as appropriate.
 
 ## 146. Pagination of documents
 
-Every single page of a document _must_ be paginated so that the pagination on the actual document corresponds with the pagination of the document in the electronic case file. This is to facilitate hearings involving documents. 
+Every single page of a document _must_ be paginated so that the pagination on the actual document corresponds with the pagination of the document in the electronic case file. This is to facilitate hearings involving documents.
 
 ## 147. Filing documents through service bureau
 
@@ -2181,7 +2489,7 @@ Every single page of a document _must_ be paginated so that the pagination on th
 
 (5) Documents to be filed through the service bureau must comply with these Practice Directions and all applicable administrative instructions and procedures prescribed by the service bureau with the approval of the superintendent.
 
-(6) Documents filed through the service bureau shall be subject to a Manual Handling Fee as set out in the Electronic Filing Service website at [http://www.elitigation.sg](http://www.elitigation.sg) and additional services made available by the service bureau may be subject to other administrative charges imposed by the service bureau with the approval of the superintendent. 
+(6) [deleted]
 
 ## 148. Filing of documents to the Family Justice Courts through a Supreme Court service bureau
 
@@ -2189,7 +2497,7 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 (a) proceedings in the Family Division of the High Court, and
 
-(b) Family Courts using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both. 
+(b) Family Courts using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
 
 ## 149. Limits on the size and number of documents submitted using the Electronic Filing Service
 
@@ -2205,13 +2513,13 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 (4) In the event that any solicitor wishes to file documents which exceed the limits specified in sub-paragraph (1), he should inform the Registrar at least 14 days before the intended filing date. The solicitor will then be asked to attend before the Registrar for directions to be given on how the documents should be filed.
 
-(5) If any document should exceed 300 pages, then that document shall be sub-divided, at a convenient page, into parts, for example, Affidavit of Tan Ah Kow Part A, Affidavit of Tan Ah Kow Part B and so on. 
+(5) If any document should exceed 300 pages, then that document shall be sub-divided, at a convenient page, into parts, for example, Affidavit of Tan Ah Kow Part A, Affidavit of Tan Ah Kow Part B and so on.
 
 ## 150. Documents which cannot be converted into an electronic format
 
 (1) If a document cannot be converted in whole or in part into an electronic format for any reason, the hardcopy of the document must be filed at the Family Registry of the Family Justice Courts.
 
-(2) If the Court receives a document which the filing party says cannot be converted in whole or part into an electronic format, and it can discern no good reason why the document cannot be wholly converted into an electronic format, the document may be rejected. 
+(2) If the Court receives a document which the filing party says cannot be converted in whole or part into an electronic format, and it can discern no good reason why the document cannot be wholly converted into an electronic format, the document may be rejected.
 
 ## 151. Rejection of documents, back-dating and refund of penalty
 
@@ -2225,7 +2533,7 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 (3) Where leave of Court has been obtained to expunge parts of a document or affidavit from the Court record, an applicant or his solicitor must re-file the document or affidavit with the expunged parts redacted and with a request that the date and time of filing or issuance, as the case may be, be back-dated to an earlier date and time, pursuant to rule 922 of the Family Justice Rules.
 
-(4) For the avoidance of doubt, a filing fee will be payable in respect of the re-filed document or affidavit as specified in Part 19 of the Family Justice Rules and the filing fee paid on the earlier filing of that document or affidavit will not be refunded. 
+(4) For the avoidance of doubt, a filing fee will be payable in respect of the re-filed document or affidavit as specified in Part 19 of the Family Justice Rules and the filing fee paid on the earlier filing of that document or affidavit will not be refunded.
 
 ## 152. Hard copies of documents filed electronically
 
@@ -2237,11 +2545,11 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 > (b) within 24 hours of the request, if no time frame is specified.
 
-(3) The Registrar may also direct that any or all documents shall be filed in hardcopy instead of using the Electronic Filing Service for such period or periods as he in his discretion thinks fit. 
+(3) The Registrar may also direct that any or all documents shall be filed in hardcopy instead of using the Electronic Filing Service for such period or periods as he in his discretion thinks fit.
 
 ## 153. Responsibility for accuracy and completeness of information submitted using the Electronic Filing Service
 
-(1) The solicitor having the conduct of any cause or matter may delegate the task of filing originating processes and documents in Court to an assistant or a suitably experienced law clerk or secretary, provided always that the solicitor shall personally satisfy himself as to the accuracy and completeness of the information submitted to the Court, and shall personally bear responsibility for any errors or deficiencies. 
+(1) The solicitor having the conduct of any cause or matter may delegate the task of filing originating processes and documents in Court to an assistant or a suitably experienced law clerk or secretary, provided always that the solicitor shall personally satisfy himself as to the accuracy and completeness of the information submitted to the Court, and shall personally bear responsibility for any errors or deficiencies.
 
 (2) In particular, solicitors should ensure the following:
 
@@ -2253,33 +2561,61 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 **_Consolidated, transferred or converted cases in civil proceedings_**
 
-(3) Where leave of Court has been obtained to consolidate cases or transfer a case from the Supreme Court to the Family Justice Courts or an order is made in a matter commenced by originating summons to continue as if commenced by writ, the applicant or his solicitor must inform the Registry of the order for consolidation or transfer or conversion by way of an appropriate Request through the Electronic Filing Service. 
+(3) Where leave of Court has been obtained to consolidate cases or transfer a case from the Supreme Court to the Family Justice Courts or an order is made in a matter commenced by originating summons to continue as if commenced by writ, the applicant or his solicitor must inform the Registry of the order for consolidation or transfer or conversion by way of an appropriate Request through the Electronic Filing Service.
 
 ## 154. Amendment of documents originally filed in Court by entering relevant information in an electronic template
 
 (1) This Paragraph applies to documents that have originally been filed in Court via the Electronic Filing Service.
 
-(2) Where such a document is to be amended, whether pursuant to rule 60 of the Family Justice Rules or, with leave of court, the amended document is to be prepared and filed by entering the relevant amendments in the appropriate electronic template. The amended document need not be filed in PDF format. In this respect, Paragraph 95(2)(c), (4) and (5) of these Practice Directions shall not apply. 
+(2) Where such a document is to be amended, whether pursuant to rule 60 of the Family Justice Rules or, with leave of court, the amended document is to be prepared and filed by entering the relevant amendments in the appropriate electronic template. The amended document need not be filed in PDF format. In this respect, Paragraph 95(2)(c), (4) and (5) of these Practice Directions shall not apply.
 
 ## 155. Filing directions to the Accountant-General for payment into and out of Court
 
-(1) Where monies are sought to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be referenced in the draft direction to the Accountant-General for payment in submitted to the Registry for approval.
+(1) Where monies are to be paid into Court pursuant to a judgment or order of the Court, a copy of the judgment or order must be attached to the draft Direction to Accountant-General for Payment In and filed into the case file via the Electronic Filing Service for approval by the Court. The Direction to Accountant-General for Payment In must be in Form 181 of Appendix A to these Practice Directions.
 
-(2) Where monies are sought to be paid out of Court pursuant to a judgment or order of the Court, pursuant to the acceptance of a payment into Court made under Part 18 Division 16 of the Family Justice Rules, a copy of the judgment or order, or of the notice in Form 92 in Appendix A to these Practice Directions, or of the written consent, must be attached to the draft direction to the Accountant-General for payment out submitted to the Registry for approval.
+(2) Where monies are to be paid out of Court, a copy of one of the following documents must be attached to the draft Direction to Accountant-General for Payment Out and filed into the case file via the Electronic Filing Service for approval by the Court:
 
-(3) Every draft direction for payment into or payment out of Court shall contain amounts in a single currency.
+> (a) a copy of the judgment or order of court; or
 
-(4) Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made. 
+> (b) the Notice of Acceptance of Money Paid into Court in Form 92 of Appendix A to these Practice Directions.
+
+The Direction to Accountant-General for Payment Out must be in Form 181 of Appendix A to these Practice Directions.
+
+(3) Each draft Direction to Accountant-General for Payment In or Payment Out must contain amounts in a single currency.
+
+(4) Where monies in different currencies are to be paid into or out of Court, separate draft directions must be prepared for each currency in which payment is to be made.
+
+**_Direction to Accountant-General for Payment In or Payment Out_**
+
+(5)	Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
+
+(6)	Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to VITAL_FS_Receivable@vital.gov.sg. Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
+
+**_Request for information on balance of monies paid into Court_**
+
+(7) Where a party wishes to request information on the balance of monies paid into Court, the party or his or her solicitors may send the request, accompanied by the case details and reasons for the request, by email to VITAL_FS_Receivable@vital.gov.sg.
 
 ## 156. Electronic payment of Court fees
 
-(1) Court fees not paid using the Electronic Filing Service may be paid by electronic means.
+**_Implementation of electronic means for payment of Court fees_**
 
-(2) Payment through electronic means includes payment effected by Interbank GIRO (IBG) and NETS. For law firms, payment by IBG would be the most appropriate mode of electronic payment. A law firm using IBG will authorise the Family Justice Court to deduct the fees from its bank account upon lodgement of the prescribed lodgement form. The law firm will receive detailed reports on its IBG payments to facilitate accounting and help with bank reconciliation. 
+(1) Subject to these Practice Directions, all court fees not paid using the Electronic Filing Service may be paid by electronic means.
+
+**_Modes of payment by electronic means_**
+
+(2)	Payment through electronic means includes payment effected by Interbank GIRO (IBG), NETS and selected credit cards. For law firms with standing GIRO arrangements with the Family Justice Courts, payment by IBG would be the most appropriate mode of electronic payment where Court fees are paid over the counter. A law firm using IBG for such purposes will authorise the Family Justice Courts to deduct the fees from its bank account upon lodgement of the prescribed lodgement form.
+
+**_Scope of payment by electronic means_**
+
+(3)	The electronic means of payment cover all Court fees previously collected over the counter and hearing fees in the Family Justice Courts.
+
+**_Registrar’s discretion_**
+
+(4)	Unless otherwise approved by the Registrar, payment of Court fees collected over the counter must be made by electronic means. The Registrar may, in any case, waive the requirement for the payment to be effected by electronic means, on such terms and conditions as the Registrar deems fit.
 
 ## 157. Stamping of documents
 
-(1) Only documents filed in the Family Justice Courts will be stamped at the Family Justice Courts’ stamp office. The amount of stamp fees payable must be indicated on the top right hand corner of the document. In addition, solicitor’s clerks or solicitors must complete and submit the requisition form set out in Form 258 of Appendix A, together with the relevant document(s) to the cashier for stamping. 
+(1) Only documents filed in the Family Justice Courts will be stamped at the Family Justice Courts’ stamp office. The amount of stamp fees payable must be indicated on the top right hand corner of the document. In addition, solicitor’s clerks or solicitors must complete and submit the requisition form set out in Form 258 of Appendix A, together with the relevant document(s) to the cashier for stamping.
 
 (2) Payment should be made with Cash, NETS, local Cashier’s Order and Bank Draft (in Singapore currency). Cashier’s Orders and Bank Drafts should be crossed and made payable to:
 
@@ -2287,8 +2623,5 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 (3) The stamp office shall be opened during the following hours:
 
-    Monday to Friday            -            9.00 am to 1.00 p.m., and 
+    Monday to Friday            -            9.00 am to 1.00 p.m., and
                                              2.00 p.m. to 4.00 p.m.
-
-
-
