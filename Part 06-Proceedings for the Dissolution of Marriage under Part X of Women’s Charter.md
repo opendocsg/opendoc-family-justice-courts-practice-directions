@@ -53,11 +53,11 @@ Rules must state the following information:
 
 > (b) a copy of the Defendant’s Consent to Grant Judgment on Three Years’ Separation in Form 192 of Appendix A to these Practice Directions (where relevant);
 
-> (c) a copy of the bankruptcy search against the Plaintiff showing the results of the search (e.g. whether the search is negative or if it shows that the Plaintiff is a bankrupt or that there are pending bankruptcy proceedings against the Plaintiff); and
+> (c)	a copy of the Ministry of Law Insolvency Office bankruptcy search against the Plaintiff showing the results of the search (e.g. whether the search is negative or if it shows that the Plaintiff is a bankrupt or that there are pending bankruptcy proceedings against the Plaintiff); and
 
-> (d) a copy of the bankruptcy search against the Defendant showing the results of the search (e.g. whether the search is negative or if it shows that the Defendant is a bankrupt or that there are pending bankruptcy proceedings against the Defendant).
+> (d)	a copy of the Ministry of Law Insolvency Office bankruptcy search against the Defendant showing the results of the search (e.g. whether the search is negative or if it shows that the Defendant is a bankrupt or that there are pending bankruptcy proceedings against the Defendant).
 
-(7) The bankruptcy search must be conducted for the year in which the Writ for Divorce is filed as well for the years that the search indicates that there were bankruptcy proceedings against the Plaintiff or Defendant.
+(7) The bankruptcy searches for both the Plaintiff and Defendant must be conducted using the Ministry of Law Insolvency Office e-services.
 
 **_Counterclaim_**
 
@@ -107,7 +107,7 @@ Form 193 of Appendix A;
 
 > > (iv) a copy of the Marriage Certificate;
 
-> > (v) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable. 
+> > (v) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable.
 
 > (c) Request for Setting Down Trial for Action (in Form 29 of Appendix A to these Practice Directions); and
 
@@ -119,7 +119,7 @@ Form 193 of Appendix A;
 
 > (b) Defendant’s Affidavit of Evidence in Chief.
 
-(8) In the event that subparagraph (7) is not complied with, the Court may proceed to make the appropriate orders or directions notwithstanding the failure, such as adjourning the divorce hearing or granting the interim judgment only on the claim. 
+(8) In the event that subparagraph (7) is not complied with, the Court may proceed to make the appropriate orders or directions notwithstanding the failure, such as adjourning the divorce hearing or granting the interim judgment only on the claim.
 
 ## 16. Agreed Matrimonial Property Plan and Proposed Matrimonial Property Plan
 
@@ -131,7 +131,7 @@ Form 193 of Appendix A;
 
 > (b) the Sales Section at HDB Centre, where the HDB matrimonial asset is an Agreement for the Lease of an HDB flat.
 
-(3) Where the HDB matrimonial asset is an HDB flat, the information required to complete the proposed Matrimonial Property Plan in Form 14 may be obtained via the online service provided by HDB at “My HDBPage” found at www.hdb.gov.sg. 
+(3) Where the HDB matrimonial asset is an HDB flat, the information required to complete the proposed Matrimonial Property Plan in Form 14 may be obtained via the online service provided by HDB at “My HDBPage” found at www.hdb.gov.sg.
 
 (4) The relevant CPF statements referred to in rules 46 and 56 of the Family Justice Rules are statements which show—
 
@@ -139,7 +139,7 @@ Form 193 of Appendix A;
 
 > (b) the amount of CPF monies standing in the party’s ordinary, medisave, special and retirement (if any) accounts respectively (i.e. the Statement of Account); and
 
-> (c) whether the CPF member had pledged the HDB flat in lieu of setting aside the Retirement Sum or any part thereof in his / her CPF Retirement Account and if yes, the amount of pledged Retirement Sum and the accrued interest (this is applicable to CPF members aged 55 and above only). 
+> (c) whether the CPF member had pledged the HDB flat in lieu of setting aside the Retirement Sum or any part thereof in his / her CPF Retirement Account and if yes, the amount of pledged Retirement Sum and the accrued interest (this is applicable to CPF members aged 55 and above only).
 
 (5) The additional CPF information referred to in rules 46 and 56 of the Family Justice Rules are statements which show, amongst other things, whether there is any amount which the CPF member must set aside or top up to his CPF Retirement Account when he/she sells, transfers or otherwise disposes of his/her HDB flat and if yes, the amount (this is applicable to CPF members aged 55 and above).
 
@@ -215,7 +215,7 @@ which purpose —
 
 > (d) the draft consent order,  in compliance with Paragraph 116(5) of these Practice Directions, incorporating the terms of the agreement, if any;
 
-> (e) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable; and 
+> (e) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable; and
 
 > (f) Form 203 in Appendix A to these Practice Directions, a copy which shall be sent to the other party at the same time by the filing party.
 
@@ -229,7 +229,7 @@ which purpose —
 
 ## 19. Uncontested Matrimonial Proceedings in open court hearings
 
-(1) In uncontested matrimonial proceedings under sections 105 and 106, Part X of the Women’s Charter (Cap 353), the party filing the Request for Setting Down Action for Trial on an uncontested basis shall, at the same time, file the following: 
+(1) In uncontested matrimonial proceedings under sections 105 and 106, Part X of the Women’s Charter (Cap 353), the party filing the Request for Setting Down Action for Trial on an uncontested basis shall, at the same time, file the following:
 
 > (a) where the plaintiff is proceeding on the statement of claim, the Affidavit of Evidence in Chief in Form 201 in Appendix A to these Practice Directions to attest to the veracity of the contents found in the statement of claim and statement of particulars;
 
@@ -243,7 +243,7 @@ which purpose —
 
 > (f) Form 204 in Appendix A to these Practice Directions, a copy of which shall be sent to the other party at the same time by the filing party.
 
-(2) For the open court hearings of uncontested matrimonial proceedings under section 105 and 106, Part X of the Women’s Charter or pursuant to Paragraphs 18(4) and 18(5) above, there is no need for the plaintiff to be made to confirm every paragraph of the statement of claim and statement of particulars. Counsel will only need to put to the plaintiff in the witness box the questions which will prove the following matters: 
+(2) For the open court hearings of uncontested matrimonial proceedings under section 105 and 106, Part X of the Women’s Charter or pursuant to Paragraphs 18(4) and 18(5) above, there is no need for the plaintiff to be made to confirm every paragraph of the statement of claim and statement of particulars. Counsel will only need to put to the plaintiff in the witness box the questions which will prove the following matters:
 
 > (a) the marriage;
 
@@ -261,9 +261,9 @@ which purpose —
 
 ## 20. Documents for use in trials of contested matrimonial proceedings under Part X of the Women’s Charter (Cap 353)
 
-(1) This Paragraph shall apply to trials of contested matrimonial proceedings. For matrimonial proceedings filed before 1 April 2006, any reference in this Paragraph to the plaintiff and defendant shall be read as a reference to the petitioner and respondent respectively. 
+(1) This Paragraph shall apply to trials of contested matrimonial proceedings. For matrimonial proceedings filed before 1 April 2006, any reference in this Paragraph to the plaintiff and defendant shall be read as a reference to the petitioner and respondent respectively.
 
-(2) To improve the conduct of contested matrimonial proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall be prepared by the respective solicitors of the parties: 
+(2) To improve the conduct of contested matrimonial proceedings and to reduce the time taken in the presentation of cases in Court, the following documents shall be prepared by the respective solicitors of the parties:
 
 > (a) a bundle of documents (an agreed bundle where possible);
 
@@ -309,7 +309,7 @@ which purpose —
 
 ## 21. Affidavit of Assets and Means
 
-(1) The Affidavit of Assets and Means (“AOM”) to be filed pursuant to rule 89 of the Family Justice Rules shall be in Form 206 in Appendix A to these Practice Directions. 
+(1) The Affidavit of Assets and Means (“AOM”) to be filed pursuant to rule 89 of the Family Justice Rules shall be in Form 206 in Appendix A to these Practice Directions.
 
 (2) The list of documents to be produced by each of the parties and exhibited to the AOM shall, where relevant, be as follows:
 
@@ -337,13 +337,13 @@ which purpose —
 
 > (l) documents and receipts to prove the monthly expenses of the party and / or the parties’ child(ren);
 
-> (m) the party’s updated bank passbooks and / or bank statements (including sole and joint accounts) showing the party’s banking transactions and account balances for the last 3 months before the filing of the AOM; and 
+> (m) the party’s updated bank passbooks and / or bank statements (including sole and joint accounts) showing the party’s banking transactions and account balances for the last 3 months before the filing of the AOM; and
 
 > (n) any other documents referred to or supporting the information in the AOM.
 
 (3) In complex cases, parties may apply for further discovery under rule 63 of the Family Justice Rules of documents which are necessary and proportionate to the complexity and value of the case.
 
-## 22. Documents required for the extraction of Certificate of Making Decree Nisi Absolute and Decree Nisi for matrimonial proceedings filed before 15 December 20 03 
+## 22. Documents required for the extraction of Certificate of Making Decree Nisi Absolute and Decree Nisi for matrimonial proceedings filed before 15 December 20 03
 
 (1) For matrimonial proceedings filed before 14 April 2003, solicitors are required to submit the following documents when making an application for the Decree Nisi to be made Absolute:
 
