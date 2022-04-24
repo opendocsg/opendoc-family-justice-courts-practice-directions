@@ -38,7 +38,7 @@
 
 **_Rejection of documents_**
 
-(10) The Court may reject any document through the electronic filing checklist or through any other means if there are errors or if the document does not comply with the Family Justice Rules, the Practice Directions, or any other directions made by the Court. 
+(10) The Court may reject any document through the electronic filing checklist or through any other means if there are errors or if the document does not comply with the Family Justice Rules, the Practice Directions, or any other directions made by the Court.
 
 ## 63. Filing of supporting affidavit
 
@@ -59,7 +59,7 @@ days after the filing of the originating summons.
 
 ## 64. Amendment of originating summons or statement
 
-(1) Where a party seeks to rectify any error in the originating summons, an application may be made by way of a summons to amend the originating summons. The draft amended originating summons in PDF format shall be annexed to the summons. 
+(1) Where a party seeks to rectify any error in the originating summons, an application may be made by way of a summons to amend the originating summons. The draft amended originating summons in PDF format shall be annexed to the summons.
 
 (2) Prior to the order for the grant, where a party seeks to rectify, without leave of court, any error in the Statement, and corresponding amendments are not required to be made to the originating summons, he may do so by amending the information in the electronic form of the Statement. An affidavit stating the reasons for the amendment shall be filed with the amended Statement.
 
@@ -81,10 +81,10 @@ days after the filing of the originating summons.
 
 (7) An application by way of summons for the amendment of an originating summons or a Statement must be supported by an affidavit stating the reasons for the amendment.
 
-(8) Where an order-in-terms is made of the application for leave to amend or for setting aside or revocation, the party shall, within 14 days of the order or such time as may be permitted in the order, file the amended originating summons and the amended Statement by entering the date of the order and the relevant amendments in the appropriate electronic forms. A fresh supporting affidavit under rule 208 of the Family Justice Rules verifying the amended Statement must be filed by the applicant within 14 days of the order or within the time directed by the Court. 
+(8) Where an order-in-terms is made of the application for leave to amend or for setting aside or revocation, the party shall, within 14 days of the order or such time as may be permitted in the order, file the amended originating summons and the amended Statement by entering the date of the order and the relevant amendments in the appropriate electronic forms. A fresh supporting affidavit under rule 208 of the Family Justice Rules verifying the amended Statement must be filed by the applicant within 14 days of the order or within the time directed by the Court.
 
 (9) The new grant shall not be extracted until after the amended originating summons, amended Statement and supporting affidavit have been filed.
- 
+
 ## 65. Affidavits of Foreign Law
 
 (1) Where evidence of the law of a country outside Singapore is required on any application for a grant, the affidavit of any person who practises, or has practised, as a barrister or advocate in that country and who is conversant with its law is to be filed using the electronic filing checklist at the time the checklist is generated.
@@ -103,13 +103,13 @@ days after the filing of the originating summons.
 
 > (c) the shares of the minor beneficiaries (if any) in accordance with the law of the place where the deceased died domiciled.
 
-(4) For an application for a grant of letters of administration with will annexed, the person making the affidavit of foreign law should state the information required in sub- paragraphs (2) and (3). 
+(4) For an application for a grant of letters of administration with will annexed, the person making the affidavit of foreign law should state the information required in sub- paragraphs (2) and (3).
 
 ## 66. Filing of schedules of property for non-dutiable estates where death occurred before 15 February 2008
 
 (1) In addition to the procedures and Forms SC1 to SC8 issued by the Commissioner of Estate Duties [which are available on the Inland Revenue Authority of Singapore website ([http://www.iras.gov.sg](http://www.iras.gov.sg))], the following Directions shall apply in cases where the death occurred before 15 February 2008 and no estate duty is payable:
 
-> (a) the executor or administrator must first determine, based on the relevant checklist (Form SC2 or SC3), that estate duty is not payable on the estate; 
+> (a) the executor or administrator must first determine, based on the relevant checklist (Form SC2 or SC3), that estate duty is not payable on the estate;
 
 > (b) upon confirmation that estate duty is not payable, the executor or administrator shall then file a statutory declaration (Form SC1) together with the checklist (Form SC2 or SC3);
 
@@ -179,9 +179,9 @@ days after the filing of the originating summons.
 
 (2) In cases where estate duty is payable on the estate, a letter or certificate from the Commissioner of Estate Duties confirming the fact stated in sub-paragraph (1)(c) must be exhibited in the supporting affidavit.
 
-(3) In cases where death occurred before 15 February 2008 and no estate duty is payable on the estate, the administrator(s) must state in the affidavit that no estate duty is payable and that the Schedule of Property Forms have been forwarded to the Court. 
+(3) In cases where death occurred before 15 February 2008 and no estate duty is payable on the estate, the administrator(s) must state in the affidavit that no estate duty is payable and that the Schedule of Property Forms have been forwarded to the Court.
 
-(4) The consents in writing of all adult beneficiaries to the dispensation of sureties, duly signed in the presence of a solicitor or any person before whom an affidavit can be sworn or affirmed, shall be filed with the application for dispensation of sureties. 
+(4) The consents in writing of all adult beneficiaries to the dispensation of sureties, duly signed in the presence of a solicitor or any person before whom an affidavit can be sworn or affirmed, shall be filed with the application for dispensation of sureties.
 
 ## 70. Caveat and probate application searches to be conducted when requesting to extract grant
 
@@ -191,7 +191,7 @@ days after the filing of the originating summons.
 
 (3) For deaths occurring before 1 January 2015, the applicant is required to annex the search reports from the Supreme Court, Family Justice Courts and State Courts. For deaths occurring on or after 1 January 2015, the applicant is required to annex the search reports from the Family Justice Courts. The applicant is required to annex the search reports for the year in which the request to extract a grant is filed as well as the search reports for the years that the litigation search indicates there were applications or caveats filed with respect to the estate.
 
-(4) The request to extract a grant shall contain the certificate in accordance with rule 237(3) of the Family Justice Rules. 
+(4) The request to extract a grant shall contain the certificate in accordance with rule 237(3) of the Family Justice Rules.
 
 ## 71. Amended grants and re-grants
 
