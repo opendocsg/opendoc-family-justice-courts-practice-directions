@@ -2,7 +2,7 @@
 
 ## 45. Proceedings under the Mental Capacity Act (Cap 177A)
 
-(deleted) 
+(deleted)
 
 ## 46. Documents to be filed
 
@@ -14,7 +14,7 @@
 
 ## 47. Where permission is not required to make an application
 
-(1) The definition of “P” in rule 175 of the Family Justice Rules shall be applicable in these Practice Directions. “P” means a person who lacks or, so far as consistent with the context, is alleged to lack capacity (within the meaning of the Mental Capacity Act) and to whom any proceedings under the Mental Capacity Act (Cap. 177A) relate. 
+(1) The definition of “P” in rule 175 of the Family Justice Rules shall be applicable in these Practice Directions. “P” means a person who lacks or, so far as consistent with the context, is alleged to lack capacity (within the meaning of the Mental Capacity Act) and to whom any proceedings under the Mental Capacity Act (Cap. 177A) relate.
 
 (2) If the plaintiff or applicant falls or believes himself to fall within the categories of persons who do not require permission to file an application, this shall be stated in the supporting affidavit. Relevant documents, such as copies of birth certificates or marriage certificates, of the lasting powers of attorney or of the court orders appointing the deputies shall be exhibited to support the averment that no permission is required for an application under the Mental Capacity Act.
 
@@ -92,7 +92,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 (2) The certificate of notification filed under rule 181(5) of the Family Justice Rules shall be in Form 223 in Appendix A to these Practice Directions.
 
-(3) Under the Mental Capacity Act, notification of P shall be the norm rather than the exception. However, in certain appropriate circumstances, the person required to notify P may apply to Court for an order to dispense with the requirement to notify P. Such an application would be appropriate where, for example, P is in a permanent vegetative state or a minimally conscious state, or where notification is likely to cause significant and disproportionate distress to P. The reasons for seeking dispensation of notification shall be stated in the supporting affidavit of the plaintiff or applicant. 
+(3) Under the Mental Capacity Act, notification of P shall be the norm rather than the exception. However, in certain appropriate circumstances, the person required to notify P may apply to Court for an order to dispense with the requirement to notify P. Such an application would be appropriate where, for example, P is in a permanent vegetative state or a minimally conscious state, or where notification is likely to cause significant and disproportionate distress to P. The reasons for seeking dispensation of notification shall be stated in the supporting affidavit of the plaintiff or applicant.
 
 ## 53. Responding to an application
 
@@ -100,7 +100,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 (2) If a relevant person served with an application consents to the application, his written consent must be attested by a solicitor, a Commissioner for Oaths, a notary public or any person for the time being authorised by law in the place where the document is executed to administer oaths and must be in Form 221 in Appendix A to these Practice Directions. The written consent should be filed by the plaintiff or applicant within 21 days after the date on which the relevant person was served with the application.
 
-(3) Where a person who was not served with any application (whether listed as a relevant person or otherwise in the supporting affidavit of the plaintiff or applicant) wishes to be heard in the proceedings, he must apply to be joined as a party to the proceedings in Form 4 in Appendix A to these Practice Directions. 
+(3) Where a person who was not served with any application (whether listed as a relevant person or otherwise in the supporting affidavit of the plaintiff or applicant) wishes to be heard in the proceedings, he must apply to be joined as a party to the proceedings in Form 4 in Appendix A to these Practice Directions.
 
 ## 54. Applications involving the appointment of deputies
 
@@ -126,7 +126,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 (8A) If there is more than one plaintiff or applicant or proposed deputy, a single affidavit should be made by all the plaintiffs, applicants or proposed deputies. The plaintiffs, applicants or proposed deputies should not file separate supporting affidavits.
 
-(8B) The following search results must be exhibited in the supporting affidavit: 
+(8B) The following search results must be exhibited in the supporting affidavit:
 
 > (a) Office of the Public Guardian search result showing if P has registered a Lasting Power of Attorney;
 
@@ -138,7 +138,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 (9) In order to assist the Court, the medical report shall —
 
-> (a) distinguish clearly between observations or conclusions based on information given to the doctor and those that are based on the doctor’s examination of P; : 
+> (a) distinguish clearly between observations or conclusions based on information given to the doctor and those that are based on the doctor’s examination of P; :
 
 > (b) contain a clear opinion as to whether P lacks capacity in relation to the matters specified in the application;
 
@@ -152,13 +152,13 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 **The affidavit by the successor deputy or deputies**
 
-(10) If the plaintiff or applicant seeks to apply for the appointment of a successor deputy or deputies, the application must also be accompanied by an affidavit of the proposed successor deputy or deputies in Form 220 in Appendix A to these Practice Directions. 
+(10) If the plaintiff or applicant seeks to apply for the appointment of a successor deputy or deputies, the application must also be accompanied by an affidavit of the proposed successor deputy or deputies in Form 220 in Appendix A to these Practice Directions.
 
 ## 55. Application subsequent to the appointment of deputy
 
 (1) An application to vary an order made in mental capacity proceedings shall be made by way of summons supported by affidavit and served on every party to the proceedings who had initially been served with the originating summons in accordance with Paragraph 49 of these Practice Directions.
 
-(2) If an application under sub-paragraph (1) is filed more than 6 months from the date of the order, the application must be served personally on every party to the proceedings. If such an application is filed 6 months or less from the date of the order, the service on every party to the proceedings may be by way of ordinary service. Service of an application under sub-paragraph (1) on every relevant person shall be by way of ordinary service, unless directed by the Court. Proof of service on the defendant(s) and the relevant person(s) may be given in a manner provided for by Paragraph 49(4) of these Practice Directions.
+(2) If an application under sub-paragraph (1) is filed more than 6 months from the date of the order, the application must be served personally on every party to the proceedings. If such an application is filed 6 months or less from the date of the order, the service on every party to the proceedings may be by way of ordinary service. Service of an application under sub-paragraph (1) on every relevant person shall be by way of ordinary service, unless directed by the Court. Proof of service on the defendant(s) and the relevant person(s) may be given in a manner provided for by Paragraph 49(5) of these Practice Directions.
 
 (3) All applications together with the supporting affidavit shall be served on the Public Guardian within 7 days after the date on which the application is filed.
 
@@ -200,7 +200,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 > (c) any prospective beneficiary under P’s intestacy where P has no existing will; and
 
-> (d) any donee under a lasting power of attorney executed by P or any Court- appointed deputy of P. 
+> (d) any donee under a lasting power of attorney executed by P or any Court- appointed deputy of P.
 
 (6) Once an order is made for a statutory will, the applicant must file a copy of the will for sealing by the Court. The statutory will is considered valid only with the seal of Court.
 
@@ -220,7 +220,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 > (c) appoint a new litigation representative in place of an existing one.
 
-(5) An application for any of the orders referred to in sub-paragraph (4) must be supported by affidavit. If the order sought is the substitution of a new litigation representative for an existing one, the evidence must satisfy the Court of the matters set out in rule 184(5)(a) of the Rules of Court.
+(5) An application for any of the orders referred to in sub-paragraph (4) must be supported by affidavit. If the order sought is the substitution of a new litigation representative for an existing one, the evidence must satisfy the Court of the matters set out in rule 184(5)(a) of the Family Justice Rules.
 
 ## 59. Where P ceases to lack capacity or dies
 
@@ -236,7 +236,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 > (c) any other person who is a party to the proceedings.
 
-(3) The application should be supported by evidence that P no longer lacks capacity to make decisions in relation to the matter or matters to which the proceedings relate. 
+(3) The application should be supported by evidence that P no longer lacks capacity to make decisions in relation to the matter or matters to which the proceedings relate.
 
 **Applications where proceedings have concluded**
 
@@ -250,7 +250,7 @@ If there is no such person to the best of the plaintiff’s or applicant’s kno
 
 **Final report by deputy**
 
-(7) The Public Guardian may require a deputy to submit a final report upon P ceasing to lack capacity or P’s death. If security has been ordered by the Court, the Court must be satisfied that the Public Guardian either does not require a final report or is satisfied with the final report provided by the deputy before the said security can be discharged. 
+(7) The Public Guardian may require a deputy to submit a final report upon P ceasing to lack capacity or P’s death. If security has been ordered by the Court, the Court must be satisfied that the Public Guardian either does not require a final report or is satisfied with the final report provided by the deputy before the said security can be discharged.
 
 ## 60. Applications subsequent to the filing of the originating summons in mental capacity proceedings
 
@@ -266,15 +266,15 @@ All applications subsequent to the filing of the originating summons in any ment
 
 (4) An Order of Court made under Rule 176A of the Family Justice Rules shall be in the form made available in IFAMS and will be sent by the Court either by electronic mail or such other means as deemed appropriate by the Court.
 
-## 61A.  Uncontested applications for certain specified matters 
+## 61A.  Uncontested applications for certain specified matters
 
-(1) A specified matter application under Rule 176A of the Family Justice Rules shall be made via the IFAMS portal under “Mental Capacity Act Application”. 
+(1) A specified matter application under Rule 176A of the Family Justice Rules shall be made via the IFAMS portal under “Mental Capacity Act Application”.
 
 (2) The specified matters to which Rule 176A of the Family Justice Rules apply are the appointment of a Deputy/Deputies to make decisions on P’s behalf in relation to one or more of the following matters:
 
-> (a) To consent to medical treatment for P; 
+> (a) To consent to medical treatment for P;
 
-> (b) To consent to dental treatment for P. 
+> (b) To consent to dental treatment for P.
 
 > (c) To decide where and with whom P is to live;
 
@@ -329,11 +329,10 @@ Fund Board;
 >
 > >> (iv) To sell P’s motor vehicle.
 >
-> (y) To receive up to $60,000 of P’s monies from the Central Provident Fund Board in addition to monies paid to P on a regular basis by the Central Provident Fund Board. 
+> (y) To receive up to $60,000 of P’s monies from the Central Provident Fund Board in addition to monies paid to P on a regular basis by the Central Provident Fund Board.
 
-(3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:- 
+(3) A medical report filed by P’s doctor in support of a specified matter application under Rule 176A is to be filed through the IFAMS portal under “Mental Capacity Act Application”. In order to assist the Court, the medical report must be current and shall not be made:-
 
-> (a) more than 6 months before the date of the application; and 
+> (a) more than 6 months before the date of the application; and
 
-> (b) more than 3 months after P was last examined by P’s doctor. 
-
+> (b) more than 3 months after P was last examined by P’s doctor.

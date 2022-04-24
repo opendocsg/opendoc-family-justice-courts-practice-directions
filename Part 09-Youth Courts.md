@@ -44,7 +44,7 @@ Magistrate's complaints involving infringement of copyright/trademarks must be s
 
 (3) Service of summons by solicitors' clerks
 
-> (a) Solicitors are informed that any summons issued pursuant to Section 153 Criminal Procedure Code 2010 must be served at least 7 days before the return date of the summons if such service is undertaken by the firm’s clerk. This is because the authorization to serve will lapse 7 days before the return date. 
+> (a) Solicitors are informed that any summons issued pursuant to Section 153 Criminal Procedure Code 2010 must be served at least 7 days before the return date of the summons if such service is undertaken by the firm’s clerk. This is because the authorization to serve will lapse 7 days before the return date.
 
 > (b) If the summons is already served on the respondent 7 days before the mention date, the attached summons must be returned to the Youth Court Registry immediately after service. Failure to do so will result in the summons not being listed for mention.
 
@@ -54,7 +54,7 @@ Magistrate's complaints involving infringement of copyright/trademarks must be s
 
 (1) This paragraph shall apply only in respect of Youth Courts proceedings.
 
-(2) An application for a copy of any part of the record of any proceedings for a case registered via the Integrated Criminal case filing and Management System (“ICMS”) must be made via the ICMS portal under “Request for Court Records”. 
+(2) An application for a copy of any part of the record of any proceedings for a case registered via the Integrated Criminal case filing and Management System (“ICMS”) must be made via the ICMS portal under “Request for Court Records”.
 
 (3) Applications for all other cases must be made in Form 211 in Appendix A to these Practice Directions.
 

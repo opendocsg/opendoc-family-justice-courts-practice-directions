@@ -54,7 +54,7 @@
 
 ## 28. Amendment of Originating Summons and Statement
 
-(1) Where the Court makes an order granting the applicants leave to amend the originating summons, and where the amendments relate to the particulars of the applicants and / or infant or any information which also appear in the Statement, the applicants shall within 7 working days amend the Statement by amending the information in the appropriate electronic template. The applicant(s) shall also file an affidavit averring to the truth of the contents of the amended statement. The amended originating summons, Statement and the affidavit in support shall be served on the guardian in adoption. 
+(1) Where the Court makes an order granting the applicants leave to amend the originating summons, and where the amendments relate to the particulars of the applicants and / or infant or any information which also appear in the Statement, the applicants shall within 7 working days amend the Statement by amending the information in the appropriate electronic template. The applicant(s) shall also file an affidavit averring to the truth of the contents of the amended statement. The amended originating summons, Statement and the affidavit in support shall be served on the guardian in adoption.
 
 (2) Where the Court makes an order granting the applicants leave to amend the Statement, the applicants shall within 7 working days amend the Statement by amending the information in the appropriate electronic template. The applicant(s) shall also file an affidavit averring to the truth of the contents of the amended Statement. The amended Statement and the affidavit in support shall be served on the guardian in adoption.
 

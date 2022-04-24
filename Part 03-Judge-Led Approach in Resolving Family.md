@@ -42,7 +42,7 @@
 
 > (c) setting a hearing date early;
 
-> (d) minimising unnecessary interlocutory steps by permitting only interlocutory steps that are directed to identifying, narrowing or 
+> (d) minimising unnecessary interlocutory steps by permitting only interlocutory steps that are directed to identifying, narrowing or
 resolving the issues really in dispute between the parties; and
 
 > (e) exploring options for alternative dispute resolution as early as practicable.
@@ -109,7 +109,7 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 
 (1) This Practice Direction is issued to assist judges and practitioners dealing with family proceedings affecting children in which direct judicial communications may be beneficial. It is not intended to change the current rules or procedure or to affect the substantive rights of the parties, but is simply intended to facilitate cooperation in international cases, where appropriate.
 
-(2) The Liaison Judges of Singapore are appointed by the Chief Justice, and it is part of their role to receive and, when necessary, channel incoming judicial communications and initiate or facilitate outgoing communications. The current appointees are the Presiding Judge of the Family Justice Courts and a Judge/Judicial Commissioner of the Family Division of the High Court. Further details of the Liaison Judges can be found on the Family Justice Court's website at [https://www.familyjusticecourts.gov.sg](https://www.familyjusticecourts.gov.sg).
+(2) The Liaison Judges of Singapore are appointed by the Chief Justice, and it is part of their role to receive and, when necessary, channel incoming judicial communications and initiate or facilitate outgoing communications. The current appointees and further details of the Liaison Judges can be found on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
 (3) Matters which may be the subject of direct judicial communications include, for example:
 
@@ -143,7 +143,7 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 
 (8) Communications must not compromise the independence of the judge seised in reaching his or her own decision on the matter at issue. Any discussion about the merits of the case should be avoided.
 
-(9) For the avoidance of doubt, parties remain entitled under the _Rules of Court_ to call upon expert witnesses to prove or disprove the foreign law. The Court will take into account all the available evidence before arriving at a decision.
+(9) For the avoidance of doubt, parties remain entitled under the Family Justice Rules to call upon expert witnesses to prove or disprove the foreign law. The Court will take into account all the available evidence before arriving at a decision.
 
 **_Procedure and Safeguards_**
 
@@ -171,7 +171,7 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 
 (14) The above commonly accepted procedural safeguards should be adopted subject to Singapore’s legislation and rules.
 
-(15) In special or urgent circumstances where parties were not notified in advance of the nature of the proposed communications, the judge should provide written reasons to the parties as to why there was no notification as soon as practicable. 
+(15) In special or urgent circumstances where parties were not notified in advance of the nature of the proposed communications, the judge should provide written reasons to the parties as to why there was no notification as soon as practicable.
 
 (16) If any party objects to the proposed communications, the judge should direct submissions be lodged from all parties, and if necessary, should direct an oral hearing, before ruling on the matter, giving short reasons for such ruling.
 
@@ -201,13 +201,13 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 
 (21) The time and place for communications between the courts should be to the satisfaction of both courts.
 
-(22) Personnel other than judges in each court may communicate fully with each other to establish appropriate arrangements for the communication without the necessity for participation of counsel unless otherwise directed by either of the courts. 
+(22) Personnel other than judges in each court may communicate fully with each other to establish appropriate arrangements for the communication without the necessity for participation of counsel unless otherwise directed by either of the courts.
 
 **_The Form of Communications and Language Difficulties_**
 
 (23) Judges should use the most appropriate technological facilities in order to communicate as efficiently and as swiftly as possible.
 
-(24) The initial method and language of communication should, as far as possible, respect the preferences, if any, indicated by the intended recipient in the list of members of the Liaison Judges. Further communications should be carried out using the initial method and language of communication unless otherwise agreed by the judges concerned. 
+(24) The initial method and language of communication should, as far as possible, respect the preferences, if any, indicated by the intended recipient in the list of members of the Liaison Judges. Further communications should be carried out using the initial method and language of communication unless otherwise agreed by the judges concerned.
 
 (25) Where two judges do not understand a common language, and translation or interpretation services are required, such services could be provided by the court or the Central Authority in the country from which the communication is initiated.
 
@@ -235,7 +235,7 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 
 (35) Oral communications are encouraged where judges involved come from jurisdictions which share the same language.
 
-(36) Where the judges do not speak the same language, one or both of them, subject to an agreement between the two judges concerned, should have at their disposal a competent and neutral interpreter who can interpret to and from their language. 
+(36) Where the judges do not speak the same language, one or both of them, subject to an agreement between the two judges concerned, should have at their disposal a competent and neutral interpreter who can interpret to and from their language.
 
 (37) Where necessary, personal information concerning the parties should be anonymised for the purpose of oral communication.
 

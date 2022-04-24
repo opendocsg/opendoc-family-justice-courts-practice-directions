@@ -48,7 +48,7 @@
 
 > (a) Advocates and solicitors acting for complainants shall file a written complaint which complies with the requirements of rule 131B(1)(a) of the Family Justice Rules.
 
-> (b) Complainants acting in person who access the system as authorised users using their SingPass shall file a written complaint which complies with the requirements of rule 131BA(2)(a) of the Family Justice Rules. 
+> (b) Complainants acting in person who access the system as authorised users using their SingPass shall file a written complaint which complies with the requirements of rule 131BA(2)(a) of the Family Justice Rules.
 
 > (c) Written complaints filed by an authorised user described under paragraph 26C(2)(b) to (e) of these Practice Directions on behalf of a complainant shall comply with the requirements of rule 131BA(2)(b) of the Family Justice Rules.
 
@@ -66,13 +66,13 @@
 
 ## 26F. Documents which cannot be converted into electronic format
 
-(1) If a document cannot be converted in whole or in part into an electronic format for any reason, the hard copy of the document must be tendered to the Court. 
+(1) If a document cannot be converted in whole or in part into an electronic format for any reason, the hard copy of the document must be tendered to the Court.
 
 (2) A document which is not wholly converted into an electronic format without good reason may be rejected as the Court sees fit.
 
 ## 26G. Amendment of documents
 
-Where a document is required to be amended, a fresh copy of the document must be produced and e-filed, regardless of the number and/or length of the amendments sought to be made. 
+Where a document is required to be amended, a fresh copy of the document must be produced and e-filed, regardless of the number and/or length of the amendments sought to be made.
 
 ## 26H. Limits on size and number of documents submitted using electronic filing service
 
@@ -94,7 +94,7 @@ Where a document is required to be amended, a fresh copy of the document must be
 
 > > (i) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 
-> > (ii) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in Paragraph 90(8)(c) of these Practice Directions; 
+> > (ii) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in Paragraph 90(8)(c) of these Practice Directions;
 
 > > (iii) be paginated consecutively at the top right hand corner of each page (for which purpose the pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle); and
 
@@ -150,7 +150,7 @@ Where a document is required to be amended, a fresh copy of the document must be
 
 ## 26M. Showing proof of payment
 
-(1) Where an order for enforcement of maintenance arrears provides for a party to show proof of payment via the IFAMS portal, the party required to show proof of payment may do so via the IFAMS portal under “Show proof of payment of maintenance”. 
+(1) Where an order for enforcement of maintenance arrears provides for a party to show proof of payment via the IFAMS portal, the party required to show proof of payment may do so via the IFAMS portal under “Show proof of payment of maintenance”.
 
 (2) The Court will notify the party required to show proof of payment through either one or more of the following modes of communication - letter, electronic mail or mobile phone text message if the proof of payment is satisfactory. The notification of the Court’s acceptance of proof of payment will not be communicated orally over the telephone.
 

@@ -4,7 +4,7 @@
 
 (1) Pursuant to section 26(9) of the Family Justice Act, the court may direct parties to attend mediation for maintenance matters or counseling for family violence matters to encourage and assist parties in reaching a resolution or to narrow the issues in contention.
 
-(2) Parties must personally attend and be prepared to discuss their cases during the mediation or the counseling session. Parties in maintenance proceedings should bring the documents set out at paragraph 25 to facilitate discussion during the mediation. 
+(2) Parties must personally attend and be prepared to discuss their cases during the mediation or the counseling session. Parties in maintenance proceedings should bring the documents set out at paragraph 25 to facilitate discussion during the mediation.
 
 (3) Mediation and counseling will be conducted on a without prejudice basis. All communications made in the course of these sessions will be treated in strict confidence and will not be admissible in any court. As such, the mediation notes will not be made available to the parties.
 
@@ -54,13 +54,13 @@
 
 (6) The party applying for a Summons to a Witness to give evidence must provide the reasons for the application. Any application which does not comply with the directions in this part may be rejected. The approval of such applications shall be at the discretion of the Court.
 
-## 24A. Service of summons under Part VIII of Women’s Charter (except an application made under section 69 or 70) 
+## 24A. Service of summons under Part VIII of Women’s Charter (except an application made under section 69 or 70)
 
-(1)	The prior written consent of the party referred to in rule 131A(5)(a) of the Family Justice Rules shall be in Form 207 of Appendix A to these Practice Directions. This Form can be submitted in its physical form or by using the QR Code provided for this purpose which is made available at the Court premises and also found at [www.familyjusticecourts.gov.sg ](http://www.familyjusticecourts.gov.sg).
+(1)	The prior written consent of the party referred to in rule 131A(5)(a) of the Family Justice Rules shall be in Form 207 of Appendix A to these Practice Directions. This Form can be submitted in its physical form or by using the QR Code provided for this purpose which is made available at the Court premises and also found on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
-(2)	In the event of any change to the party’s details in Form 207, such as email address; mobile telephone number; or if there is a change in the party’s position with regard to his or her consent for service of the summons; it shall be for the party to notify the Court of the changes within seven (7) days of such change by email sent to: FJCOURTS_MAINTPOS@FJCourts.gov.sg. The said email must make reference to the relevant case numbers and be copied to the other party in the proceedings. If there is revocation of consent, the date of revocation shall be taken to be the date of the email unless it is otherwise specified to take effect on a later date. 
+(2)	In the event of any change to the party’s details in Form 207, such as email address; mobile telephone number; or if there is a change in the party’s position with regard to his or her consent for service of the summons; it shall be for the party to notify the Court of the changes within seven (7) days of such change by email sent to: FJCOURTS_MAINTPOS@FJCourts.gov.sg. The said email must make reference to the relevant case numbers and be copied to the other party in the proceedings. If there is revocation of consent, the date of revocation shall be taken to be the date of the email unless it is otherwise specified to take effect on a later date.
 
-(3)	The party will thereafter receive an acknowledgement from the Family Justice Courts. 
+(3)	The party will thereafter receive an acknowledgement from the Family Justice Courts.
 
 ## 25. Documents and affidavits in respect of maintenance proceedings under Part VIII of Women’s Charter (Cap. 353)
 
