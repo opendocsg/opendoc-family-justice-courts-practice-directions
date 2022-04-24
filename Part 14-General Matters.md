@@ -364,7 +364,7 @@ For example:
 
 (3) Please take note that the court forum prefix will not be shown in the Electronic Queue Management System. Counsel and parties should disregard the court forum prefix when taking their queue numbers.
 
-## 165. The Electronic Queue Management System
+## 165. The Electronic Queue Management System and Central Display Management System
 
 (1) The Electronic Queue Management System (EQMS) is used for hearings and conferences in the Family Justice Courts except the following:-
 
