@@ -2,7 +2,7 @@
 
 ## 3. Documents to be filed at the Registry of the Family Justice Courts
 
-(1) Subject to paragraph (4), all documents filed on or after 1st October 2014 relating to the proceedings pursuant to the following legislation are to be filed in the Family Justice Courts Registry:   
+(1) Subject to paragraph (4), all documents filed on or after 1st October 2014 relating to the proceedings pursuant to the following legislation are to be filed in the Family Justice Courts Registry:
 
 > (a) section 53 of Administration of Muslim Law Act (Cap. 3);
 
@@ -75,7 +75,7 @@
 
 Tel: (Contact telephone number.)
 
-Email: (Email address.)  
+Email: (Email address.)
 
 Ref: (File reference of law firm.)”
 ```
@@ -108,7 +108,7 @@ which are filed by more than one party.
 
 > (a) where a party is represented by a litigation representative or guardian in adoption or deputy, sub-paragraphs (1) to (3) shall apply to the litigation representative or guardian in adoption or deputy as if he or she was a party to the proceedings, and the identification numbers of the party, the litigation representative and/or guardian in adoption and/or deputy must be stated below or after the name of each, as appropriate;
 
-> (b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, sub-paragraphs (1) to (3) shall apply to the deceased person as if he were a party; and 
+> (b) where parties are involved in any proceedings as the personal representatives of the estate of a deceased person, sub-paragraphs (1) to (3) shall apply to the deceased person as if he were a party; and
 
 > (c) where more than one identification number applies to any party, person, entity or property, all the identification numbers shall be stated in any convenient order.
 
@@ -150,7 +150,7 @@ which are filed by more than one party.
 
 **_Meaning of document_**
 
-(9) For avoidance of doubt, the words “document” and “documents” when used in this Paragraph include all originating processes filed in the Family Justice Courts. 
+(9) For avoidance of doubt, the words “document” and “documents” when used in this Paragraph include all originating processes filed in the Family Justice Courts.
 
 **_Non-compliance_**
 
