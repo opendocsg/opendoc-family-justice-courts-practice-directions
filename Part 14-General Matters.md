@@ -12,11 +12,11 @@
 
 (2) To request the urgent hearing of such an application, the applicant should contact the Weekend / Public Holiday Duty Registrar at 97241402 during the hours of 9 a.m. to 6 p.m on Saturdays, Sundays and public holidays.
 
-(3) The Duty Registrar will only arrange for the hearing of the application before the Duty Judge if the applicant satisfies the Duty Registrar that the case meets all the criteria stipulated in sub-paragraph (1).
+(3) The Duty Registrar will only arrange for the hearing of the application before the Duty Judge if the applicant satisfies the Duty Registrar that the case meets all the criteria stipulated in sub-paragraph (1) and the application is so urgent that it cannot be heard the next working day. The Duty Registrar or Duty Judge may also give directions for the urgent hearing to take place remotely or, alternatively, with parties attending in person at any place as directed.
 
-(4) If the applicant is unable to file the application and supporting affidavits via the electronic filing service (EFS) before the hearing, he / she must give a signed written undertaking to the Court to do so in accordance with Form 259 in Appendix A to these Practice Directions before the application will be heard. The applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of court (Form 260 in Appendix A to these Practice Directions) for the ex parte hearing.
+(4) The Duty Registrar or the hearing judge may, in lieu of filing, direct the applicant to tender the application and supporting documents by email or in hard copies. In this case, the applicant is to provide a signed undertaking in accordance with Form 259 in Appendix A to these Practice Directions that all documents (including the originating process if applicable) will be filed in Court the next available working day. Where the Duty Registrar or the hearing judge directs the applicant to provide hard copies of the relevant documents, the applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of court (Form 260 in Appendix A to these Practice Directions) for the ex parte hearing.
 
-(5) On an ex parte application for an injunction against the permanent removal of a child from Singapore, the Court would require the applicant, to give an undertaking to compensate any party for any loss caused as a result of the application. The Court may require the undertaking as to damages to be supported by — 
+(5) On an ex parte application for an injunction against the permanent removal of a child from Singapore, the Court would require the applicant, to give an undertaking to compensate any party for any loss caused as a result of the application. The Court may require the undertaking as to damages to be supported by —
 
 > (a) making payment into Court;
 
@@ -48,9 +48,9 @@
 
 > (c) provide specific address of execution and if the execution is at an airport (whether Singapore Changi or Seletar), solicitor/applicant shall provide the details of flight and terminal number (boundary of seizure at the airport is restricted to public area); and
 
-> (d) engage and pay for the costs of an auxiliary police officer to accompany the Bailiff to the place of execution, subject to the condition that where the person against whom the execution is to be carried out or the child / any of the children concerned is a female, the auxiliary police officer shall be a female officer. 
+> (d) engage and pay for the costs of an auxiliary police officer to accompany the Bailiff to the place of execution, subject to the condition that where the person against whom the execution is to be carried out or the child / any of the children concerned is a female, the auxiliary police officer shall be a female officer.
 
-(9) For the avoidance of doubt, every applicant must comply with Paragraph 83 of these Practice Directions. 
+(9) For the avoidance of doubt, every applicant must comply with Paragraph 83 of these Practice Directions.
 
 ## 159. Duty Registrar and Duty Magistrate
 
@@ -68,7 +68,7 @@
 
 (3) The duty hours shall be as follows:
 
-    Mondays to Fridays              -          9:30 a.m. to 1:00 p.m., and 
+    Mondays to Fridays              -          9:30 a.m. to 1:00 p.m., and
                                                   2:15 p.m. to 5:30 p.m.
 
 (4) Only solicitors (or, where a party is not represented, a litigant in person) shall appear before the Duty Registrar.
@@ -119,47 +119,107 @@
 
 > >  (ii) An affidavit stating the details of the written notification(s) sent to the other party and showing the other party’s default in signing the relevant documents.
 
-(14) The sealed copy of the order of court empowering the Registrar to sign will be returned after the signing of the documents. 
+(14) The sealed copy of the order of court empowering the Registrar to sign will be returned after the signing of the documents.
+
+## 159A. Request for urgent hearing before Duty Judge
+
+***Request for urgent hearing before Duty District Judge or Assistant Registrar of the Family Justice Courts***
+
+(1) Save for attendances before the Duty Registrar or Duty Magistrate listed in Paragraph 159 of these Practice Directions, this paragraph applies to all other requests for urgent hearing (including ex parte applications) before the Duty District Judge or Assistant Registrar.
+
+(2)	An applicant requesting for an urgent hearing before a Duty District Judge or Assistant Registrar is required to file the request through the Electronic Filing Service. The request should be accompanied by the completed Form 270 of Appendix A of these Practice Directions. A copy of Form 270 should be served on each respondent to the application at the time of filing, unless the application is an ex parte application and service of Form 270 would or might defeat the purpose of the application. The Registry will update the applicant or parties (whichever applicable) on the outcome of the request.
+
+(3)	The applicant should prepare skeletal submissions for the urgent hearing before the Duty District Judge, and file the skeletal submissions at the same time as Form 270. A copy of the skeletal submissions should be served on each respondent to the application at the time of filing, unless the application is an ex parte application and service of the skeletal submissions would or might defeat the purpose of the application.
+
+(4)	If, due to urgency, the applicant is unable to file or serve Form 270 and/or the skeletal submissions before attending before the Duty District Judge, the applicant should provide a copy each of Form 270 and the skeletal submissions to each respondent to the application when the parties attend before the Duty District Judge. Each such copy of Form 270 or the skeletal submissions must be a hard copy, if the parties attend before the Duty District Judge physically, or in soft copy, if the parties attend before the Duty District Judge by live video or live television link. Thereafter, Form 270 and the skeletal submissions should be filed as soon as possible and, in any event, no later than the next working day after the attendance before the Duty District Judge, unless the Court directs otherwise. If any respondent does not attend before the Duty District Judge, Form 270 and the skeletal submissions should be served on that respondent as soon as possible after the hearing before the Duty District Judge, unless the Court directs otherwise.
+
+(5)	In cases of extreme urgency where the applicant is unable to comply with the requirement to file or provide a copy of the skeletal submissions by the time of the urgent hearing before the Duty District Judge, the applicant should seek dispensation of that requirement and the supporting reasons for the dispensation request should be included in Form 270 filed pursuant to sub-paragraph (2).
+
+(6)	The applicant’s skeletal submissions should contain the following:
+
+<ul type="*">
+
+<li>(a)	the relevant facts;</li>
+
+<li>(b)	the applicable law;</li>
+
+<li>(c)	the reason(s) for requesting an urgent hearing; and</li>
+
+<li>(d)	a summary of arguments.</li>
+
+</ul>
+
+(7)	The applicant’s skeletal submissions should be in the following format:
+
+<ul type="*">
+
+<li>(a)	all pages should be paginated;</li>
+
+<li>(b)	the skeletal submissions should not exceed 10 pages (excluding the cover page and backing page);</li>
+
+<li>(c)	the minimum font size to be used is Times New Roman 12 or its equivalent;</li>
+
+<li>(d)	the print of every page must be double-spaced; and</li>
+
+<li>(e)	every page must have a margin on all 4 sides, each of at least 35mm in width.</li>
+
+</ul>
+
+***Request for urgent hearing before Judge of the Family Division of the High Court***
+
+(8)	In the event that a request is for an urgent hearing before a Judge of the Family Division of the High Court, unless otherwise directed, sub-paragraphs (2) to (7) shall apply save that references to the Duty District Judge shall be read as references to the Judge of the Family Division of the High Court.
 
 ## 160. Attendance of solicitors in Court
 
-(1) Save in the most exceptional and unforeseen circumstances, and so long as the firm of solicitors remains on record, a member of the firm must attend all proceedings in respect of the cause or matter in which the firm is acting, even if it does not intend to oppose the orders sought by the other side. The practice of asking the opposing solicitor to mention the matter on one's behalf is also not acceptable and should be discouraged. 
+(1) Save in the most exceptional and unforeseen circumstances, and so long as the firm of solicitors remains on record, a member of the firm must attend all proceedings in respect of the cause or matter in which the firm is acting, even if it does not intend to oppose the orders sought by the other side. The practice of asking the opposing solicitor to mention the matter on one's behalf is also not acceptable and should be discouraged.
 
-(2) The court may however allow a solicitor appearing in any cause or matter to mention for counsel for all other parties provided that: 
- 
-> (a) the solicitor obtains confirmation of his authority to mention on their behalf for the purpose of the hearing; and 
- 
-> (b) parties have agreed on the order sought. 
- 
-(3) However, where an adjournment of the hearing date of any cause or matter is sought, solicitors for all parties must attend the hearing. 
+(2) The court may however allow a solicitor appearing in any cause or matter to mention for counsel for all other parties provided that:
+
+> (a) the solicitor obtains confirmation of his authority to mention on their behalf for the purpose of the hearing; and
+
+> (b) parties have agreed on the order sought.
+
+(3)	However, where an adjournment of the hearing date of any cause or matter is sought, solicitors for all parties must attend the hearing. See also paragraphs 100 and 168 of these Practice Directions.
+
+(4)	Solicitors appearing in any cause or matter should be punctual in attending Court, as delay in the commencement of the hearing leads to wastage of judicial time. Appropriate sanctions may be imposed for solicitors who do not arrive for hearings on time.
 
 ## 161. Use of Video or Telephone Conferencing for Hearings
 
-(1) These directions apply to hearings to be conducted by video or telephone conferencing, as directed by the Court.  
+(1) These directions apply to hearings to be conducted by video or telephone conferencing, as directed by the Court.
 
 **<u>Guidelines for Video and Telephone Conferencing </u>**
 
-(2) A set of guidelines (“Guidelines”) shall govern the scope, use and procedure for the conduct of hearings by video or telephone conferencing. The Guidelines are found on [https://www.familyjusticecourts.gov.sg](https://www.familyjusticecourts.gov.sg) and counsel / parties are to abide by and familiarise themselves with the Guidelines for hearings conducted by video or telephone conferencing. The Guidelines may be amended where necessary. 
+(2) A set of guidelines (“Guidelines”) shall govern the scope, use and procedure for the conduct of hearings by video or telephone conferencing. The Guidelines are found on the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg) and counsel / parties are to abide by and familiarise themselves with the Guidelines for hearings conducted by video or telephone conferencing. The Guidelines may be amended where necessary.
 
-(3) Counsel / parties shall ensure that their equipment meets the required technical specifications and that they are familiar with the applicable platform listed in the Guidelines. 
+(3) Counsel / parties shall ensure that their equipment meets the required technical specifications and that they are familiar with the applicable platform listed in the Guidelines.
 
 **<u>Directions for Hearing by Video and Telephone Conferencing</u>**
 
-(4) Where the Court directs that a hearing will be conducted by video or telephone conferencing, a Registrar’s Notice will be sent to the parties in advance of the scheduled hearing. 
+(4) Where the Court directs that a hearing will be conducted by video or telephone conferencing, a Registrar’s Notice will be sent to the parties in advance of the scheduled hearing:
+
+> (a) Solicitors may write to the Court to raise any concerns that they may have within 2 days after receiving the Registrar’s Notice; and
+
+> (b) A party who is not legally represented is strongly encouraged to use video conferencing or telephone conferencing, but may inform the Court if he or she does not wish to do so.
+
+(4A)	The Court retains full discretion to decide:
+
+> (a) whether to conduct any hearing by video conferencing or telephone conferencing, and
+
+> (b) whether to conduct any hearing with one or more parties attending by video conferencing or telephone conferencing and any other party attending physically in Court.
 
 **<u>Conduct of Hearing</u>**
 
-(5) The hearing shall proceed as if it were a hearing conducted in person before the Court. Parties must observe all rules of etiquette applicable to Court hearings as prescribed in these Practice Directions and the Registrar’s Circulars.
+(5) Where hearings are conducted by video conferencing or telephone conferencing, the hearing shall proceed as if it were a hearing conducted in person before the Court. Parties must observe all court rules and practices on dress etiquette applicable to Court hearings as prescribed in these Practice Directions and the Registrar’s Circulars. However, it will not be necessary to stand and/or bow to the Court at the start or end of the hearing or to stand when addressing the Court.
 
 (6) If the hearing cannot be conducted, or if the Court decides that it is not expedient to deal with the matter by video or telephone conferencing, the Court may either direct that the hearing be adjourned for counsel and/or parties to attend Court personally, or issue any other direction regarding the resolution of the case.
 
-(7) The recording of Court proceedings in video, audio, or any other form is strictly prohibited and will be considered contempt of Court, with consequences of fine and/or imprisonment. 
+(7) Unauthorised audio or visual recording of hearings is strictly prohibited and in appropriate cases, the Court may require an undertaking that no such recording will be made. The attention of parties is drawn to section 5 of the Administration of Justice (Protection) Act 2016 regarding contempt of court by unauthorised recordings.
 
-(8) Counsel / parties are to ensure that the hearing is conducted in a private and secure location and not in a public area.  No person should be attending at the video or telephone conferencing terminal if the Court is not aware of their presence. The identities of all persons present at the hearing should be disclosed to the Court at the start of the hearing, and permission is to be obtained for their attendance. 
+(8) Counsel / parties are to ensure that the hearing is conducted in a private and secure location and not in a public area.  No person should be attending at the video or telephone conferencing terminal if the Court is not aware of their presence. The identities of all persons present at the hearing should be disclosed to the Court at the start of the hearing, and permission is to be obtained for their attendance.
 
 (9) In the event of non-compliance with the required technical specifications, prescribed Court etiquette or the applicable Guidelines, the Court may adjourn the hearing and issue further directions to be complied with.
 
-(10) Any reference made to the record of proceedings in these Practice Directions shall refer to the Court’s record of proceedings of the hearing conducted by video or telephone conferencing. 
+(10) Any reference made to the record of proceedings in these Practice Directions shall refer to the Court’s record of proceedings of the hearing conducted by video or telephone conferencing.
 
 (11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to [FJCourts_Family_Registry@fjcourts.gov.sg](FJCourts_Family_Registry@fjcourts.gov.sg).
 
@@ -185,7 +245,7 @@
 
 (6) [deleted]
 
-(7) Upon a successful request to use the VC facilities, 
+(7) Upon a successful request to use the VC facilities,
 
 > (a) prior arrangements for equipment testing have to be made at least 5 working days before the first day fixed for the hearing, in order to ensure equipment compatibility;
 
@@ -211,7 +271,7 @@
 
 (14) [deleted]
 
-(15) [deleted] 
+(15) [deleted]
 
 ## 162. Absence from Court on medical grounds
 
@@ -273,7 +333,7 @@ is required to attend Court and wishes to excuse himself from Court on medical g
 
 (6) If the Directions set out in sub-paragraphs (2) to (5) are not complied with, the Court may reject the medical certificate and decline to excuse the absence from Court of the person to whom the medical certificate was issued. The Court may then take any action it deems appropriate.
 
-(7) This Paragraph shall apply to all proceedings in the Family Justice Courts, whether in open Court or in camera. 
+(7) This Paragraph shall apply to all proceedings in the Family Justice Courts, whether in open Court or in private.
 
 ## 163. Publication of & Reports and Comments on Court Cases
 
@@ -283,7 +343,7 @@ is required to attend Court and wishes to excuse himself from Court on medical g
 
 (3) All concerned are not to publish, report or comment on publicly any affidavit or statutory declaration which has not been adduced as evidence or referred to in any hearing in open Court or in Chambers or any other court document which has not been served on the relevant party or parties in the court proceedings.
 
-(4) All concerned are not to publish, report or comment on publicly any statements made in Chambers by anyone which is expressly stated to be confidential or is impliedly confidential. Solicitors may inform their clients of statements made in Chambers when it is necessary for them to render proper advice to their clients. 
+(4) All concerned are not to publish, report or comment on publicly any statements made in Chambers by anyone which is expressly stated to be confidential or is impliedly confidential. Solicitors may inform their clients of statements made in Chambers when it is necessary for them to render proper advice to their clients.
 
 ## 164. Citation of Case Numbers
 
@@ -302,7 +362,7 @@ For example:
 
 (2) Parties are to cite the case number in full in all documents and correspondence which are submitted to the Court.
 
-(3) Please take note that the court forum prefix will not be shown in the Electronic Queue Management System. Counsel and parties should disregard the court forum prefix when taking their queue numbers. 
+(3) Please take note that the court forum prefix will not be shown in the Electronic Queue Management System. Counsel and parties should disregard the court forum prefix when taking their queue numbers.
 
 ## 165. The Electronic Queue Management System
 
@@ -322,7 +382,7 @@ For example:
 
 (4) Senior Counsel will continue to be given the precedence and the right of preaudience according to paragraph 166.
 
-(5) If a hearing or conference is being conducted in the Supreme Court building, solicitors shall use the Electronic Queue Management System as set out in the Supreme Court Practice Directions. 
+(5) If a hearing or conference is being conducted in the Supreme Court building, solicitors shall use the Central Display Management System as set out in the Supreme Court Practice Directions 2021.
 
 ## 166. Precedence and preaudience of Senior Counsel
 
@@ -330,7 +390,7 @@ For example:
 
 (2) In order to give substance to the principle of precedence and preaudience to Senior Counsel, Senior Counsel who intend to appear before Judges or Registrars for summonses hearings should inform the Registrar in writing not later than two clear days before the scheduled hearing date. Matters involving Senior Counsel will thereafter be listed first, in the order of their precedence. If Senior Counsel do not appear at the time their matters come on for hearing according to the list, they will have to wait for their turn in accordance with their queue numbers given by the Queue Management System in the Family Justice Courts, subject to the Judge’s or Registrar’s overriding discretion.
 
-(3) All other counsel, including those who appear on behalf of Senior Counsel, will continue to be heard in the order of their queue numbers in accordance with the current practice in the Family Justice Courts, subject to the Judge’s or Registrar’s overriding discretion. 
+(3) All other counsel, including those who appear on behalf of Senior Counsel, will continue to be heard in the order of their queue numbers in accordance with the current practice in the Family Justice Courts, subject to the Judge’s or Registrar’s overriding discretion.
 
 ## 167. Court dress
 
@@ -338,15 +398,17 @@ _Trials in Court_
 
 (1) For the Family Division of the High Court,
 
-> (a) the attire for male advocates and solicitors appearing in trials or in open Court will be the existing gown worn over an ordinary long-sleeved white shirt with a turn- down collar, a tie of a subdued or sober colour, a dark jacket, dark trousers and black or plain coloured shoes; and 
+> (a) the attire for male advocates and solicitors appearing in trials or in open Court will be the existing gown worn over an ordinary long-sleeved white shirt with a turn- down collar, a tie of a subdued or sober colour, a dark jacket, dark trousers and black or plain coloured shoes; and
 
 > (b) the attire for female advocates and solicitors appearing in trials or in open Court will be the existing gown worn over a long-sleeved white blouse high to the neck, a dark jacket, a dark skirt or dark trousers and black or plain coloured shoes. Conspicuous jewellery or ornaments should not be worn.
 
-> (c) when appearing in trials or open Court proceedings that are conducted through a live video or live television link:
+> (c)	when appearing in trials or open Court proceedings that are conducted through a live video or live television link:
 
-> > (i)	if the proceedings are conducted solely through the live video or live television link and do not take place in any courtroom, the attire for an advocate and solicitor will be the same as for trials and open court, except that the gown need not be worn; but 
+> > (i)	if the proceedings are conducted solely through the live video or live television link and do not take place in any courtroom, the attire for an advocate and solicitor will be the same as for trials and open court, except that the gown need not be worn; but
 
-> >(ii)	if one or more Judges hear the proceedings in a courtroom, unless the Court directs otherwise, every advocate and solicitor in the proceedings will wear the usual attire for trials and open Court proceedings. 	 
+> >(ii)	if one or more Judges hear the proceedings in a courtroom, unless the Court directs otherwise, every advocate and solicitor in the proceedings will wear the usual attire for trials and open Court proceedings.
+
+> >(iii)	if the Judge conducts proceedings through the live video link or live television link, and the parties attend the proceedings in the courtroom, unless the Court otherwise directs, every advocate and solicitor in the proceedings will wear the usual attire for open court proceedings.
 
 (2) The attire for Senior Counsel shall be as described in sub-paragraphs (1), save that, for hearings, they may, instead of the existing gown, wear a gown in the design of those worn by the Queen’s Counsel of England and Wales and made of the following material:
 
@@ -368,7 +430,7 @@ _Mediations_
 
 > (a) The attire for male advocates and solicitors will be as in sub-paragraph (4) save that a single-coloured shirt of neutral or subdued shades instead of a white shirt may be worn.
 
-> (b) The attire for female advocates and solicitors will be as in sub-paragraph (4) save that a single-coloured blouse or a single-coloured dress of neutral or subdued shades instead of a white blouse may be worn. 
+> (b) The attire for female advocates and solicitors will be as in sub-paragraph (4) save that a single-coloured blouse or a single-coloured dress of neutral or subdued shades instead of a white blouse may be worn.
 
 ## 168. Requests and other Correspondence
 
@@ -378,7 +440,7 @@ _General Correspondence_
 
 (2) For cases which have been commenced electronically, a letter shall be sent to the Court by a law firm only using the Electronic Filing Service. If a letter is sent to the Court by a law firm in any other way, it is liable to be rejected. This sub-paragraph does not apply to litigants in person.
 
-(3) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example: 
+(3) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
 
 > **‘DIVORCE WRIT NO. 12345 OF 2015**
 
@@ -399,6 +461,8 @@ _General Correspondence_
 (7) If the consent of all other parties to the matter is obtained, the request should state that all parties have consented to the request for the adjournment or vacation. However, this does not mean that the request will be granted as a matter of course. The Court will still evaluate the merits of the request before making its decision.
 
 (8) If the consent of one or more of the other parties is not obtained, the request should set out the reasons for the other parties’ objections, or explain why the consent of one or more of the other parties cannot be obtained. Any relevant correspondence between the parties should also be annexed. The Court will then evaluate the contents of the request and the relevant correspondence before deciding whether the request should be allowed.
+
+(8A)	In any other case, parties must attend before the Court to make an application for an adjournment. See also paragraph 160 of these Practice Directions.
 
 (9) Where the reason for rescheduling of the hearing is a conflict of court dates, the following information relating to both court cases must be stated in the request:
 
@@ -422,7 +486,7 @@ _General Correspondence_
 
 (13) Registrar’s Directions and Notices from the Registry will be sent to law firms who are registered users of the Electronic Filing Service through the Electronic Filing Service.
 
-(14) Registered users are to ensure that the inbox of their Electronic Filing Service account(s) are checked and cleared regularly. 
+(14) Registered users are to ensure that the inbox of their Electronic Filing Service account(s) are checked and cleared regularly.
 
 ## 169. Request for court interpreters
 
@@ -432,25 +496,25 @@ _General Correspondence_
 
 (2) The directions set out in sub-paragraphs (3) to (10) below are to be followed in relation to all requests for interpretation services of interpreters from the Supreme Court’s Interpreters Section, whether the services are required for hearings in open Court or in Chambers.
 
-(3) Not less than 7 working days before the day on which the services of an interpreter are required (“scheduled day”), the requesting party must file a Request addressed to the appropriate Head Interpreter through the Electronic Filing Service and attach Form 2 of Appendix A of the Supreme Court Practice Directions in Portable Document Format (PDF) to the Request in electronic form.
+(3) Not less than 7 working days before the day on which the services of an interpreter are required (“scheduled day”), the requesting party must file a Request addressed to the appropriate Head Interpreter through the Electronic Filing Service and attach Form B1 of Appendix B of the Supreme Court Practice Directions 2021 in Portable Document Format (PDF) to the Request in electronic form.
 
 (4) The Request in sub-paragraph (3) must be filed for hearings of matters which have been adjourned or part-heard, even if the services of an interpreter were requested and provided at an earlier hearing of the same matter. In the event that a Request is made in respect of an adjourned or part-heard matter, the Request should also state the date of the earlier hearing in addition to the scheduled day.
 
 (5) The requesting party shall make payment of any prescribed fee for interpretation services under the Family Justice Rules upon approval of the Request.
 
-(6) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter or email. This shall serve as a notice of cancellation. 
+(6) In the event that the services of the interpreter are for any reason not required on any of the scheduled days specified in the Request, the requesting party shall immediately notify the appropriate Head Interpreter either by letter or email. This shall serve as a notice of cancellation.
 
 (7) Any request for refund of the fee paid under sub-paragraph (5) must be submitted to the Registrar through the Electronic Filing Service within one month from the date on which the reason for the refund arose. The supporting reasons and the amount of refund sought must be clearly specified in the request for refund.
 
 (8) Unless otherwise decided by the Registrar, the fee paid for any scheduled day may be refunded only if a notice of cancellation under sub-paragraph (6) is given at least 1 clear working day prior to that scheduled day.
 
-(9) The provision of interpretation services by the Supreme Court’s Interpreters Section is subject to the availability of suitable interpreters on the day that the interpretation services are required. Failure to comply with the directions set out in sub-paragraphs (3) to (5) may result in the services of interpreters not being available or provided. 
+(9) The provision of interpretation services by the Supreme Court’s Interpreters Section is subject to the availability of suitable interpreters on the day that the interpretation services are required. Failure to comply with the directions set out in sub-paragraphs (3) to (5) may result in the services of interpreters not being available or provided.
 
 (10) Engagement of private interpreters (i.e. interpreters not from the Supreme Court’s Interpreters Section):
 
-> (a) For the avoidance of doubt, a party may engage the services of a private interpreter for interpretation services in respect of the languages listed in Form 2 of Appendix A of the Supreme Court Practice Directions.
+> (a) For the avoidance of doubt, a party may engage the services of a private interpreter for interpretation services in respect of the languages listed Form B1 of Appendix B of the Supreme Court Practice Directions 2021.
 
-> (b) If a party requires the services of an interpreter in a language apart from those listed in Form 2 of Appendix A to the Supreme Court Practice Directions, it shall be the duty of the party to engage such an interpreter directly to obtain his or her services for the scheduled hearing.
+> (b) If a party requires the services of an interpreter in a language apart from those listed in Form B1 of Appendix B of the Supreme Court Practice Directions 2021, it shall be the duty of the party to engage such an interpreter directly to obtain his or her services
 
 > (c) Interpreters who are not from the Supreme Court’s Interpreters Section must be sworn in before the Duty Registrar before they may provide interpretation services for proceedings in Court.
 
@@ -500,7 +564,7 @@ whichever is earlier. This practice is to be followed for all fresh and adjourne
 
 (18) Requests for translations of documents in Chinese, Malay or Tamil for use in proceedings in the Family Division of the High Court and/or the Family Courts should be sent using the form available at relevant counter at the Family Registry at least 6 weeks before the date the translations are required, unless there are exceptional reasons justifying non-compliance.
 
-(19) In the event that the Family Justice Courts’ Interpreters Section is unable to accept a translation request, parties and counsel should approach a private translation service instead. 
+(19) In the event that the Family Justice Courts’ Interpreters Section is unable to accept a translation request, parties and counsel should approach a private translation service instead.
 
 ## 170. Authorisation for collection of mail and Court documents
 
