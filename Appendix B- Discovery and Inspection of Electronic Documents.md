@@ -24,11 +24,11 @@ computer forensic tools or techniques during a forensic inspection of the
 unallocated file space or file slack are **not** within the scope of general discovery.
 
 (d) **Reasonable search.** The search terms or phrases specified in the first column will
-be used in the conduct of a reasonable search for relevant electronically stored 
+be used in the conduct of a reasonable search for relevant electronically stored
 documents. The reasonable search will be limited by the scope described in the
 second column.
 
-| Search term or phrase | Scope | 
+| Search term or phrase | Scope |
 |-----------------------|-------|
 | [Specify the keyword(s).] | [Describe the scope of the search by reference to physical or logical storage locations media or devices, the period during which the requested electronically stored document was created, modified or received, etc.] |
 
@@ -60,7 +60,7 @@ in the list of documents.
 (a) **Arrangements for inspection.** The place for inspection of discoverable electronic
 documents should be stated separately if it is different from the place for inspection
 of other discoverable documents. If the party entitled to inspect intends to inspect
-through or with the assistance of its appointed computer expert, such computer 
+through or with the assistance of its appointed computer expert, such computer
 expert shall provide an undertaking of confidentiality to the party giving inspection
 before he commences his inspection.
 
@@ -86,11 +86,9 @@ Notwithstanding compliance with the procedures in this protocol, nothing in this
 protocol is intended to be or shall be taken to amount to a waiver of privilege.
 
 ### (7) Discovery and production only if necessary
-For the avoidance of doubt, nothing in this protocol shall compel any party to give
-discovery of any document or produce any document for inspection which is not
-otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court. 
+For the avoidance of doubt, nothing in this protocol shall compel any party to give discovery of any document or produce any document for inspection which is not otherwise discoverable under rules 468 or 474 of the Family Justice Rules.
 
-## Part 2: Protocol for Inspection of Computer Databases and Electronic Media or Recording Devices 
+## Part 2: Protocol for Inspection of Computer Databases and Electronic Media or Recording Devices
 
 ### (1) Appointment of computer experts
 
@@ -98,7 +96,7 @@ otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court.
 
 The party producing the computer database, electronic medium or recording
 device for inspection (“**the Producing Party**”) and the party entitled to inspection
-of the computer database, electronic medium or recording device (“**the Inspecting Party**”), 
+of the computer database, electronic medium or recording device (“**the Inspecting Party**”),
 may jointly appoint a computer expert (“**the Joint Expert**”) for the
 purpose of making a forensic copy of such computer database, electronic medium
 or recording device (“**the Original Acquired Image**”). The Joint Expert’s role
@@ -112,50 +110,29 @@ involved in the engagement.
 
 **(b) Costs and expenses of Joint Expert.**
 
-All costs and expenses relating to the appointment of the Joint Expert under this
-protocol shall initially be borne equally between the Producing Party and the
-Inspecting Party. Nothing in this protocol is intended to or shall be taken to prevent
-any party to the cause or matter from seeking the recovery of such costs and
-expenses in accordance with the Rules of Court.
+All costs and expenses relating to the appointment of the Joint Expert under this protocol shall initially be borne equally between the Producing Party and the Inspecting Party. Nothing in this protocol is intended to or shall be taken to prevent any party to the cause or matter from seeking the recovery of such costs and expenses in accordance with the Family Justice Rules.
 
 **(c) Individual appointments.**
 
 Nothing in this protocol shall prevent the Producing Party, the Inspecting Party
 and any other party concerned in the inspection from appointing his own computer
-expert. 
+expert.
 
 ### (2) Acquisition of the Original Acquired Image
 
 **(a) Where Joint Expert appointed.**
 
-The Joint Expert shall acquire the Original Acquired Image under the supervision
-of all parties concerned in the inspection, their representatives or computer experts.
-Sufficient copies of the Original Acquired Image shall be made as necessary in
-order that the Producing Party and each Inspecting Party may be supplied with an
-electronic copy of the Original Acquired Image. The Joint Expert shall provide
-sufficient information with the copy of the Original Acquired Image to enable the
-party’s computer expert to access the copy supplied. The Original Acquired Image
-shall be sealed and delivered to the custody of the Producing Party, who shall
-enumerate it in a list of documents to be filed under Order 24 of the Rules of Court.
+The Joint Expert shall acquire the Original Acquired Image under the supervision of all parties concerned in the inspection, their representatives or computer experts. Sufficient copies of the Original Acquired Image shall be made as necessary in order that the Producing Party and each Inspecting Party may be supplied with an electronic copy of the Original Acquired Image. The Joint Expert shall provide sufficient information with the copy of the Original Acquired Image to enable the party’s computer expert to access the copy supplied. The Original Acquired Image shall be sealed and delivered to the custody of the Producing Party, who shall enumerate it in a list of documents to be filed under Part 18 Division 19 of the Family Justice Rules.
 
 **(b) Where Joint Expert not appointed.**
 
-The Producing Party’s computer expert shall be responsible for acquiring the
-Original Acquired Image under the supervision of all parties concerned in the
-inspection, their representatives or computer experts. Sufficient copies of the
-Original Acquired Image under the supervision of all parties concerned in the
-inspection, their representatives or computer experts. Sufficient copies of the
-Original Acquired Image shall be made as necessary for the purposes of inspection
-and reasonable search to be provided under this protocol. The Original Acquired
-Image shall be sealed and delivered to the custody of the Producing Party, who
-shall enumerate it in a list of documents to be filed under Order 24 of the Rules of
-Court. 
+The Producing Party’s computer expert shall be responsible for acquiring the Original Acquired Image under the supervision of all parties concerned in the inspection, their representatives or computer experts. Sufficient copies of the Original Acquired Image shall be made as necessary for the purposes of inspection and reasonable search to be provided under this protocol. The Original Acquired Image shall be sealed and delivered to the custody of the Producing Party, who shall enumerate it in a list of documents to be filed under Part 18 Division 19 of the Family Justice Rules.
 
 **(c) Original Acquired Image to be produced when ordered by Court.**
 
 The party to whose custody the sealed Original Acquired Image has been delivered
 shall not tamper with or break the seal, and shall produce the Original Acquired
-Image to the Court or such other person(s) as the Court may direct. 
+Image to the Court or such other person(s) as the Court may direct.
 
 **(3) Safeguards for reasonable search**
 
@@ -194,14 +171,14 @@ A copy of the documents or records that are the results of the reasonable search
 **(b) Review for privileged material.**
 
 The Producing Party shall be at liberty to review the Search Results for the purpose
-of claiming privilege. If the Producing Party claims privilege over any document 
+of claiming privilege. If the Producing Party claims privilege over any document
 or record from the Search Results, he shall list the electronic documents or records
 over which privilege is claimed.
 
 **(c) Release for inspection.**
 
 Thereafter, the Joint Expert shall remove copies of any documents or records over
-which privilege is claimed from the Search Results (“**the Redacted Search Results**”). 
+which privilege is claimed from the Search Results (“**the Redacted Search Results**”).
 The Joint Expert may maintain a separate privilege log which records
 the documents or records which are thus removed and the reasons given for doing
 so. For the avoidance of doubt, the privilege log shall not be included in the Joint
@@ -227,7 +204,7 @@ concerned in the inspection, their representatives or computer experts.
 **(e) Review for privileged material.**
 
 The Producing Party shall be at liberty to review the Search Results for the purpose
-of claiming privilege. If the Producing Party claims privilege over any document 
+of claiming privilege. If the Producing Party claims privilege over any document
 or record from the Search Results, he shall list the electronic documents or records
 over which privilege is claimed.
 
@@ -266,7 +243,7 @@ described by the Inspecting Party.
 **(b) Review for privileged material.**
 
 The Joint Expert and the Producing Party shall jointly review the Search Results
-for the purpose of permitting the Producing Party to identify electronically stored 
+for the purpose of permitting the Producing Party to identify electronically stored
 documents, deleted files or file fragments over which he claims privilege. If the
 Producing Party claims privilege over any electronically stored documents,
 deleted files or file fragments from the Search Results, he shall identify them to
@@ -293,9 +270,7 @@ protocol is intended to be or shall be taken to amount to a waiver of privilege.
 
 ### (6) Discovery and production only if necessary
 
-For the avoidance of doubt, nothing in this protocol shall compel any party to give
-discovery of any document or produce any document for inspection which is not
-otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court. 
+For the avoidance of doubt, nothing in this protocol shall compel any party to give discovery of any document or produce any document for inspection which is not otherwise discoverable under rules 468 or 474 of the Family Justice Rules.
 
 ## Part 3 - Reasonably Usable Formats
 
