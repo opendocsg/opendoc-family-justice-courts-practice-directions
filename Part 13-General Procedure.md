@@ -599,7 +599,7 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 (4) In granting interested persons the permission to attend hearings in a Family Justice Court, the Court may, in its discretion, impose the necessary conditions to be complied with.
 
-## 88. Electronic filing of documents and authorities for use in Court
+## 88. Electronic filing of documents and authorities for use in Court generally
 
 ***Time for filing of documents***
 
@@ -609,7 +609,7 @@ Women’s Charter which were adjourned from chambers to Open Court; and
 
 > (a) 	use hard copy documents during the hearing. Without limiting paragraph 90(12) of these Practice Directions, the hard copy documents may be printed on one side or both sides of each page; or
 
-> display a soft copy of the document by sharing his or her screen during the hearing (if the hearing is conducted by video-conferencing).
+> (b) display a soft copy of the document by sharing his or her screen during the hearing (if the hearing is conducted by video-conferencing).
 
 The solicitor must explain why it was not possible to file the documents in advance of the hearing, and must also give an undertaking to file using the Electronic Filing Service all the documents used at the hearing by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court's case file.
 
@@ -1074,18 +1074,48 @@ The following are examples of law reports that should be used for citation:
 
 </ul>
 
-(8)	**The neutral citation system for local judgments**
-| Court  | Neutral citation |
-|-|-|
-| Singapore Court of Appeal	| SGCA |
-| Singapore High Court (Appellate Division)	| SGHC(A) |
-| Singapore High Court (before 2 January 2021) or Singapore High Court (General Division) (on or after 2 January 2021) | SGHC |
-| Family Division of the High Court	| SGHCF |
-| Singapore Family Courts	| SGFC |
-| Singapore Youth Courts	| SGYC |
-| Singapore District Court	| SGDC |
+(8)	**Court designators**
 
-(8)	**Example and explanation**
+<table>
+<thead>
+  <tr>
+	  <th><strong>Court</strong></th>
+	  <th>Neutral citation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+	  <td>Singapore Court of Appeal	</td>
+	  <td>SGCA</td>
+  </tr>
+  <tr>
+    <td>Singapore High Court (Appellate Division) </td>
+    <td>SGHC(A)</td>
+  </tr>
+  <tr>
+    <td>Singapore High Court (before 2 January 2021) or Singapore High Court (General Division) (on or after 2 January 2021)</td>
+    <td>SGHC</td>
+  </tr>
+	<tr>
+		<td>Family Division of the High Court</td>
+		<td>SGHCF</td>
+	</tr>
+  <tr>
+	  <td>Singapore Family Courts</td>
+	  <td>SGFC</td>
+  </tr>
+  <tr>
+	  <td>Year of the decision</td>
+	  <td>SGYC</td>
+  </tr>
+  <tr>
+	  <td>Year of the decision</td>
+	  <td>SGDC</td>
+  </tr>
+</tbody>
+</table>
+
+(9)	**Example and explanation**
 
 <em>ABC Co Pte Ltd v XYZ Co Ltd</em> [2015] SGFC 25, at [3], [8].
 
@@ -1456,7 +1486,7 @@ having conduct of the proceedings; or
 
 > >  (i) Registered users can inspect the case file online through the Electronic Filing Service;
 
-> >  Parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval, the service bureau will assign the inspecting party a personal computer for the inspection to be carried out. An inspecting party will usually be allowed 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
+> >  (ii) Parties who are not registered users can inspect the case file by presenting a copy of the approval at the service bureau. After verifying the approval, the service bureau will assign the inspecting party a personal computer for the inspection to be carried out. An inspecting party will usually be allowed 60 minutes to carry out the inspection. If a longer period is required, the service bureau may impose a charge for use of the computer. The service bureau may impose additional charges for downloading soft copies or printing hard copies of documents from the case file being inspected.
 
 (6) Requests in hard copy may be submitted to inspect case files containing documents which were not filed using the Electronic Filing Service. The Family Registry will only accept requests which are printed or typewritten on paper of good quality and signed by the solicitors concerned. Requests which have any erasure marks on them will be rejected. Requests which are double stamped, that is, if the requests were originally short stamped and later stamped to add up to the correct fee, may be rejected.
 
@@ -1857,7 +1887,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (2)	Pursuant to the Chief Justice’s directions as provided for under rule 887(1) of the Family Justice Rules, interest payable from the relevant date(s) as stipulated in rule 887(1) shall be 5.33% per year until further notice and calculated to the date of payment.
 
-**_Pre-judgment interest_**
+**_Pre-judgment non-contractual interest_**
 
 (3) Pursuant to the Chief Justice’s directions as provided under rule 328(3) of the Family Justice Rules, interest payable from the relevant date(s) as stipulated in rule 328(3) shall be 5.33% per year until further notice and calculated to the date of payment.
 
@@ -2439,7 +2469,7 @@ Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints 
 
 (2)	For the purposes of rule 918(1) of the Family Justice Rules, an application to the Registrar to be a registered user is to be made using Form 257 of Appendix A of these Practice Directions. For the purposes of rule 918(2) of the Family Justice Rules, a registered user may designate one or more authorised users by nominating at least 1 authorised user in Form 257 of Appendix A of these Practice Directions. In either case, Form 257 must be accompanied by the following:
 
-> (a) The application to become a registered user must be made to the eLitigation Project Director using Form 257 in Appendix A to these Practice Directions. In Form 257, the registered user must nominate at least one authorised user. Form 257 must be accompanied by the following:
+> (a) a recent business profile report of the registered user from the Accounting and Corporate Regulatory Authority (ACRA);
 
 > (b)	an application form including the subscriber agreement for subscription to the Electronic Filing Service; and
 
