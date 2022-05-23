@@ -74,6 +74,14 @@
 
 ## 30. Submission of supporting documents
 
-(1) The original birth certificate and the original translation of the birth certificate (if any) of the infant shall be submitted to the Adoption Counter of the Family Registry at least 7 working days prior to the hearing of the prayer for the appointment of the guardian in adoption accompanied with a cover letter in the prescribed format in Form 210 in Appendix A to these Practice Directions.
+(1) Where the infant has been issued a physical birth certificate, the original birth certificate and the original translation of the birth certificate (if any) of the infant shall be submitted to the Adoption Counter of the Family Registry at least 7 working days prior to the hearing of the prayer for the appointment of the guardian in adoption accompanied with a cover letter in the prescribed format in Form 210 in Appendix A to these Practice Directions.
+
+<ul type="*">
+
+<li>(a)	Where the infant has been issued a digital birth certificate, paragraph (1) above does not apply.</li>
+
+<li>(b) For avoidance of doubt, where the infant has been issued a digital birth certificate that cannot be verified electronically (e.g. by way of a QR code), the Court may direct the applicants to furnish evidence in support of the authenticity of the infant’s digital birth certificate.</li>
+
+</ul>
 
 (2) The written consent of the guardian in adoption to be appointed as the guardian in adoption shall be filed at least 7 working days prior to the hearing of the prayer for the appointment of the guardian in adoption.
