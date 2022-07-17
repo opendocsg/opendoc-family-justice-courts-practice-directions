@@ -30,7 +30,7 @@
 
 > (b) Designated Family Service Centres (“FSCs”);
 
-> (c) Designated Divorce Support Specialist Agencies (“DSSAs”);
+> (c) Designated appointed agencies of the Ministry of Social and Family Development (“MSF”);
 
 > (d) Designated Family Violence Specialist Centres (“FVSCs”); and
 

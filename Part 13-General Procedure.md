@@ -2457,11 +2457,11 @@ In exercise of the powers conferred by rules 914 and 915 of the Family Justice R
 
 > (a) establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at http://www.elitigation.sg; and
 
-> (b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service, with the Electronic Litigation Systems Committee of the Singapore Academy of law as its superintendent pursuant to Rule 13A(2) of the Singapore Academy of Law Rules (Cap. 294A, Rule 1).
+> (b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service.
 
 ## 142. Appointment of agent to establish service bureau
 
-Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau at 133 New Bridge Road #19-01/02 Chinatown Point Singapore 059413 (or such other address in Singapore as may be deemed suitable), with the Electronic Litigation Systems Committee of the Singapore Academy of Law as its superintendent.
+Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable.
 
 ## 143. Registered users and authorised users
 
@@ -2523,11 +2523,11 @@ Every single page of a document _must_ be paginated so that the pagination on th
 
 ## 148. Filing of documents to the Family Justice Courts through a Supreme Court service bureau
 
-Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court may assist in the filing, service, delivery or conveyance of documents pertaining to:-
+Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the State Courts may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the Family Justice Courts using the Electronic Filing Service in all cases and circumstances where the staff of any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the State Courts are able to provide such assistance pertaining to Family Justice Courts proceedings.
 
-(a) proceedings in the Family Division of the High Court, and
+(a) [deleted]
 
-(b) Family Courts using the Electronic Filing Service if the service bureau, or, if there are more than one, all the service bureaux, established or authorised to be established by the Registrar are unable to provide such services owing to failure of hardware or software, or both.
+(b) [deleted]
 
 ## 149. Limits on the size and number of documents submitted using the Electronic Filing Service
 
