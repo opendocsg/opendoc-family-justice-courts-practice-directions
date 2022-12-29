@@ -1843,7 +1843,7 @@ Any affidavit or exhibit which does not comply with the Directions contained in 
 
 (5) The draft consent order must be signed —
 
-> (a) If either party is incapacitated by reason of insolvency, the party must provide to the Court a letter from the Official Assignee stating that there is no objection to the proposed terms of the agreement, in particular, the terms relating to the division of matrimonial assets and maintenance. This letter is to be filed together with the duly signed draft consent order.
+> (a) in the case where any party is represented, by that party’s counsel; or
 
 > (b) in the case where any party is unrepresented and another is represented, by that unrepresented party personally and subject to the following requirements:
 
