@@ -2,7 +2,7 @@
 
 ## 11. Mediation and/or Counselling Directed by Court
 
-(1) In any proceedings before the Court, it may direct that parties attend mediation and/or counselling (pursuant to section 50 of the Women’s Charter (Cap. 353) or section 26(9) of the Family Justice Act 2014 (Act 27 of 2014)) to encourage parties to resolve the matter amicably and assist parties in reaching an agreement or to narrow the issues in contention. Sub-paragraphs (2) to (10) below apply to private mediations ordered by the Court, and sub-paragraphs (11) to (19) below apply to mediations and/or counselling conducted by the Court.
+(1) In any proceedings before the Court, it may direct that parties attend mediation and/or counselling (pursuant to section 139H, 139I or 139J of the Women’s Charter (Cap. 353) or section 26(9) of the Family Justice Act 2014 (Act 27 of 2014)) to encourage parties to resolve the matter amicably and assist parties in reaching an agreement or to narrow the issues in contention. Sub-paragraphs (2) to (10) below apply to private mediations ordered by the Court, and sub-paragraphs (11) to (19) below apply to mediations and/or counselling conducted by the Court.
 
 (1A) It is the professional duty of advocates and solicitors to advise their clients about mediation. Mediation should be considered at the earliest possible stage in order to facilitate an amicable resolution of the dispute.
 
@@ -54,7 +54,7 @@
 
 ## 12. Mandatory Counselling & Mediation
 
-(1) Section 50(3A) of the Women’s Charter (Cap. 353) provides for mandatory counselling / mediation sessions at the Family Justice Courts. The first phase, beginning in September 2011, was for divorcing parents with any child or children below 8 years of age. The second phase, involving divorcing parents with any child or children below 14 years of age, was implemented for cases filed from 1st July 2013. The final phase was implemented for cases filed from 1 October 2014 and extended to all divorcing parents with any child or children below 21 years of age.
+(1) Section 139I(2) of the Women’s Charter (Cap. 353) provides for mandatory counselling / mediation sessions at the Family Justice Courts.
 
 (2) Notice(s) of attendance for mandatory counselling/mediation sessions with location details will be sent to the plaintiff and defendant in the divorce proceedings. Attendance by the parties is compulsory. Attendance by the parties’ respective counsel, if any, is required only when specifically stated in the notification.
 
@@ -72,10 +72,9 @@
 
 (9) Where interim judgment or judgment for judicial separation has been granted, any agreement reached by the parties at any time may be recorded as a consent order by the Judge–Mediator at a mediation session or any other Judge sitting as a Judge in Chambers upon confirmation of the terms by the parties and/or counsel. Where interim judgment or judgment of judicial separation has not been granted, the agreement will be formally recorded by the Judge and directions will be given for the setting down of the divorce on an uncontested basis on an expedited basis.
 
-(10) Under section 50(3B) of the Women’s Charter (Cap. 353), the court may dispense with the attendance of the parties at mediation/counselling if it deems that it is not in the interest of the parties concerned to do so (e.g. where family violence has been committed or where Child Protection Services is involved in the case).
+(10) Under section 139I(3) of the Women’s Charter (Cap. 353), the court may dispense with the attendance of the parties at mediation/counselling if it deems that it is not in the interest of the parties concerned to do so (e.g. where family violence has been committed or where Child Protection Services is involved in the case).
 
-(11) Counsel should advise his/her client of the consequences of non-attendance under
-section 50(3D) and (3E) of the Women’s Charter (Cap. 353).
+(11) Counsel should advise his/her client of the consequences of non-compliance under section 139I(5) of the Women’s Charter (Cap. 353).
 
 (12) Mediation will be conducted on a without prejudice basis. All communications made in the course of mediation will be treated in strict confidence and will not be admissible in any court unless otherwise stipulated by law. If the dispute is not resolved at the mediation session, the District Judge or Registrar will give the necessary directions to enable the case to proceed to trial, and the case will be heard by a Judge other than the District Judge or Registrar conducting the mediation.
 
