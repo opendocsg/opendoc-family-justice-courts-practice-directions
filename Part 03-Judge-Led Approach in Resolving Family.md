@@ -183,7 +183,7 @@ It has now been recognised and firmly established in some foreign jurisdictions 
 
 (19) The initial communication should ordinarily take place between our Liaison Judge and the Liaison Judge of the other jurisdiction, if any, in order to ascertain the identity of the judge seised in that jurisdiction. If no Liaison Judge has been appointed in the other jurisdiction, the Central Authority of Singapore or the party within jurisdiction is to assist in providing the identity of the judge in the other jurisdiction.
 
-(20) When making contact with a judge in another jurisdiction, the initial communication should normally be in writing sent to the email address to [FJCOURTS_Family_Registry@fjcourts.gov.sg](mailto: FJCOURTS_Family_Registry@fjcourts.gov.sg), subject to provisions set out in this Practice Direction in relation to written communications, and should in particular identify:
+(20) When making contact with a judge in another jurisdiction, the initial communication should normally be in writing sent to the email address to [FJC_FAMILY_REGISTRY@judiciary.gov.sg](mailto: FJC_FAMILY_REGISTRY@judiciary.gov.sg), subject to provisions set out in this Practice Direction in relation to written communications, and should in particular identify:
 
 > (a) the name and contact details of the initiating judge;
 
