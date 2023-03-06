@@ -221,7 +221,7 @@
 
 (10) Any reference made to the record of proceedings in these Practice Directions shall refer to the Court’s record of proceedings of the hearing conducted by video or telephone conferencing.
 
-(11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to [FJCourts_Family_Registry@fjcourts.gov.sg](FJCourts_Family_Registry@fjcourts.gov.sg).
+(11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to [FJC_FAMILY_REGISTRY@judiciary.gov.sg](FJC_FAMILY_REGISTRY@judiciary.gov.sg).
 
 ## 161A. Technology Facilities in Supreme Court Building
 
