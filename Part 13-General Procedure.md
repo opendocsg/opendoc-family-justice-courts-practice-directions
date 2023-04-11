@@ -2585,9 +2585,11 @@ Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescr
 
 > (a) that the title of the action generated using the Electronic Filing Service is accurate and correct;
 
-> (b) where an action is commenced by way of a writ of summons, that at least one nature of claim is selected that adequately represents the subject matter of the action; and
+> (b) where an action is commenced by way of a writ of summons, that at least one nature of claim is selected that adequately represents the subject matter of the action;
 
-> (c) where an action is commenced by way of an originating summons, that either the relevant legislation under which the action is brought is provided or at least one nature of claim is selected that adequately represents the subject matter of the action.
+> (c) where an action is commenced by way of an originating summons, that either the relevant legislation under which the action is brought is provided or at least one nature of claim is selected that adequately represents the subject matter of the action; and
+
+> (c) where a document submitted is a digitally verifiable document issued by the Registry of Births and Deaths, Singapore (e.g. a Digital Death Certificate or Digital Death Extract or a Digital Birth Certificate) or an electronic grant of probate or letters of administration issued by a foreign court, that its authenticity has been verified.
 
 **_Consolidated, transferred or converted cases in civil proceedings_**
 
