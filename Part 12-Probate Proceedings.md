@@ -6,26 +6,29 @@
 
 (1) An application for the grant of probate or letters of administration made under rule 208 of the Family Justice Rules shall be made by originating summons with supporting affidavit. The supporting affidavit shall exhibit a Statement in Form 51 in Appendix A of these Practice Directions, a certified true copy of the will and other supporting papers.
 
-(2) Prior to filing the originating summons, the applicant must conduct a litigation search in the record of caveats and the record of probate applications and endorse a certificate in Form 52 in Appendix A to these Practice Directions on the originating summons. The search reports shall be annexed to the originating summons.
+(2) Prior to filing the originating summons, the applicant may conduct a litigation search in the record of caveats and the record of probate applications to ascertain if there are any caveats or previous probate applications in respect of the estate and to consider whether to proceed with the filing.
 
-(3) For deaths occurring before 1 January 2015, the applicant is required to annex the search reports from the Supreme Court, Family Justice Courts and State Courts. For deaths occurring on or after 1 January 2015, the applicant is required to annex the search reports from the Family Justice Courts. The applicant is required to annex the search reports for the year in which the application for a grant is filed as well as the search reports for the years that the litigation search indicates there were applications or caveats filed with respect to the estate.
+(3) For deaths occurring before 15 December 2003, the applicant must state in the Statement in Form 51, whether to the best of the applicant’s knowledge, there are any caveats or probate applications in respect of the deceased’s estate. The applicant is not required to state the position with respect to caveats and probate applications for deaths occurring on or after 15 December 2003.
 
-(4) The originating summons and the Statement shall be submitted by entering the relevant information in the appropriate electronic form. The following documents shall be submitted at the same time as the originating summons and Statement –
+(4) The originating summons and the Statement must be submitted by entering the relevant information in the appropriate electronic form. The following documents shall be submitted at the same time as the originating summons and Statement –
 
-> (a) a certified true copy of the death certificate of the deceased or a certified true copy of the Order of Court for presumption of death of the deceased;
+> (a) where the deceased has been issued a digitally verifiable document by the Registrar of Births and Deaths, Singapore (for example, a Digital Death Certificate or Digital Death Extract) (hereinafter referred to in Part XII of these Practice Directions as a “Digital Death Certificate/Digital Death Extract”), a copy of the Digital Death Certificate/Digital Death Extract (unless the Electronic Filing System indicates that a copy of the Digital Death Certificate/Digital Death Extract is not required to be filed);
 
-> (b) where there is a Will, a certified true copy of the Will. (The certified true copy of the Will shall contain the certification “This is a certified true copy of the original Will of [name of deceased] dated [date].” on a covering page that is to be attached to the copy of the Will.); and
+> (b) where a Digital Death Certificate/Digital Death Extract is not available, a certified true copy of the death certificate of the deceased or a certified true copy of the Order of Court for presumption of death of the deceased;
 
-> (c) in the case of a resealing of a grant, a sealed certified true copy of the foreign grant.
+> (c) where there is a Will, a certified true copy of the Will. (The certified true copy of the Will shall contain the certification “This is a certified true copy of the original Will of [name of deceased] dated [date].” on a covering page that is to be attached to the copy of the Will.);
 
-(5) Once the originating summons, Statement, certified true copy of the death certificate and certified true copy of the Will/foreign grant are filed, an electronic filing checklist will be generated and a provisional reference number will be issued. The following supporting documents (whichever may be relevant) must then be filed using the electronic filing checklist:
+> (d) in the case of a resealing of a grant, a sealed certified true copy of the foreign grant; and
+
+> (e) where the foreign grant is issued by the foreign court in an electronic format, the digitally verifiable sealed foreign grant downloaded from the foreign court’s website with the certification by a solicitor “The undersigned has verified that this document is the electronic sealed foreign grant downloaded from [state the foreign court’s website] and the authenticity of this document.”.
+
+(5) Once the originating summons, Statement, death certificate (if required under sub-paragraphs 4(a) and (b)) and certified true copy of the Will/foreign grant are filed, an electronic filing checklist will be generated and a provisional reference number will be issued. The following supporting documents (whichever may be relevant) must then be filed using the electronic filing checklist:
 
 > (a) in the case of Muslim estates, a certified true copy of the inheritance certificate;
 
 > (b) in relation to deaths occurring on or after 15 February 2008, a Schedule of Assets listing the property comprising the estate of the deceased in accordance with Paragraph 67 of these Practice Directions (if available); and
 
-> (c) any other documents in support of the originating summons required under the Probate and Administration Act (Cap. 251), the Family Justice Rules or by the Court.
-
+> (c) any other documents in support of the originating summons required under the Probate and Administration Act (Cap. 251), the Family Justice Rules or by the Court. <br>
 (The administration oath under section 28 of the Probate and Administration Act may, however, be filed at the same time as the supporting affidavit under rule 208 of the Family Justice Rules as required by Paragraph 63.)
 
 (6) The electronic filing checklist will indicate the status of the documents filed. It will be the means by which the Court indicates whether any further or corrective action is required on the part of the applicant. The provisional reference number allows for the easy referencing and monitoring of the electronic filing checklist during the initial phase of filing.
@@ -129,17 +132,21 @@ days after the filing of the originating summons.
 
 (3) If the Schedule of Assets is filed at the time of the filing of the originating summons or at the time of the filing of the supporting affidavit under rule 208 of the Family Justice Rules (hereafter referred to as the “supporting affidavit”), the Schedule of Assets may be included as an exhibit to the supporting affidavit. If so included, the supporting affidavit shall include the following averment:
 
-> _“The contents of the Schedule of Assets exhibited herein as (insert exhibit number) are true and accurate in every particular to the best of my knowledge and belief. The deponent does not know or have any reason to believe that any of the contents of the Schedule of Assets is false.”_
+> _“The contents of the Schedule of Assets exhibited herein as (insert exhibit number) are true and accurate in every particular to the best of my knowledge and belief at this time. The deponent/deponents* does/do* not know or have any reason to believe that any of the contents of the Schedule of Assets is false at this time. The deponent/deponents* undertake(s) to amend the Schedule of Assets if further information regarding the assets of the estate is obtained.”_
 
 (4) If an applicant is unable to file the Schedule of Assets at the time of the filing of the originating summons or at the time of the filing of supporting affidavit, the applicant may subsequently file the Schedule of Assets and an affidavit containing the averment referred to in sub-paragraph (3) above. The affidavit should be filed under the document title “Schedule of Assets – Supplementary Affidavit”.
 
-(5) Prior to the issuance of a grant, an applicant may file an amended Schedule and a supplementary affidavit exhibiting the amended Schedule of Assets. The supplementary affidavit shall provide reasons to explain why an amendment is necessary, and shall also include the averment referred to in sub-paragraph (3) above.
-
-(6) Where the amendments to the Schedule of Assets are sought after the issuance of a grant, the applicant must obtain leave of Court to amend the Schedule of Assets. The application for leave to amend shall be made by way of summons. The draft amended Schedule of Assets in PDF format shall be annexed to the summons. The changes to be made to the latest version of the Schedule of Assets filed in Court should be indicated by —
+(5) An applicant may file an amended Schedule of Assets without the permission of the court. The applicant is to file the amended Schedule of Assets with a supplementary affidavit under the document title “Schedule of Assets – Supplementary Affidavit”. In the supplementary affidavit, the Applicant is to –
 
 > (a) drawing a single line across the words to be deleted; and
 
-> (b) underlining the words to be inserted.
+> (b) provide reasons to explain why an amendment is necessary;
+
+> (c) include the averment referred to in sub-paragraph (3) above; and
+
+> exhibit a copy of the clean version of the amended Schedule of Assets electronic form.
+
+(6) [deleted]
 
 ## 68. Security for grants of letters of administration
 
@@ -183,15 +190,9 @@ days after the filing of the originating summons.
 
 (4) The consents in writing of all adult beneficiaries to the dispensation of sureties, duly signed in the presence of a solicitor or any person before whom an affidavit can be sworn or affirmed, shall be filed with the application for dispensation of sureties.
 
-## 70. Caveat and probate application searches to be conducted when requesting to extract grant
+## 70. Issuance of grant
 
-(1) Prior to filing a request to extract a grant, the applicant or his solicitors must conduct a litigation search in the record of caveats and the record of probate applications to ascertain if there are any caveats in force or pending probate applications in respect of the estate of the deceased.
-
-(2) The search reports shall be annexed to the request to extract a grant.
-
-(3) For deaths occurring before 1 January 2015, the applicant is required to annex the search reports from the Supreme Court, Family Justice Courts and State Courts. For deaths occurring on or after 1 January 2015, the applicant is required to annex the search reports from the Family Justice Courts. The applicant is required to annex the search reports for the year in which the request to extract a grant is filed as well as the search reports for the years that the litigation search indicates there were applications or caveats filed with respect to the estate.
-
-(4) The request to extract a grant shall contain the certificate in accordance with rule 237(3) of the Family Justice Rules.
+With effect from 12 April 2023, an applicant is not required to file a request to extract a grant. For originating summonses filed before 12 April 2023, the applicant must file the appropriate Request in the Electronic Filing Service if the applicant requires a printed grant in addition to an electronic grant.
 
 ## 71. Amended grants and re-grants
 
