@@ -138,7 +138,7 @@ days after the filing of the originating summons.
 
 (5) An applicant may file an amended Schedule of Assets without the permission of the court. The applicant is to file the amended Schedule of Assets with a supplementary affidavit under the document title “Schedule of Assets – Supplementary Affidavit”. In the supplementary affidavit, the Applicant is to –
 
-> (a) drawing a single line across the words to be deleted; and
+> (a) state the amendment to be made to the Schedule of Assets;
 
 > (b) provide reasons to explain why an amendment is necessary;
 
