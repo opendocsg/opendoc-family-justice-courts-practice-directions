@@ -144,7 +144,7 @@ days after the filing of the originating summons.
 
 > (c) include the averment referred to in sub-paragraph (3) above; and
 
-> exhibit a copy of the clean version of the amended Schedule of Assets electronic form.
+> (d) exhibit a copy of the clean version of the amended Schedule of Assets electronic form.
 
 (6) [deleted]
 
