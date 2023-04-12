@@ -206,6 +206,6 @@ the grantee shall file 2 copies of a fresh grant for signing and sealing at the 
 
 (2) The fresh grant shall be printed on good quality beige coloured paper (100 gsm). The grantee shall indicate on the fresh grant “Grant (Amendment No. 1)” or “Grant (Re- grant No. 1)” or as appropriate.
 
-(3) The practice of releasing the original grant in the court file for the grantee to make amendments thereon shall be discontinued.
+(3) The practice of releasing the original grant in the court file for the grantee to make amendments thereon shall be discontinued. 
 
 (4) In all cases where an order is made for a grant to be revoked and re-granted, the grantee shall bring into and leave at the Registry the original grant.
