@@ -1105,11 +1105,11 @@ The following are examples of law reports that should be used for citation:
 	  <td>SGFC</td>
   </tr>
   <tr>
-	  <td>Year of the decision</td>
+	  <td>Singapore Youth Courts</td>
 	  <td>SGYC</td>
   </tr>
   <tr>
-	  <td>Year of the decision</td>
+	  <td>Singapore District Court</td>
 	  <td>SGDC</td>
   </tr>
 </tbody>
