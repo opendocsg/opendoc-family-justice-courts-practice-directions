@@ -1,4 +1,0 @@
-list.txt
-Sample A - Bill of Costs for Contentious Business - Trials v3.docx
-Sample B - Bill of Costs for Contentious Business Other Than Trials v2.docx
-Sample C - Bill of Costs for Non-Contentious Business.docx
